@@ -1,0 +1,153 @@
+/*html {
+  background-color: #cccacae7;
+}*/
+
+html {margin: 0 2%
+
+}
+
+.header {  
+  position: relative;
+	background-color: #6ac76a;  
+	top: 0;  
+	z-index: 50;  
+	margin: 10px;
+  text-align: center;
+  padding: 10px;
+  border-radius: 10px;
+	}
+
+.logo {
+  position: absolute;
+  width: 7%;;
+  left: 10px;
+  /*text-shadow: 2px 12px #07119b;
+   box-shadow: 2px 1px 0px #3e3e3f, 0 0 1em #3e3e3f ;*/
+  }
+
+  .work-time {
+    display: block;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    padding-top: 10px;
+    padding-right: 10px;
+    text-align: center;
+    font-size: 1.3em;
+    color: #3e3e3f;
+  }
+  
+.blok-contacts {
+    /*position: absolute;
+    bottom: 0;*/
+    display: block;
+    margin-top: 10pxS;
+    right: 2%;
+    
+    text-align: right;
+    font-size: 1.2em;
+    transition: font-size 1s;
+  }
+.blok-contacts:hover {
+  font-size: 1.4em;
+}
+  
+  h1 {
+    display: block;
+    position: relative;
+    width: 50%;
+    left: 25%;
+    color: #e8ece8;
+    font-size: 50px;
+    -webkit-text-stroke: 0.5px #0f0f0fee;
+    text-shadow: 0px 0px 15px #020133;
+  }
+
+
+
+/*================== блок товара ==========================*/
+.wrapper-block {
+  margin: 10px;
+  padding: 5px;
+  position: relative;
+  height: 250px;
+  font-size: 200%;
+  text-align: center;
+  border: #5a5c5b;
+  border-style:double;
+  border-radius: 8px;
+  z-index: 10;
+
+}
+.wrapper-block:hover {
+  box-shadow: 2px 1px 0px #3e3e3f, 0 0 1em #3e3e3f/*, 0 0 0.4em #0a0814 */ ;
+  z-index: 2;
+}
+
+.category-goods {
+  top: 0%;
+  position:  sticky;
+  margin: 10px;
+  padding: 5px;
+  background-color: rgb(150, 207, 233);
+  border-radius: 8px;
+  height: 50px;
+  font-size: 40px;
+  text-align: center;
+  color: darkblue;
+  z-index: 15;
+
+}
+
+.block-img {
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  height: 90%;
+  font-size: 50%;
+}
+
+.block-name-goods {
+  /*display: block;
+  position: relative;*/
+  right: 0px;
+  width: 70%;
+  color: blue;
+  height: 100%;
+}
+
+.text-goods-name {
+  position: absolute;
+  left: 300px;
+  align-items: center;
+  margin-top: 50px;  
+  font-size: 1.5em;
+}
+
+.text-goods-price {
+  display: block;
+  position: absolute;
+  bottom: 0px;
+  left: 350px;
+  color: #10c236;
+  font-size: 220%;
+  text-align: right;
+  text-shadow: 2px 2px #6feb56;
+}
+.text-code-goods {
+  display: block;
+  position: absolute;
+  bottom: 0px;
+  left: 20px;
+  color: #10c236;
+  font-size: 60%;
+  text-align: right;
+  z-index: 13;
+  /*text-shadow: 2px 2px #6feb56;*/
+}
+
+/*@media screen, (max-width: 460px) {
+  .text-goods-price {
+    font-size: 50%;
+  }
+}*/
