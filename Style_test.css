@@ -147,13 +147,14 @@ html {
   /*text-shadow: 2px 2px #6feb56;*/
 }
 
+
 .btn-contacts{
   position: fixed; 
   opacity: 70%;
-  font-size: 1.1em; 
-  height: 50px;
-  width: 100px;
-  bottom: 10px;
+  font-size:xx-large; 
+  height: 8%;
+  width: 20%;
+  bottom: 2%;
   border: #020133;
   border-style:groove; 
   border-radius: 10px;
@@ -169,3 +170,8 @@ html {
   z-index: 15;
 }
 
+/*@media screen, (max-width: 460px) {
+  .text-goods-price {
+    font-size: 50%;
+  }
+}*/
