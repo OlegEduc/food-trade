@@ -100,17 +100,18 @@ html {
   position: absolute;
   top: 3px;
   left: 3px;
-  height: 230px;
+  height: 250px;
 }
 
 .block-name-goods {
   /*display: block;
   position: relative;*/
+  margin-bottom: 2px;
   right: 0px;
   width: 70%;
   color: blue;
   height: 100%;
-  font-size: 150%;
+  font-size: 120%;
 }
 
 .text-goods-name {
@@ -124,7 +125,7 @@ html {
   display: block;
   position: absolute;
   bottom: 0px;
-  left: 350px;
+  left: 280px;
   color: #10c236;
   font-size: 220%;
   text-align: right;
