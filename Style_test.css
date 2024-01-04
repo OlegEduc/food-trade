@@ -102,6 +102,7 @@ html {
   top: 3px;
   left: 3px;
   height: 250px;
+  font-size: small;
 }
 
 .block-name-goods {
@@ -111,7 +112,7 @@ html {
   right: 0px;
   width: 70%;
   color: blue;
-  height: 100%;
+  /*height: 1.5em;*/
   font-size: 120%;
 }
 
@@ -120,6 +121,7 @@ html {
   left: 300px;
   align-items: center;
   margin-top: 50px;
+  font-size: 1.2em;
 }
 
 .text-goods-price {
@@ -128,7 +130,7 @@ html {
   bottom: 0px;
   left: 280px;
   color: #10c236;
-  /*font-size: 120%;*/
+  font-size: 1.5em;
   text-align: right;
   text-shadow: 2px 2px #6feb56;
 }
