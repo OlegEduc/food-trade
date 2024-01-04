@@ -1,6 +1,10 @@
 /*html {
   background-color: #cccacae7;
 }*/
+html {
+  margin: 0 5% ;
+}
+
 .header {  
   position: relative;
 	background-color: #6ac76a;  
@@ -84,8 +88,11 @@
   height: 50px;
   font-size: 40px;
   text-align: center;
-  width: 100%;
   color: darkblue;
+  top: 0;
+  position: sticky;
+  z-index: 15;
+  border-radius: 5px;
 
 }
 
