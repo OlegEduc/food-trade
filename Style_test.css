@@ -1,11 +1,6 @@
 /*html {
   background-color: #cccacae7;
 }*/
-
-html {margin: 0 2%
-
-}
-
 .header {  
   position: relative;
 	background-color: #6ac76a;  
@@ -21,8 +16,7 @@ html {margin: 0 2%
   position: absolute;
   width: 7%;;
   left: 10px;
-  /*text-shadow: 2px 12px #07119b;
-   box-shadow: 2px 1px 0px #3e3e3f, 0 0 1em #3e3e3f ;*/
+  text-shadow: 2px 2px #07119b;
   }
 
   .work-time {
@@ -85,17 +79,13 @@ html {margin: 0 2%
 }
 
 .category-goods {
-  top: 0%;
-  position:  sticky;
   margin: 10px;
-  padding: 5px;
-  background-color: rgb(150, 207, 233);
-  border-radius: 8px;
+  background-color: rgb(7, 139, 201);
   height: 50px;
   font-size: 40px;
   text-align: center;
+  width: 100%;
   color: darkblue;
-  z-index: 15;
 
 }
 
@@ -103,8 +93,7 @@ html {margin: 0 2%
   position: absolute;
   top: 3px;
   left: 3px;
-  height: 90%;
-  font-size: 50%;
+  height: 230px;
 }
 
 .block-name-goods {
@@ -114,14 +103,14 @@ html {margin: 0 2%
   width: 70%;
   color: blue;
   height: 100%;
+  font-size: 150%;
 }
 
 .text-goods-name {
   position: absolute;
   left: 300px;
   align-items: center;
-  margin-top: 50px;  
-  font-size: 1.5em;
+  margin-top: 50px;
 }
 
 .text-goods-price {
@@ -138,11 +127,10 @@ html {margin: 0 2%
   display: block;
   position: absolute;
   bottom: 0px;
-  left: 20px;
+  right: 20px;
   color: #10c236;
   font-size: 60%;
   text-align: right;
-  z-index: 13;
   /*text-shadow: 2px 2px #6feb56;*/
 }
 
