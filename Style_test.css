@@ -3,7 +3,7 @@
 }*/
 html {
   position: relative;
-  margin: 0 5% ;
+  margin: 0 1% ;
 }
 
 .header {  
@@ -150,23 +150,21 @@ html {
 
 .btn-contacts{
   position: fixed; 
-  opacity: 70%;
-  font-size:xx-large; 
+  opacity: 60%;
+  font-size:150%; 
   height: 8%;
   width: 20%;
   bottom: 2%;
   border: #020133;
   border-style:groove; 
-  border-radius: 10px;
+  border-radius: 50px;
   left: 10%;
   z-index: 15;
 }
 
 .btn-contacts:hover{
-  opacity: 100%;
-  bottom: 10px;
+  opacity: 90%;
   left: 2%px;
-  background-color: #8599f3; 
   z-index: 15;
 }
 
