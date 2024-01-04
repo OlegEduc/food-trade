@@ -2,7 +2,7 @@
   background-color: #cccacae7;
 }*/
 html {
-  margin: 0 2% ;
+  margin: 0 5% ;
 }
 
 .header {  
@@ -127,7 +127,7 @@ html {
   bottom: 0px;
   left: 280px;
   color: #10c236;
-  font-size: 220%;
+  /*font-size: 120%;*/
   text-align: right;
   text-shadow: 2px 2px #6feb56;
 }
