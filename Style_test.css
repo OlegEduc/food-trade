@@ -147,7 +147,6 @@ html {
   /*text-shadow: 2px 2px #6feb56;*/
 }
 
-
 .btn-contacts{
   position: fixed; 
   opacity: 70%;
@@ -170,8 +169,3 @@ html {
   z-index: 15;
 }
 
-/*@media screen, (max-width: 460px) {
-  .text-goods-price {
-    font-size: 50%;
-  }
-}*/
