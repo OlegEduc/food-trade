@@ -1,6 +1,4 @@
-/*html {
-  background-color: #cccacae7;
-}*/
+
 html {
   position: relative;
   margin: 0 1% ;
@@ -15,6 +13,7 @@ html {
   text-align: center;
   padding: 10px;
   border-radius: 10px;
+  min-height: 160px;
 	}
 
 .logo {
@@ -32,7 +31,7 @@ html {
     padding-top: 10px;
     padding-right: 10px;
     text-align: center;
-    font-size: 1.3em;
+    font-size: 2.5em;
     color: #3e3e3f;
   }
   
@@ -47,6 +46,7 @@ html {
     font-size: 1.2em;
     transition: font-size 1s;
   }
+
 .blok-contacts:hover {
   font-size: 1.4em;
 }
@@ -62,9 +62,8 @@ html {
     text-shadow: 0px 0px 15px #020133;
   }
 
-
-
 /*================== блок товара ==========================*/
+
 .wrapper-block {
   margin: 10px;
   padding: 15px;
@@ -104,7 +103,7 @@ html {
   top: 3px;
   left: 3px;
   height: 250px;
-  font-size: small;
+  font-size: small; 
 }
 
 .block-name-goods {
@@ -148,28 +147,49 @@ html {
 }
 
 
-.btn-contacts{
+.btn {
   position: fixed; 
   opacity: 60%;
   font-size:150%; 
   height: 8%;
   width: 20%;
+  min-width: 250px;
   bottom: 2%;
   border: #020133;
   border-style:groove; 
   border-radius: 50px;
   left: 10%;
   z-index: 15;
+  cursor: pointer;
 }
 
-.btn-contacts:hover{
+.btn:hover {
   opacity: 90%;
   left: 2%px;
   z-index: 15;
 }
 
-/*@media screen, (max-width: 460px) {
-  .text-goods-price {
-    font-size: 50%;
+/*
+@media (max-width: 440px) {
+  html {
+    background-color: #07119b;
   }
-}*/
+}
+
+@media (max-width: 1040px) {
+  html {
+    background-color: #bd0a4f;
+  }
+}
+*/
+.footer {
+  position: fixed;
+  height: 200px;
+  bottom: 20px;
+  /* margin: 46px; */
+  bottom: -98px;
+  width: 95%;
+  z-index: 12;
+  /*position: relative;
+  height: 100px;*/
+}
