@@ -31,8 +31,8 @@ html {
     padding-top: 10px;
     padding-right: 10px;
     text-align: center;
-    font-size: 2.5em;
     color: #3e3e3f;
+    font-size: 2em;
   }
   
 .blok-contacts {
@@ -175,13 +175,20 @@ html {
     background-color: #07119b;
   }
 }
+*/
 
 @media (max-width: 1040px) {
-  html {
-    background-color: #bd0a4f;
+  .work-time {
+    display: none;
+  }
+  .category-goods {
+    height: 150px;
+    font-size: 100px;
+    padding-top: 20px;
   }
 }
-*/
+
+
 .footer {
   position: fixed;
   height: 200px;
