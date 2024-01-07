@@ -73,6 +73,7 @@
     text-align: center;
     background-color: blue;
     min-height: 50px;
+    max-height: 105px;
     color: #ffffff;
     font-size: 1.5em;
     width: 100%;
@@ -242,7 +243,7 @@
         height: 60px;
     }
 
-    .footer span {
+    .footer  span {
         display: block;
         width: 100%;
         text-align: center;
