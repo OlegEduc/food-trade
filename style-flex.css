@@ -1,0 +1,272 @@
+/* header */
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Tahoma, Verdana, sans-serif;
+
+}
+
+.header {
+    display: flex;
+    flex-wrap: nowrap;
+    min-height: 100px;
+    width: 100%;
+    background-color: #6ac76a;
+}
+
+.logo {
+    display: none;
+    /**/
+    align-items: center;
+    justify-content: center;
+    min-width: 100px;
+    max-width: 7%;
+}
+
+.logo img {
+    display: flex;
+    object-fit: cover;
+    max-height: 90%;
+    max-width: 77%;
+    padding: 10px;
+}
+
+
+.title-page {
+    display: flex;
+    min-width: 85%;
+    text-align: center;
+    font-size: 1.5em;
+    align-items: center;
+    justify-content: center;
+}
+
+.title-page h1 {
+    display: block;
+
+}
+
+.work-time {
+    display: flex;
+    min-width: 30%;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2em;
+    padding: 3px;
+}
+
+.head-wrap {
+    display: flex;
+    flex-direction: column;
+    max-height: 200px;
+    flex: 5;
+}
+
+
+/* catrgory */
+.category-goods {
+    position: sticky;
+    top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: blue;
+    min-height: 50px;
+    color: #ffffff;
+    font-size: 1.5em;
+}
+
+
+
+/* карточки товара */
+.main-conteiner-good {
+    width: 100%;
+    display: flex;
+    /*box-shadow: bisque;*/
+    flex-wrap: wrap;
+    border: 5px solid wheat;
+    min-width: 70%;
+    height: auto;
+    z-index: 10;
+}
+
+.main-conteiner-good div {
+    padding: 0px;
+    /*border: 2px solid green;
+    max-height: 30%;*/
+}
+
+.inner-div-foto img {
+    display: flex;
+    object-fit: cover;
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.inner-div-foto {
+    display: flex;
+    /*background-color: rgb(34, 204, 12);*/
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+    min-width: 180px;
+    min-height: 150px;
+}
+
+.inner-div-goods {
+    flex: 3;
+    min-width: 180px;
+}
+
+.inner-div-goods span {
+    height: auto;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.inner-div-goods .text-goods-name {
+    display: flex;
+    height: auto;
+    text-align: center;
+    color: blue;
+    font-size: 200%;
+    min-height: 55%;
+}
+
+.inner-div-goods .text-goods-price {
+    object-fit: cover;
+    justify-content: left;
+    padding-left: 10%;
+    height: auto;
+    color: #0dbe34;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3em;
+    font-style: bold;
+    /*text-shadow: 2px 2px #295e1f;*/
+    bottom: 0px;
+}
+
+/* footer */
+.footer {
+    display: none;
+}
+
+/* */
+.calls {
+    display: block;
+    position: absolute;
+    background-color: blue;
+}
+
+.dropdown-calls a {
+    display: block;
+    background-color: blue;
+    color: white;
+    width: 50%;
+    height: 100%;
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+
+/* для мобильного */
+
+@media (max-width: 560px) {
+    html {
+        padding: 0;
+    }
+
+    /* header */
+
+    .title-page {
+        font-size: 0.8em;
+        min-height: 60%;
+    }
+
+    .work-time {
+        font-size: 0.8em;
+        padding: 0px;
+    }
+
+
+    /* goods */
+
+    .main-conteiner-good {
+        flex-direction: column;
+    }
+
+    .inner-div-foto {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex: 1;
+        min-width: 210px;
+    }
+
+    .inner-div-foto img {
+        display: flex;
+        object-fit: cover;
+        max-height: 50%;
+        max-width: 50%;
+    }
+
+
+    .inner-div-goods .text-goods-price {
+        font-size: 2em;
+        padding: 0px;
+        justify-content: center;
+    }
+
+    .inner-div-goods .text-goods-name {
+        padding: 3px;
+        font-size: 150%;
+        min-height: 60%;
+        background-color: rgb(236, 236, 236);
+    }
+
+    /* footer */
+
+    .footer {
+        display: flex;
+        position: fixed;
+        bottom: 0;
+        flex-wrap: nowrap;
+        min-width: 100%;
+
+        height: 60px;
+    }
+
+    .footer span {
+        display: block;
+        width: 100%;
+        text-align: center;
+        padding-top: 15px;
+        font-size: 1.5rem;
+
+    }
+
+    .go-to-start {
+        display: flex;
+        background-color: blue;
+        color: wheat;
+        border: 2px white;
+        max-width: 50%;
+        flex: 1;
+        border: 1px solid wheat;
+    }
+
+    .calls {
+        display: flex;
+        position: relative;
+        background-color: blue;
+        color: wheat;
+        border: 2px white;
+        max-width: 75%;
+        flex: 1;
+        /*height: 100px;*/
+        border: 1px solid wheat;
+    }
+
+}
