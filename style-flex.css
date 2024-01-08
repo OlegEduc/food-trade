@@ -100,7 +100,7 @@
 
 .inner-div-foto img {
     display: flex;
-    object-fit: cover;
+    object-fit: fill;
     max-height: 100%;
     max-width: 100%;
 }
@@ -202,19 +202,14 @@
         flex-direction: column;
     }
 
-    .inner-div-foto {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        flex: 1;
-        min-width: 210px;
-    }
+    /*.inner-div-foto {      
+        position: relative;
+        
+    }*/
 
     .inner-div-foto img {
-        display: flex;
-        object-fit: cover;
-        max-height: 50%;
-        max-width: 50%;
+       display: flex;
+        object-fit:fill;
     }
 
 
@@ -226,7 +221,7 @@
 
     .inner-div-goods .text-goods-name {
         padding: 3px;
-        font-size: 150%;
+        font-size: 1.5rem;
         min-height: 60%;
         background-color: rgb(236, 236, 236);
     }
