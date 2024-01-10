@@ -278,6 +278,7 @@
     .inner-div-foto img {
         max-width: 50%;
         max-height: 50%;
+        overflow: hidden;
     }
 
 
