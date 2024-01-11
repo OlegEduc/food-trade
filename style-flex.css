@@ -342,7 +342,7 @@
         top: auto;
         bottom: 0px;
         flex-wrap: nowrap;
-        min-width: 96%;
+        min-width: 94%;
         height: 50px;
         background-color: blue;
     }
