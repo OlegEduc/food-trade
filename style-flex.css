@@ -238,6 +238,25 @@
     text-decoration: none;
 }
 
+#btn-google-maps {
+    position: fixed;
+    bottom: 80px;
+    right: 40px;
+    width: 50px;
+    height: 50px;
+    border: 1px solid blue;
+    border-radius: 50%;
+    background-image: url('image/google-maps.png');
+    background-size: cover;
+    opacity: 50%;
+    z-index: 12;
+  }
+
+#btn-google-maps a {
+    display: block;
+    height: 100%;
+    width: 100%;
+} 
 
 
 /******* для мобильного media (max-width: 560px) ***************/
@@ -250,7 +269,7 @@
 
     /* header */
     .wrapper-contnt {
-        width: 98%;
+        width: 97%;
         left: 0;
     }
 
@@ -275,6 +294,11 @@
     #email {
         display: none
     }
+
+     #my-route {
+        display: none
+    }
+
 
     /* goods */
       
