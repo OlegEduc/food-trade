@@ -248,7 +248,7 @@
     border-radius: 50%;
     background-image: url('image/google-maps.png');
     background-size: cover;
-    opacity: 50%;
+    opacity: 80%;
     z-index: 12;
   }
 
