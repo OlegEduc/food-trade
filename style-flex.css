@@ -36,8 +36,8 @@
 .logo img {
     display: flex;
     object-fit: cover;
-    max-height: 90%;
-    max-width: 77%;
+    max-height: 130%;
+    max-width: 130%;
     padding: 10px;
 }
 
