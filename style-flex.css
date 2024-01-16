@@ -368,9 +368,11 @@
         flex: 1;
         border: 1px solid wheat;
     }
-     .go-to-start span {
+    .go-to-start span {
         padding-top: 9%;
         transform: rotate(270deg);
+}
+
 
     .menu-category {
         /*display: flex;
