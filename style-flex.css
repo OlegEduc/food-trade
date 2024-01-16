@@ -373,9 +373,9 @@
         /*display: flex;
         position: relative;
         background-color: blue;
-        color: wheat;
-        border: 2px white;*/
-        max-width: 20%;
+        color: wheat;*/
+        border: 1px solid wheat;
+        max-width: 50%;
         height: 100%;
         flex: 1;
         max-height: 100%;
