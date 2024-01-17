@@ -191,7 +191,7 @@
     font-size: 1.1rem;
 }
 
-.go-to-start {
+.go-to-start {    
     display: flex;
     position: relative;
     background-color: blue;
@@ -202,6 +202,10 @@
     max-block-size: 10%;
     border-bottom: 2px solid wheat ;
 }
+.go-to-start span {
+    transform: rotate(270deg);
+}
+
 
 .menu-category {
     display: flex;
