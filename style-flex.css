@@ -21,7 +21,7 @@
     min-height: 100px;
     width: 98%;
     background-color: #6ac76a;
-    border: 5px solid #6ac76a;
+    border: 3px solid #6ac76a;
 }
 
 .logo {
@@ -96,7 +96,7 @@
     color: #ffffff;
     font-size: 1.2em;
     width: 98%;
-    border: 5px solid blue;
+    border: 3px solid blue;
     z-index: 12;
 }
 
@@ -107,14 +107,16 @@
     display: flex;
     /*box-shadow: bisque;*/
     flex-wrap: wrap;
-    border: 5px solid wheat;
+    border: 3px solid wheat;
     min-width: 70%;
     height: auto;
     z-index: 10;
+    margin: 2px 0px;
+    padding-bottom: 20px;
 }
 
 .main-conteiner-good div {
-    padding: 0px;
+    padding-bottom: 20px;
     /*border: 2px solid green;
     max-height: 30%;*/
 }
@@ -138,29 +140,35 @@
 .inner-div-goods {
     flex: 3;
     min-width: 180px;
+    flex: 3;
 }
 
 .inner-div-goods span {
     height: auto;
-    background-color: white;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
-.inner-div-goods .text-goods-name {
+.text-goods-name {
     display: flex;
     height: auto;
     text-align: center;
     color: blue;
     font-size: 200%;
     min-height: 55%;
+    background-color: white;
 }
 
-.inner-div-goods .text-goods-price {
+.text-min-qty {
+    display: block;
+    color: #6ac76a;
+    font-size: 150%;
+}
+
+.text-goods-price {
     object-fit: cover;
     justify-content: left;
-    padding-left: 10%;
     height: auto;
     color: #0dbe34;
     font-family: 'Times New Roman', Times, serif;
@@ -201,6 +209,7 @@
     flex: 1;
     max-block-size: 10%;
     border-bottom: 2px solid wheat ;
+
 }
 .go-to-start span {
     transform: rotate(270deg);
@@ -262,6 +271,13 @@
     width: 100%;
 } 
 
+/******* для мобильного media (max-width: 900px) ***************/
+@media (max-width: 900px) {
+      .logo {
+        display: none;
+    }
+
+}
 
 /******* для мобильного media (max-width: 560px) ***************/
 
@@ -273,7 +289,7 @@
 
     /* header */
     .wrapper-contnt {
-        width: 97%;
+        width: 99%;
         left: 0;
     }
 
@@ -281,18 +297,14 @@
         padding: 3px 0px;
     }
 
-    .logo {
-        display: none;
-    }
-    
-
+  
     .title-page {
         font-size: 0.8em;
         min-height: 60%;
     }
 
     .work-time {
-        font-size: 0.8em;
+        font-size: 0.9em;
         padding: 0px;
     }
     #email {
@@ -314,7 +326,12 @@
         flex-direction: column;
         width: 98%;
         overflow: hidden;
+        padding: 10px 0px;
     }
+
+     .main-conteiner-good div {        
+        padding: 0;
+     }
 
     .inner-div-foto img {
         /*display: flex;
@@ -324,17 +341,23 @@
     }
 
 
-    .inner-div-goods .text-goods-price {
+    .text-goods-price {
         font-size: 2em;
         padding: 0px;
         justify-content: center;
     }
 
-    .inner-div-goods .text-goods-name {
-        padding: 3px;
+    .text-goods-name {
+        padding: 10px 0px;
         font-size: 1.5rem;
         min-height: 60%;
-        background-color: rgb(236, 236, 236);
+        background-color: #81e76599;
+    }
+
+    .text-min-qty {
+        display: block;
+        color: #0dbe34;
+        font-size: large;
     }
 
     /* footer */
@@ -346,7 +369,7 @@
         top: auto;
         bottom: 0px;
         flex-wrap: nowrap;
-        min-width: 94%;
+        min-width: 95%;
         height: 50px;
         background-color: blue;
     }
