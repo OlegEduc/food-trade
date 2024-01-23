@@ -199,6 +199,10 @@
     font-size: 1.1rem;
 }
 
+.footer div {
+    min-height: 80px;
+}
+
 .go-to-start {    
     display: flex;
     position: relative;
