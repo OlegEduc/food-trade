@@ -1,3 +1,4 @@
+
 .go-to-start a {
   width: 100%;
   color: wheat;
@@ -73,9 +74,9 @@
   text-align: center;
 }
 
-/* для мобильного media (max-width: 560px) ***************/
+/* для мобильного media (max-width: 590px) ***************/
 
-@media (max-width: 560px) {
+@media (max-width: 590px) {
 
   .go-to-start {
     position: fixed;

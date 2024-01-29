@@ -1,9 +1,7 @@
 /* header */
-* {
-    
+/* * {
     font-family: Tahoma, Verdana, sans-serif;
-
-}
+} */
 
 .wrapper-contnt {
     display: flex;
@@ -65,11 +63,12 @@
     justify-content: center;
     font-size: 1.1rem;
     padding: 3px;
-  
+
 }
+
 #email {
     display: block;
-    color: wheat;  
+    color: wheat;
     text-align: center;
 }
 
@@ -100,6 +99,10 @@
     z-index: 12;
 }
 
+h2 {
+    color: #42ff42;
+}
+
 
 /* карточки товара */
 .main-conteiner-good {
@@ -107,7 +110,7 @@
     display: flex;
     /*box-shadow: bisque;*/
     flex-wrap: wrap;
-    border: 3px solid wheat;
+    border: 3px solid #81e76599;
     min-width: 70%;
     height: auto;
     z-index: 10;
@@ -172,9 +175,8 @@
     height: auto;
     color: #0dbe34;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 3em;
+    font-size: 2.5rem;
     font-style: bold;
-    /*text-shadow: 2px 2px #295e1f;*/
     bottom: 0px;
 }
 
@@ -191,19 +193,8 @@
     background-color: blue;
 }
 
-.footer span {
-    display: block;
-    width: 98%;
-    text-align: center;
-    padding-top: 15px;
-    font-size: 1.1rem;
-}
 
-.footer div {
-    min-height: 80px;
-}
-
-.go-to-start {    
+.go-to-start {
     display: flex;
     position: relative;
     background-color: blue;
@@ -212,13 +203,21 @@
     max-width: 100%;
     flex: 1;
     max-block-size: 10%;
-    border-bottom: 2px solid wheat ;
-
-}
-.go-to-start span {
-    transform: rotate(270deg);
+    border-bottom: 2px solid wheat;
 }
 
+#text-up {
+    height: 100%;
+    color: yellow;
+    font-size: x-large;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    position: relative;
+    background-color: blue;
+    max-width: 100%;
+    flex: 1;
+}
 
 .menu-category {
     display: flex;
@@ -230,6 +229,19 @@
     flex: 1;
     max-block-size: 10%;
     border-bottom: 2px solid wheat;
+    align-items: center;
+}
+
+#text-category {
+    height: 100%;
+    color: yellow;
+    font-size: large;
+    justify-content: center;
+    display: flex;
+    position: relative;
+    background-color: blue;
+    max-width: 100%;
+    flex: 1;
 }
 
 .calls {
@@ -244,6 +256,18 @@
     border-bottom: 2px solid wheat;
 }
 
+#text-call {
+    height: 100%;
+    color: yellow;
+    font-size: large;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    position: relative;
+    background-color: blue;
+    max-width: 100%;
+    flex: 1;
+}
 
 .dropdown-calls a {
     display: block;
@@ -267,28 +291,29 @@
     background-size: cover;
     opacity: 80%;
     z-index: 12;
-  }
+}
 
 #btn-google-maps a {
     display: block;
     height: 100%;
     width: 100%;
-} 
+}
 
 /******* для мобильного media (max-width: 900px) ***************/
 @media (max-width: 900px) {
-      .logo {
+    .logo {
         display: none;
     }
+
     .footer div {
-    min-height: 0px;
-}
+        min-height: 0px;
+    }
 
 }
 
 /******* для мобильного media (max-width: 560px) ***************/
 
-@media (max-width: 560px) {
+@media (max-width: 590px) {
     html {
         margin-top: 5px;
         margin-bottom: 5px;
@@ -304,7 +329,7 @@
         padding: 3px 0px;
     }
 
-  
+
     .title-page {
         font-size: 0.8em;
         min-height: 60%;
@@ -314,19 +339,20 @@
         font-size: 0.9em;
         padding: 0px;
     }
+
     #email {
         display: none
     }
 
-     #my-route {
+    #my-route {
         display: none
     }
 
 
     /* goods */
-      
-    .category-goods {       
-        font-size: 0.8rem;      
+
+    .category-goods {
+        font-size: 1.0rem;
     }
 
     .main-conteiner-good {
@@ -336,13 +362,11 @@
         padding: 10px 0px;
     }
 
-     .main-conteiner-good div {        
+    .main-conteiner-good div {
         padding: 0;
-     }
+    }
 
     .inner-div-foto img {
-        /*display: flex;
-        object-fit: fill;*/
         max-width: 60%;
         max-height: 60%;
     }
@@ -352,6 +376,7 @@
         font-size: 2em;
         padding: 0px;
         justify-content: center;
+        font-weight: 800;
     }
 
     .text-goods-name {
@@ -363,7 +388,7 @@
 
     .text-min-qty {
         display: block;
-        color: #0dbe34;
+        color: rgb(13, 190, 52);
         font-size: large;
     }
 
@@ -381,14 +406,14 @@
         background-color: blue;
     }
 
-    .footer span {
+    /* .footer span {
         display: block;
         width: 100%;
         text-align: center;
         padding-top: 8px;
         font-size: 1.3rem;
         color: white;
-    }
+    } */
 
     .go-to-start {
         display: flex;
@@ -402,17 +427,8 @@
         flex: 1;
         border: 1px solid wheat;
     }
-    .go-to-start span {
-        padding-top: 2%;
-        transform: rotate(270deg);
-}
-
 
     .menu-category {
-        /*display: flex;
-        position: relative;
-        background-color: blue;
-        color: wheat;*/
         border: 1px solid wheat;
         max-width: 50%;
         height: 100%;
@@ -420,17 +436,61 @@
         max-height: 100%;
     }
 
+    #text-category {
+        display: flex;
+        position: relative;
+        align-items: center;
+        justify-content: center;
+        min-height: auto;
+
+    }
+
+    #text-category img {
+        display: flex;
+        object-fit: cover;
+        max-height: min-content;
+        max-width: 20%;
+    }
+
+
     .calls {
         display: flex;
         position: relative;
         background-color: blue;
         color: wheat;
         border: 2px white;
-        max-width: 75%;
+        max-width: 50%;
         flex: 1;
         border: 1px solid wheat;
         max-height: 100%;
     }
+
+
+    #text-call {
+        min-height: auto;
+    }
+
+
+    #text-call img {
+        display: flex;
+        object-fit: cover;
+        max-height: min-content;
+        max-width: 20%;
+    }
+
+    /*.text-min-qty {
+        position: relative;
+        right: 32%;
+        width: auto;
+        rotate: -30deg;
+        font-weight: 900;
+        font-size: 1.3em;
+        color: rgb(222, 50, 20);
+        text-shadow: 0px 0px 10px rgb(13, 190, 52, 2);
+
+          
+    }*/
+
 }
 
 /* THE END для мобильного media (max-width: 560px) ***************/
