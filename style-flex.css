@@ -308,7 +308,9 @@ h2 {
   height: 25%;
   border: 0;
 }
-
+.logo-viber {
+  height: 20px;
+}
 /******* ÃÂ´ÃÂ»Ã‘Â ÃÂ¼ÃÂ¾ÃÂ±ÃÂ¸ÃÂ»Ã‘Å’ÃÂ½ÃÂ¾ÃÂ³ÃÂ¾ media (max-width: 900px) ***************/
 @media (max-width: 900px) {
   .logo {
