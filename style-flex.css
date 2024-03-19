@@ -101,6 +101,7 @@ h2 {
 
 /* ÃÂºÃÂ°Ã‘â‚¬Ã‘â€šÃÂ¾Ã‘â€¡ÃÂºÃÂ¸ Ã‘â€šÃÂ¾ÃÂ²ÃÂ°Ã‘â‚¬ÃÂ° */
 .main-conteiner-good {
+  position: relative;
   width: 98%;
   display: flex;
   /*box-shadow: bisque;*/
@@ -118,8 +119,6 @@ h2 {
 
 .main-conteiner-good div {
   padding-bottom: 20px;
-  /*border: 2px solid green;
-    max-height: 30%;*/
 }
 
 .inner-div-foto img {
@@ -143,14 +142,18 @@ h2 {
   display: flex;
   flex-direction: column;
   position: relative;
-  /* min-width: 180px; */
-  /* flex: 3; */
 }
 
-.inner-div-goods span {
-  /* height: auto; */
+.best-price {
   display: flex;
-  /* align-items: flex-end; */
+  max-width: 40%;
+  position: absolute;
+  top:30%;
+}
+
+
+.inner-div-goods span {
+  display: flex;
   justify-content: center;
 }
 
@@ -172,15 +175,10 @@ h2 {
 
 .text-goods-price {
   display: flex;
-  /* object-fit: cover; */
-  /* justify-content: center; */
-  /* align-items: center; */
-  /* height: auto; */
   color: #0dbe34;
   font-family: "Times New Roman", Times, serif;
   font-size: 2.5rem;
   font-style: bold;
-  /* bottom: 0px; */
 }
 
 /* footer */
@@ -384,6 +382,11 @@ h2 {
     height: fit-content;
     overflow: hidden;
     padding: 10px 0px;
+  }
+
+  .best-price {
+    max-width: 30%;
+    top: 10%;
   }
 
   .main-conteiner-good div {
