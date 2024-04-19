@@ -46,14 +46,13 @@ sidebarDropdown.addEventListener("click", function () {
 
 btnSearch.addEventListener("click", function () {
   if (window.innerWidth <= 600) {
-    console.log(btnSearchClear.innerText);
     const dropdown = document.querySelector(".footer .dropdown");
     dropdown.style.display = "none";
     search.style.display = "flex";
     btnSearchClear.innerText = "Закрити";
-    search.querySelector("#search-input").focus();
-    //
-  }
+    search.querySelector("#search-input").focus();    
+  }  
+
 });
 
 btnSearchClear.addEventListener("click", function () {
@@ -62,11 +61,9 @@ btnSearchClear.addEventListener("click", function () {
       const dropdown = document.querySelector(".footer .dropdown");
       dropdown.style.display = "flex";
       search.style.display = "none";
-    } else {
-      // dropdown.style.display = "none";
+    }}  
+    else {
+      dropdown.style.display = "none";
       search.style.display = "flex";
-    }
-  } else {
-    search.querySelector("#search-input").value = "";
-  }
+    } 
 });

@@ -11,13 +11,12 @@ window.addEventListener("resize", () => {
   const windowInnerHeight = getHeightWindow();
   wrapper.style.height = windowInnerHeight + "px";
 
-  content.style.height =
-    windowInnerHeight - footer.style.height - header.style.height + "px";
+  content.style.maxHeight = (windowInnerHeight - footer.style.height - header.style.height) + "px";
+  
 });
 
 //  Возвращает высоту экрана 
 function getHeightWindow() {
-    let windowInnerHeight;
     if (window.innerHeight > window.innerWidth) {
       return Math.max(window.innerHeight, window.innerWidth);
     } else {
