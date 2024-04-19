@@ -16,12 +16,9 @@
   position: relative;
   grid-template-rows: max-content;
   display: grid;
-  /* grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); */
   grid-template-columns: 1fr 1fr;
   gap: 0.7rem;
-  height: initial;
   overflow-y: scroll;
-  min-height: 90vh;
   scroll-behavior: smooth;
   padding: 1%;
 }
