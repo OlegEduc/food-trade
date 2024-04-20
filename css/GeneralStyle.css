@@ -33,22 +33,24 @@ body {
   grid-area: hd;
   position: relative;
   display: grid;
-  grid-template-columns: 5% auto 30%;
+  grid-template-columns: 60px auto 30%;
   background-color: #6ac76a;
   max-height: 50px;
+  min-width: 55px;
 }
 
 .logo {
   overflow: hidden;
   display: flex;
-  justify-content: center;
-  align-items: center;
-
+  position: relative;
 }
 
 .logo img {
   width: auto;
   height: 100%;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
 }
 
 .navigation {
