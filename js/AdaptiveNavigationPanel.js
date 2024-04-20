@@ -30,36 +30,36 @@ if (window.location.pathname === "/index.html") {
     btnSearchClear.innerText = "Очистити";
     search.style.display = "flex";
   }
-  btnCategory.addEventListener("click", function () {
-    hsddenVisibleElem(sidebarDropdown);
-  });
-
-  sidebarDropdown.addEventListener("click", function () {
-    hsddenVisibleElem(sidebarDropdown);
-  });
-
-  btnSearch.addEventListener("click", function () {
-    if (window.innerWidth <= 600) {
-      dropdown.style.display = "flex";
-      search.style.display = "flex";
-      btnSearchClear.innerText = "Закрити";
-      search.querySelector("#search-input").focus();
-    } else {
-      btnSearchClear.innerText = "Очистити";
-      dropdown.style.display = "none";
-    }
-  });
-
-  btnSearchClear.addEventListener("click", function () {
-    if (window.innerWidth <= 600) {
-      if (btnSearchClear.innerText === "Закрити") {
-        // const dropdown = document.querySelector(".footer .dropdown");
-        dropdown.style.display = "flex";
-        search.style.display = "none";
-      }
-    }
-  });
 }
+btnCategory.addEventListener("click", function () {
+  hsddenVisibleElem(sidebarDropdown);
+});
+
+sidebarDropdown.addEventListener("click", function () {
+  hsddenVisibleElem(sidebarDropdown);
+});
+
+btnSearch.addEventListener("click", function () {
+  if (window.innerWidth <= 600) {
+    dropdown.style.display = "flex";
+    search.style.display = "flex";
+    btnSearchClear.innerText = "Закрити";
+    search.querySelector("#search-input").focus();
+  } else {
+    btnSearchClear.innerText = "Очистити";
+    dropdown.style.display = "none";
+  }
+});
+
+btnSearchClear.addEventListener("click", function () {
+  if (window.innerWidth <= 600) {
+    if (btnSearchClear.innerText === "Закрити") {
+      // const dropdown = document.querySelector(".footer .dropdown");
+      dropdown.style.display = "flex";
+      search.style.display = "none";
+    }
+  }
+});
 
 function hsddenVisibleElem(el) {
   if (el === null) {
