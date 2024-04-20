@@ -27,6 +27,7 @@ export function rendMainContent(prod) {
   let item;
   let productsItems;
   let category;
+	getHeightWindow();
   // перебираем все ключи верхнего уровня вложенности products
   for (let i = 0; i < prodLevelOne.length; i++) {
     // категория товара
@@ -104,4 +105,4 @@ window.addEventListener("click", function (event) {
 });
 
 
-getHeightWindow();
+
