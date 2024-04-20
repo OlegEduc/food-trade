@@ -40,7 +40,7 @@ if (window.location.pathname === "/index.html") {
 
   btnSearch.addEventListener("click", function () {
     if (window.innerWidth <= 600) {
-      dropdown.style.display = "none";
+      dropdown.style.display = "flex";
       search.style.display = "flex";
       btnSearchClear.innerText = "Закрити";
       search.querySelector("#search-input").focus();
