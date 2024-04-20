@@ -12,14 +12,23 @@ window.addEventListener("resize", () => {
   wrapper.style.height = windowInnerHeight + "px";
 
   content.style.maxHeight = (windowInnerHeight - footer.style.height - header.style.height) + "px";
-  
+  if (window.innerWidth > 600) {
+    footer.querySelector('.dropdown').style.display = "none";
+    footer.querySelector('.search').style.display = "flex";
+    btnSearchClear.innerText = "Очистити";
+  } else {
+    footer.querySelector('.dropdown').style.display = "flex";
+    footer.querySelector('.search').style.display = "none";
+  }
 });
 
 //  Возвращает высоту экрана 
-function getHeightWindow() {
+export function getHeightWindow() {
     if (window.innerHeight > window.innerWidth) {
       return Math.max(window.innerHeight, window.innerWidth);
     } else {
       return Math.min(window.innerHeight, window.innerWidth);
     }
 }
+
+ 

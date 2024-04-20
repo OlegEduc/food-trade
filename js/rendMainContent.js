@@ -3,6 +3,7 @@ import {
   rendSidebarContent,
   rendSidebarDropdownContent,
 } from "./renderSidebar.js";
+import {getHeightWindow} from "./ElemSizeControl.js";
 
 //наполняем sidebar контентом (группами товара)
 const sidebar = document.querySelector(".sidebar");
@@ -18,7 +19,7 @@ const sectionCart = `<div class="items counter-wrapper">
                         <button data-cart class="add-to-cart" data-action="addToCart">додати в кошик</button>
                      </div>`;
 
-export function rendMainContent(prod) {
+export function rendMainContent(prod) {  
   //наполняем товарами из объекта products
   const place = document.querySelector(".content");
   const prodLevelOne = Object.values(prod);
@@ -101,3 +102,6 @@ window.addEventListener("click", function (event) {
     rendMainContent(products);
   }
 });
+
+
+getHeightWindow();

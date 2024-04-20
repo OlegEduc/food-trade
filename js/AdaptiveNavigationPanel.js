@@ -17,6 +17,7 @@ function displayContacts() {
 }
 
 // для мобильных устройств
+const dropdown = document.querySelector(".footer .dropdown");
 const search = document.querySelector(".search");
 const btnSearch = document.querySelector("#btn-search");
 const btnSearchClear = document.querySelector("#btn-search-clear");
@@ -24,6 +25,41 @@ const btnCategory = document.querySelector("#btn-category");
 const sidebarDropdown = document.querySelector(".sidebar-dropdown");
 
 const footer = document.querySelector(".footer");
+if (window.location.pathname === "/index.html") {
+  if (window.innerWidth > 600) {
+    btnSearchClear.innerText = "Очистити";
+    search.style.display = "flex";
+  }
+  btnCategory.addEventListener("click", function () {
+    hsddenVisibleElem(sidebarDropdown);
+  });
+
+  sidebarDropdown.addEventListener("click", function () {
+    hsddenVisibleElem(sidebarDropdown);
+  });
+
+  btnSearch.addEventListener("click", function () {
+    if (window.innerWidth <= 600) {
+      dropdown.style.display = "none";
+      search.style.display = "flex";
+      btnSearchClear.innerText = "Закрити";
+      search.querySelector("#search-input").focus();
+    } else {
+      btnSearchClear.innerText = "Очистити";
+      dropdown.style.display = "none";
+    }
+  });
+
+  btnSearchClear.addEventListener("click", function () {
+    if (window.innerWidth <= 600) {
+      if (btnSearchClear.innerText === "Закрити") {
+        // const dropdown = document.querySelector(".footer .dropdown");
+        dropdown.style.display = "flex";
+        search.style.display = "none";
+      }
+    }
+  });
+}
 
 function hsddenVisibleElem(el) {
   if (el === null) {
@@ -35,35 +71,3 @@ function hsddenVisibleElem(el) {
     el.classList.add("hidedElement");
   }
 }
-
-btnCategory.addEventListener("click", function () {
-  hsddenVisibleElem(sidebarDropdown);
-});
-
-sidebarDropdown.addEventListener("click", function () {
-  hsddenVisibleElem(sidebarDropdown);
-});
-
-btnSearch.addEventListener("click", function () {
-  if (window.innerWidth <= 600) {
-    const dropdown = document.querySelector(".footer .dropdown");
-    dropdown.style.display = "none";
-    search.style.display = "flex";
-    btnSearchClear.innerText = "Закрити";
-    search.querySelector("#search-input").focus();    
-  }  
-
-});
-
-btnSearchClear.addEventListener("click", function () {
-  if (window.innerWidth <= 600) {
-    if (btnSearchClear.innerText === "Закрити") {
-      const dropdown = document.querySelector(".footer .dropdown");
-      dropdown.style.display = "flex";
-      search.style.display = "none";
-    }}  
-    else {
-      dropdown.style.display = "none";
-      search.style.display = "flex";
-    } 
-});
