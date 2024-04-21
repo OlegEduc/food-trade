@@ -5,8 +5,8 @@ const header = document.querySelector(".header");
 const content = document.querySelector(".content");
 const footer = document.querySelector(".footer");
 
-content.style.maxHeight =
-  getHeightWindow() - footer.style.height - header.style.height + "px";
+// content.style.maxHeight =
+//   getHeightWindow() - footer.style.height - header.style.height + "px";
 
 if (window.innerWidth > 600) {
   footer.querySelector(".search").style.display = "flex";
