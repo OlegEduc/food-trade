@@ -51,8 +51,8 @@ export function setHeightUserWindow() {
   if (window.innerWidth > 600) {
     footer.querySelector(".search").style.display = "flex";
     footer.querySelector(".footer .dropdown").style.display = "none";
-  } else {
-    footer.querySelector(".search").style.display = "none";
-    footer.querySelector(".footer .dropdown").style.display = "flex";
+  // } else {
+  //   footer.querySelector(".search").style.display = "none";
+  //   footer.querySelector(".footer .dropdown").style.display = "flex";
   }
 }

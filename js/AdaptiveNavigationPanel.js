@@ -63,7 +63,7 @@ btnSearch.addEventListener("click", function () {
 
   if (getComputedStyle(search).display === "none") {
     if (searchInput.value === "") {
-      btnSearchClear.innerText = "За-крити";
+      btnSearchClear.innerText = "Закрити";
     }
     search.style.display = "flex";
     dropdown.style.display = "none";

@@ -48,13 +48,13 @@ btnSearchClear.addEventListener("click", () => {
     }
   }
   searchInput.focus();
-  returnObjectOfSearch();
+   returnObjectOfSearch();
 });
 
 searchInput.addEventListener("input", () => {
   if (window.innerWidth <= 600) {
     if (searchInput.value === "") {
-      btnSearchClear.innerText = "Закрити";
+      btnSearchClear.innerText = "Закр";
     } else {
       btnSearchClear.innerText = "Очистити";
     }
