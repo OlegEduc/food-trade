@@ -15,7 +15,7 @@ if (window.innerWidth > 600) {
   footer.querySelector(".search").style.display = "none";
   footer.querySelector(".footer .dropdown").style.display = "flex";    
 }
-
+setHeightUserWindow();
 window.addEventListener("orientationchange", function () {
   setHeightUserWindow();
   // console.log("The orientation of the screen is: " + screen.orientation);
