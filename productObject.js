@@ -7908,7 +7908,7 @@ export const products = {
 			"price" : "13.9",
 			"minCountUnit" : "15",
 			"promotion" : "1",
-			"imgSrc" : "",
+			"imgSrc" : "banka-048-l-tvist.jpg",
 			},
 		"600" :  { 
 			"category" : "Тара та упаковка",
