@@ -26,8 +26,6 @@ body {
     "sd main main main main main main main "
     "ft ft   ft   ft   ft   ft   ft   ft   ";
   overflow: hidden;
-  position: absolute;
-  bottom: 0;
 }
 
 .header {
