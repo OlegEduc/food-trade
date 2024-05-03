@@ -6,7 +6,7 @@
 
 .wrapper {
   display: grid;
-  margin: 0 auto;
+  margin: auto;
   width: 98%;
   min-height: 100%;
 /*   min-height: 95vh; */
