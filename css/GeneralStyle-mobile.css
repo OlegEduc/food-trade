@@ -12,10 +12,7 @@
     grid-template-areas:
       "hd    hd   hd   hd   hd     "
       "sd    main main main main  "
-      "ft    ft   ft   ft   ft         ";
-        position: absolute;
-        bottom: 0;
-        left: 1%;
+      "ft    ft   ft   ft   ft    ";     
   }
 
   .grid-item:hover {
@@ -38,6 +35,10 @@
       "hd"
       "main"
       "ft ";
+
+   position: absolute;
+    bottom: 0;
+    left: 1%;
   }
 
   .header {
