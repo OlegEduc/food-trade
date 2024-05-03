@@ -67,7 +67,13 @@ btnSearch.addEventListener("click", function () {
     }
     search.style.display = "flex";
     dropdown.style.display = "none";
+  } else {
+    dropdown.style.display = "flex";
+    searchInput.style.display = "none";
+    btnSearchClear.style.display = "none";
   }
+
+
   searchInput.focus()
 });// /обработка клика по кнопке поиска <600px
 
