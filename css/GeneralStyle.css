@@ -111,7 +111,7 @@
   grid-template-rows: auto;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 0.7rem;
+  gap: 1rem;
   overflow-y: auto;
   scroll-behavior: smooth;
   padding-left: 1%;
@@ -169,11 +169,20 @@
   position: relative;
   grid-template-rows: 55% auto;
   border-radius: 0.7rem;
-  box-shadow: 0px 0px white, 0px 0px 5px #40ff40;
+  /* box-shadow: 0px 0px white, 10px 10px 25px #40ff40; */
+  box-shadow: 0px 0px white, 0px 0px 5px rgba(69, 70, 69, 0.3);
   max-height: 35vh;
   max-width: auto;
   min-height: 300px;
   overflow: hidden;
+  background-color: #fff;
+  transition: 0.5s;
+}
+
+.grid-item:hover {
+box-shadow: 0px 0px white, 0px 0px 15px rgb(69, 70, 69, 0.5);
+z-index: 25;
+transform: scale(1.05);
 }
 
 .item-img-wrapper {

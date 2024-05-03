@@ -12,6 +12,14 @@
       "sd    main main main main  "
       "ft    ft   ft   ft   ft         ";
   }
+
+
+
+  .grid-item:hover {
+    box-shadow: 0px 0px white, 0px 0px 15px rgb(69, 70, 69, 0.5);
+    z-index: 25;
+    transform: scale(1);
+    }
 }
 
 
