@@ -13,6 +13,9 @@
       "hd    hd   hd   hd   hd     "
       "sd    main main main main  "
       "ft    ft   ft   ft   ft         ";
+        position: absolute;
+        bottom: 0;
+        left: 1%;
   }
 
   .grid-item:hover {
