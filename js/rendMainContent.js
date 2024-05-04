@@ -36,7 +36,7 @@ export function rendMainContent(prod) {
     // категория товара
     category = Object.keys(prod)[i];
     const cat = `
-            <div class="category-goods" id="${category}">        		
+            <div class="category-goods" id="${category}" style="padding-top: 50px;">        		
 				<h2>${category}</h2>
 			</div>`;
 
