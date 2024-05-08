@@ -167,7 +167,7 @@
 .grid-item {
   display: grid;
   position: relative;
-  grid-template-rows: 55% auto;
+  grid-template-rows: 55% 45%;
   border-radius: 0.7rem;
   /* box-shadow: 0px 0px white, 10px 10px 25px #40ff40; */
   box-shadow: 0px 0px white, 0px 0px 5px rgba(69, 70, 69, 0.3);
@@ -209,7 +209,8 @@ transform: scale(1.05);
   color: blue;
   font-size: clamp(1.1rem, 0.375rem + 1vw, 1.25rem);
   text-align: center;
-  overflow-y: inherit;
+  overflow-y: scroll;
+  max-height: 90%;
 }
 
 .text-min-qty {
