@@ -44,7 +44,7 @@ export function setHeightUserWindow() {
   const content = document.querySelector(".content");
   const footer = document.querySelector(".footer");
   const windowInnerHeight = getHeightWindow();
-  wrapper.style.height = windowInnerHeight + "px";
+  // wrapper.style.height = windowInnerHeight + "px";
   content.style.maxHeight =
     windowInnerHeight - footer.style.height - header.style.height + "px";
 
