@@ -45,8 +45,8 @@ export function setHeightUserWindow() {
   const footer = document.querySelector(".footer");
   const windowInnerHeight = getHeightWindow();
   // wrapper.style.height = windowInnerHeight + "px";
-  content.style.maxHeight =
-    windowInnerHeight - footer.style.height - header.style.height + "px";
+  // content.style.maxHeight =
+  //   windowInnerHeight - footer.style.height - header.style.height + "px";
 
   // if (window.innerWidth > 600) {
   //   footer.querySelector(".search").style.display = "flex";
