@@ -1,28 +1,30 @@
 @media screen and (max-width: 900px) {
+
   .wrapper {
     display: grid;
     margin: auto;
     width: 98%;
-    height: 100%;
-    margin: auto auto 0 auto;
+    height: 100vh;
     gap: 3px;
     grid-template-columns: repeat(5, 1fr);
     grid-auto-rows: minmax(40px, auto);
     grid-template-areas:
       "hd    hd   hd   hd   hd     "
       "sd    main main main main  "
-      "ft    ft   ft   ft   ft    ";     
+      "ft    ft   ft   ft   ft         ";
   }
 
-  .grid-item:hover {
-    box-shadow: 0px 0px white, 0px 0px 15px rgb(69, 70, 69, 0.5);
-    z-index: 25;
-    transform: scale(1);
-    }
+  .footer {
+    display: flex;
+    /* max-height: 4vh; */
+  }
 
-    .search {
-      display: none;
-    }
+  .search {
+    display: flex;
+    position: relative;
+    font-size: 1rem;
+    max-width: 500px;
+  }
 }
 
 
@@ -34,9 +36,6 @@
       "hd"
       "main"
       "ft ";
-   position: absolute;
-    bottom: 0;
-    left: 1%;
   }
 
   .header {
@@ -45,11 +44,14 @@
 
   .content {
     grid-template-columns: 1fr 1fr;
-    min-height: 90vh;
   }
 
   .grid-item {
     min-height: 230px;
+  }
+
+  .maps iframe {
+    grid-column: 1 / -1;
   }
 
   .footer {
@@ -57,7 +59,7 @@
     flex-direction: row;
   }
 
-  .sidebar-dropdown {
+  .sidebar-dropdown{ 
     display: grid;
     grid-template-rows: repeat(auto-fit, auto);
     gap: 0;
@@ -67,24 +69,23 @@
     overflow: auto;
     width: 50vw;
     position: absolute;
-    bottom: 4.5vh;
+    bottom: 4vh;
     left: 0;
     max-height: 60vh;
-    /* flex: 1; */
+    flex: 1;
   }
 
   .sidebar-dropdown-item {
     display: grid;
     background-color: #6ac76a;
-    font-size: clamp(1rem, -1.2rem + 4.27vw, 1.25rem);
+    font-size: clamp(0.75rem, -1.2rem + 4.27vw, 1rem);
     text-align: center;
     align-items: center;
     justify-content: center;
     text-decoration: none;
-    padding: 8px 0;
+    padding: 4px 0;
     border: 1px solid #74f596;
     flex: 1;
-    color: #171a18;
   }
 
   .sidebar {
