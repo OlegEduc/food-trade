@@ -26,7 +26,7 @@
   grid-area: hd;
   position: relative;
   display: grid;
-  grid-template-columns: 70% 30%;
+  grid-template-columns: 60px auto 30%;
   background-color: #6ac76a;
   max-height: 50px;
 }
