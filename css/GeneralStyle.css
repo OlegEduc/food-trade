@@ -110,7 +110,7 @@
   gap: 0.7rem;
   height: initial;
   overflow-y: scroll;
-  min-height: 97vh;
+  min-height: initial;
   scroll-behavior: smooth;
   padding-left: 1%;
   padding-right: 1%;
