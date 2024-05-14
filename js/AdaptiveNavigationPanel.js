@@ -42,7 +42,7 @@ function hsddenVisibleElem(el) {
 const sidebarDropdown = document.querySelector(".sidebar-dropdown");
 sidebarDropdown.addEventListener("click", function () {
   console.log("click on sidebar-dropdown");
-  hsddenVisibleElem(sidebarDropdown);
+  // hsddenVisibleElem(sidebarDropdown);
 });
 
 if (document.querySelector(".footer")) {
