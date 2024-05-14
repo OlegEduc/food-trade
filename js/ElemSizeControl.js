@@ -18,11 +18,12 @@ window.addEventListener("resize", () => {
 
 // устанавливает надпись для кропки очистки поиска
 export function setNameBtnClearSearch() {
+  const btn = footer.querySelector(".search #btn-search-clear");
+
   if (!document.querySelector(".search #btn-search-clear")) {
     return;
   }
 
-  const btn = footer.querySelector(".search #btn-search-clear");
   if (window.innerWidth > 600) {
     btn.innerText = "Очистити";
   } else {
@@ -47,12 +48,4 @@ export function setHeightUserWindow() {
   wrapper.style.height = windowInnerHeight + "px";
   content.style.maxHeight =
     windowInnerHeight - footer.style.height - header.style.height + "px";
-
-  // if (window.innerWidth > 600) {
-  //   footer.querySelector(".search").style.display = "flex";
-  //   footer.querySelector(".footer .dropdown").style.display = "none";
-  // } else {
-  //   footer.querySelector(".search").style.display = "none";
-  //   footer.querySelector(".footer .dropdown").style.display = "flex";
-  //}
 }

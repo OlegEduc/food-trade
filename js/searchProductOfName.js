@@ -2,7 +2,6 @@ import { products } from "./productObject.js";
 import { rendMainContent } from "./rendMainContent.js";
 
 const searchInput = document.querySelector("#search-input");
-
 const search = document.querySelector(".search");
 const btnSearchClear = document.getElementById("btn-search-clear");
 
@@ -48,7 +47,7 @@ btnSearchClear.addEventListener("click", () => {
     }
   }
   searchInput.focus();
-   returnObjectOfSearch();
+  returnObjectOfSearch();
 });
 
 searchInput.addEventListener("input", () => {
@@ -63,15 +62,9 @@ searchInput.addEventListener("input", () => {
     if (window.innerWidth <= 600) {
       btnSearchClear.innerText = "Очистити";
     }
-    //{2 || searchInput.value.length ===
   }
   returnObjectOfSearch();
 });
-
-// function clearInputOfSearch() {
-//   console.log("click on btn-search", searchInput.value);
-//   searchInput.value = "";
-// }
 
 function returnObjectOfSearch() {
   let category; // категории товаров
@@ -104,7 +97,6 @@ function returnObjectOfSearch() {
     catInObj = false;
   }
 
-  //console.log(resaultObj)
   place.innerHTML = ""; // очищаем содержимое контента
   if (Object.keys(resaultObj).length > 0) {
     rendMainContent(resaultObj); // выводим результат поиска
