@@ -4769,7 +4769,7 @@ export const products = {
 			"unit" : "шт.",
 			"coefficient" : "1",
 			"previousPrice" : "35",
-			"price" : "28.9",
+			"price" : "35",
 			"minCountUnit" : "2",
 			"promotion" : "2",
 			"imgSrc" : "mirnens'ka\\voda-mirnens'ka-6-l-negazovana.jpg",
