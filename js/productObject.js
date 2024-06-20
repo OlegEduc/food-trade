@@ -1,7 +1,33 @@
 // оновлено 20.06.24: 09:32:15.  Категория цены: Оптова //
 export const products = {
 	"focusProduct" : {
-		"1-3916"  :  { 
+		"1-474" :  { 
+			"category" : "Швидкого приготування",
+			"productCode" : "3825",
+			"productFullName" : "Вермішель Скороварка  Super мікс. 75 г.",
+			"productName" : "Вермішель Скороварка  Super мікс. 75 г.",
+			"unit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "5.9",
+			"price" : "3.9",
+			"minCountUnit" : "48",
+			"promotion" : "1",
+			"imgSrc" : "вермішель скороварка.jpg",
+			},
+		"2-475" :  { 
+			"category" : "Швидкого приготування",
+			"productCode" : "3764",
+			"productFullName" : "Вермішель Скороварка пшенична мікс  75 г.",
+			"productName" : "Вермішель Скороварка пшенична мікс  75 г.",
+			"unit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "5.9",
+			"price" : "3.9",
+			"minCountUnit" : "48",
+			"promotion" : "1",
+			"imgSrc" : "vermishel-skorovarka-pshenichna-miks-75-g.jpg",
+			},
+		"3-3916"  :  { 
 			"category" : "Госп.товари",
 			"productCode" : "3916",
 			"productFullName" : "Сірники Індія \"Ricci\", \"Tuvee\" 10шт",
@@ -14,7 +40,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "sirniki-indija-ricci-tuvee-10sht.jpg",
 			},
-		"2-4141"  :  { 
+		"4-4141"  :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "4141",
 			"productFullName" : "Печиво \"Petit Beurre\" з какао ТМ\"Yarych\" 155г.",
@@ -27,7 +53,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "pechivo\\pechivo-petit-beurre-z-kakao-yarych-558-kg-36-155-g.jpg",
 			},
-		"3-4132"  :  { 
+		"5-4132"  :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "4132",
 			"productFullName" : "Печиво \"Марія\" класична ТМ\"Yarych\" 160г.",
@@ -40,7 +66,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "pechivo\\pechivo-marija-klasichna-yarych-56-kg-35-160-g.jpg",
 			},
-		"4-4176"  :  { 
+		"6-4176"  :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "4176",
 			"productFullName" : "Печиво \"Марія\" оригінальна ТМ\"Yarych\" 155г.",
@@ -53,7 +79,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "pechivo\\pechivo-marija-origvnalna-tm-yarych-155g.jpg",
 			},
-		"5-4135"  :  { 
+		"7-4135"  :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "4135",
 			"productFullName" : "Печиво \"Марія\" цільнозернова ТМ\"Yarych\" 155г.",
@@ -66,7 +92,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "pechivo\\pechivo-marija-cilnozernova-yarych-35-155-g.jpg",
 			},
-		"6-486"  :  { 
+		"8-486"  :  { 
 			"category" : "Тара та упаковка",
 			"productCode" : "486",
 			"productFullName" : "Кришка \"Даринка\" 40шт. блок",
