@@ -1,18 +1,18 @@
-// оновлено 06.08.24: 08:22:30.  Категория цены: Оптова //
+// оновлено 06.08.24: 08:41:28.  Категория цены: Оптова //
 export const products = {
 	"focusProduct" : {
 		"1-4206"  :  { 
 			"category" : "Госп.товари",
 			"productCode" : "4206",
-			"productFullName" : "Гель для посуду Fairy",
-			"productName" : "Гель для посуду Fairy",
+			"productFullName" : "Гель для посуду \"Fairy\" 1л",
+			"productName" : "Гель для посуду Fairy 1л.",
 			"unit" : "шт.",
 			"coefficient" : "1",
 			"previousPrice" : "0",
 			"price" : "64.9",
 			"minCountUnit" : "10",
 			"promotion" : "1",
-			"imgSrc" : "",
+			"imgSrc" : "gel-dlja-posudu-fairy-1l.jpg",
 			},
 		"2-2866"  :  { 
 			"category" : "Госп.товари",
@@ -6520,15 +6520,15 @@ export const products = {
 		"497" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "4206",
-			"productFullName" : "Гель для посуду Fairy",
-			"productName" : "Гель для посуду Fairy",
+			"productFullName" : "Гель для посуду \"Fairy\" 1л",
+			"productName" : "Гель для посуду Fairy 1л.",
 			"unit" : "шт.",
 			"coefficient" : "1",
 			"previousPrice" : "0",
 			"price" : "64.9",
 			"minCountUnit" : "10",
 			"promotion" : "1",
-			"imgSrc" : "",
+			"imgSrc" : "gel-dlja-posudu-fairy-1l.jpg",
 			},
 		"498" :  { 
 			"category" : "Госп.товари",
