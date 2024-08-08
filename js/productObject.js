@@ -4265,7 +4265,7 @@ export const products = {
 			"price" : "24.9",
 			"minCountUnit" : "12",
 			"promotion" : "1",
-			"imgSrc" : "",
+			"imgSrc" : "napij-zhivchik-jabluko-1-l.jpg",
 			},
 		"325" :  { 
 			"category" : "Вода, соки, напої",
