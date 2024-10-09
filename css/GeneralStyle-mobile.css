@@ -11,6 +11,11 @@
       "sd    main main main main  "
       "ft    ft   ft   ft   ft         ";
   }
+
+  .modal-wrapper.open .modal {
+     height: 70%;
+     width: 70%;
+   }
 }
 
 
