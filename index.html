@@ -18,6 +18,22 @@
 </head>
 
 <body>
+	<?php
+//скрипт отправки сообщения
+$ipfrom = $_SERVER['SERVER_ADDR'];
+// записываем в переменную текст сообщения
+$message = "Текст тестового сообщения $ipfrom"; 
+// Email адрес получателя
+$to = "0674608451@ukr.net";
+// Email адрес отправителя
+$from = "fop_demchenko@ukr.net";
+// указываем тему сообщения
+$subject = "Тема сообщения";
+// указываеи заголовки для корректной обработки сообщений Email-агентами
+$headers = "From: $from\r\nReplay-to: $from\r\nContent-type:text/plain; charset=utf-8\r\n";
+mail ($to, $subject, $message, $headers);
+
+?> 
 
 	<div class="wrapper">
 		<div class="header">
