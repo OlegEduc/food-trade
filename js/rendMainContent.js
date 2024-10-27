@@ -94,7 +94,7 @@ export function getValuePrice(el) {
   if (elOfFloat) {
     return parseFloat(el).toFixed(2) + " &#8372";
   } else {
-    return "<span style='font-size: clamp(0.8rem, 0.1rem + 1.96vw, 1.4rem); text-align: center' >Ціна:<br> за домовленністю</span>";
+    return "<span style='font-size: clamp(0.8rem, 0.1rem + 1.96vw, 1.4rem); text-align: center' >Ціна:<br> за домовленістю</span>";
   }
 
   // if (isNaN(elOfFloat)) {
