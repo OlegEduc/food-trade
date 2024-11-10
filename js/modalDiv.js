@@ -1,5 +1,4 @@
 import { products, productCategorys } from "./productObject.js";
-import {getValuePrice} from "./rendMainContent.js";
 
 window.addEventListener("click", function (event) {
   let curentEl;
