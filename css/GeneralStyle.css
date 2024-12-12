@@ -229,15 +229,22 @@ body {
   line-height: 95%;
 }
 
-.text-goods-price {
+.text-goods-price,
+.card-unit {
   display: flex;
-  font-size: clamp(1.2rem, 0.1rem + 1.96vw, 1.8rem);
+  font-size: clamp(1.2rem, 0.1rem + 1.96vw, 1.6rem);
   font-weight: 800;
   color: #59981a;
   align-items: end;
   justify-content: end;
   margin-right: 3%;
 }
+.card-unit {
+  font-size: clamp(1rem, 0.1rem + 1.96vw, 1.3rem);
+  padding-bottom: 0.1rem;
+  padding-left: 0.2rem;
+}
+
 
 .text-goods-previousPrice {
   position: absolute;
