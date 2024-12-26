@@ -1,4 +1,4 @@
-// оновлено 26.12.24: 15:17:38.  Категория цены: Оптова //
+// оновлено 26.12.24: 15:30:24.  Категория цены: Оптова //
 export const products = {
 	"Konditers'ki-virobi" : {
 		"1" :  { 
@@ -1050,7 +1050,7 @@ export const products = {
 			"previousPrice" : "140.6",
 			"price" : "140.6",
 			"minCountUnit" : "1.7",
-			"promotion" : "2",
+			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pechivo\\pechivo-zhadana-do-kavi-1-7-kg.jpg",
 			},
 		"76" :  { 
