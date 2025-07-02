@@ -1,6 +1,6 @@
 
 export function addCounter() {
-  const counterHTML = `<div id="countdown-wrapper" class="countdown-wrapper">
+  const counterHTML = `<div id="countdown-wrapper" class="countdown-wrapper" style="display:none">
         <div class="countdown-title">
             до закінчення акції:
         </div>
@@ -46,6 +46,8 @@ export function updateCounter() {
   // скроем счетчик если акция закончилась
   if (diffTime < 0) {
     document.querySelector("#countdown-wrapper").style.display = "none";
+  } else {
+    document.querySelector("#countdown-wrapper").style.display = "block";
   }
 
   // вычислим остаток дней
