@@ -45,16 +45,16 @@ export function rendMainContent(prod) {
 
   // place.innerHTML += `<div id="promo-counter" >` + addCounter() + `</div> `;
 
-  // place.innerHTML +=
-  //   `<div id="promotion" class="promotion">
-  //                       <div class="promotion-wrap">
-  //                         <div class="promotion-img">                            
-  //                           <img src="https:\/\/olegeduc.github.io\/food-trade\/image\/action\/pechivoGolskiBanner2.gif" alt="pechivoGolskiBanner">
-  //                         </div> ` +
-  //   addCounter() +
-  //   `
-  //                       </div>
-  //                     </div>`;
+  place.innerHTML +=
+    `<div id="promotion" class="promotion">
+                        <div class="promotion-wrap">
+                          <div class="promotion-img">                            
+                            <img src="https:\/\/olegeduc.github.io\/food-trade\/image\/action\/pechivoGolskiBannerPrice.gif" alt="pechivoGolskiBanner">
+                          </div> ` +
+    addCounter() +
+    `
+                        </div>
+                      </div>`;
 
   // картинка акции
   // place.innerHTML =  place.innerHTML + `<div class="grid-item-action">
