@@ -7,15 +7,15 @@ let slides = [
   "./image/action/ПечивоКрапкаКакао.jpg",
   "./image/action/МаксиФрукт-3л-Ситро.jpg",
 
-  "/image/action/ПечивоКрапкаКанапкаПломбір.jpg",
-  "/image/action/ПечивоКрапкаКанапкаШоколад.jpg",
+  "./image/action/ПечивоКрапкаКанапкаПломбір.jpg",
+  "./image/action/ПечивоКрапкаКанапкаШоколад.jpg",
 "./image/action/МаксиФрукт-3л-Лимонад.jpg",
 
-  "/image/action/ПечивоПодільськеАрахіс.jpg",
-  "/image/action/ПечивоПодільськеПряжМолоко.jpg",
- "/image/action/МаксиФрукт-3л-Манго.jpg", 
+  "./image/action/ПечивоПодільськеАрахіс.jpg",
+  "./image/action/ПечивоПодільськеПряжМолоко.jpg",
+ "./image/action/МаксиФрукт-3л-Манго.jpg", 
  
-  "/image/action/МаксиФрукт-3л-Ананас.jpg",
+  "./image/action/МаксиФрукт-3л-Ананас.jpg",
 ];
 
 let slider = [];
