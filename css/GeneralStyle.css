@@ -315,6 +315,7 @@ body {
 
 /* ==================  обратный отсчет ========================== */
 .countdown-wrapper {
+  display: none;
   position: relative;
   width: 100%;
   z-index: 3;
