@@ -3,15 +3,16 @@ import { widthSliderWrap } from "./ElemSizeControl.js";
 // массив с адресами изображений
 
 let slides = [
-  "./image/action/ПечивоКрапкаВаніль.jpg",
-  "./image/action/ПечивоКрапкаКакао.jpg",
-  "./image/action/ПечивоКрапкаКанапкаПломбір.jpg",
+  "./image/action/Акция-Гречка-900г.gif",
+  //"./image/action/ПечивоКрапкаВаніль.jpg",
+ // "./image/action/ПечивоКрапкаКакао.jpg",
+ // "./image/action/ПечивоКрапкаКанапкаПломбір.jpg",
   "./image/action/МаксиФрукт-3л-баннер-Общ-Дост.jpg",
 
   "./image/action/ПечивоКрапкаКанапкаШоколад.jpg",
-  "./image/action/ПечивоПодільськеАрахіс.jpg",
-  "./image/action/ПечивоПодільськеПряжМолоко.jpg",
-   "./image/action/МаксиФрукт-3л-баннер-Общ-Дост.jpg",
+  // "./image/action/ПечивоПодільськеАрахіс.jpg",
+  // "./image/action/ПечивоПодільськеПряжМолоко.jpg",
+  //  "./image/action/МаксиФрукт-3л-баннер-Общ-Дост.jpg",
 ];
 
 let slider = [];
