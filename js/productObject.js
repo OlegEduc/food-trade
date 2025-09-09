@@ -1,4 +1,4 @@
-// оновлено 09.09.25: 20:50:54.  Категория цены: Оптова //
+// оновлено 09.09.25: 21:29:25.  Категория цены: Оптова //
 export const products = {
 	"Olija" : {
 		"1" :  { 
@@ -3459,7 +3459,7 @@ export const products = {
 			"price" : "23.9",
 			"minCountUnit" : "12",
 			"promotion" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\goroshok-zel-tm-gurman-460g-sb-tvist.jpg",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\149-goroshok-zel-tm-gurman-420g-zhb.jpg",
 			},
 		"247" :  { 
 			"category" : "Консервація плодо-овочева",
