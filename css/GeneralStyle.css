@@ -117,7 +117,7 @@ body {
 }
 
 .content {
- 
+
   font-weight: 400;
   grid-area: main;
   position: relative;
@@ -263,13 +263,14 @@ body {
   text-decoration: line-through;
   width: auto;
 }
+
 .text-goods-price,
 .card-unit {
   text-decoration: none;
   justify-content: end;
   text-align: end;
   padding-right: 5%;
-  
+
   /* display: flex;
   font-size: 1rem;
   font-size: clamp(0.7rem, 0.1rem + 1.96vw, 1.2rem); */
@@ -288,10 +289,8 @@ body {
 
 .price-block {
   display: flex;
-
   justify-content: space-around;
 }
-
 
 
 .anouns {
@@ -319,7 +318,7 @@ body {
 
 .promotion-img {
   height: 100%;
-  width: auto; 
+  width: auto;
   max-width: 100%;
   max-height: auto;
 }
