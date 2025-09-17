@@ -11,12 +11,6 @@
       "sd    main main main main  "
       "ft    ft   ft   ft   ft         ";
   }
-
-
-  .promotion-wrap {
-    max-width: 50%;
-  }
-
 }
 
 
@@ -74,7 +68,7 @@
 
   .sidebar-dropdown-item {
     display: grid;
-    background-color: #6ac76a;
+    background-color: #6ac76a; 
     font-size: clamp(1rem, -1.2rem + 4.27vw, 1.25rem);
     text-align: center;
     align-items: center;
@@ -90,9 +84,12 @@
     display: none;
   }
 
-
-  .promotion-wrap {
-    max-width: 100%;
+  .promotion {
+    height: auto;
   }
 
+  .promotion-img {
+    height: auto;
+    width: 100%; 
+  }
 }
