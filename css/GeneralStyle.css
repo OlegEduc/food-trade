@@ -232,6 +232,15 @@ body {
   cursor: pointer;
 }
 
+.item-img-wrapper .new-label {
+
+  position: absolute;
+ width: 40%;
+ top: 0;
+ left: 0;
+}
+
+
 .text-goods-wrapper {
   display: grid;
   grid-template-rows: auto 30%;
