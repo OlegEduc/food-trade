@@ -1,4 +1,4 @@
-// оновлено 25.09.25: 09:21:08.  Категория цены: Оптова //
+// оновлено 25.09.25: 09:23:00.  Категория цены: Оптова //
 export const products = {
 	"Olija" : {
 		"1" :  { 
@@ -5359,9 +5359,9 @@ export const products = {
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
 			"previousPrice" : "49.9",
-			"price" : "49.9",
+			"price" : "39.9",
 			"minCountUnit" : "10",
-			"promotion" : "1",
+			"promotion" : "2",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ris-dovgozernij-09-kg.jpg",
 			},
@@ -5434,9 +5434,9 @@ export const products = {
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
 			"previousPrice" : "51.9",
-			"price" : "51.9",
+			"price" : "39.9",
 			"minCountUnit" : "10",
-			"promotion" : "1",
+			"promotion" : "2",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ris-parboild-09-kg.jpg",
 			},
