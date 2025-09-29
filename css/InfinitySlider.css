@@ -8,7 +8,7 @@
 
 
 #slide-wrap {
-      grid-column: 1 / -1;
+    grid-column: 1 / -1;
     display: flex;
     width: 512px;
     min-height: 340px;
@@ -21,20 +21,21 @@
 }
 
 #slide-wrap img {
-     height:100%;
-    width:  auto;   
+    height: 100%;
+    width: auto;
     transition: all ease 1.3s;
 }
 
 
 @media screen and (max-width: 1024px) {
 
-#slide-wrap {
-    min-height: 275px;
-}
-#slide-wrap img {
-     height: auto; 
-    width: 100%;
-}
+    #slide-wrap {
+        min-height: 275px;
+    }
+
+    #slide-wrap img {
+        height: auto;
+        width: 100%;
+    }
 
 }
