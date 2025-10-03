@@ -1,5 +1,39 @@
-// оновлено 03.10.25: 15:26:25.  Категория цены: Оптова //
+// оновлено 03.10.25: 15:27:16.  Категория цены: Оптова //
 export const products = {
+	"focusProduct" : {
+		"1-1882"  :  { 
+			"category" : "Консерви м'ясні",
+			"productCode" : "1882",
+			"productFullName" : "Паштет Classo М'ясо м'ясний Домашній 300 гр",
+			"productName" : "Паштет Classo М'ясо м'ясний Домашній 300 гр",
+			"unit" : "шт.",
+			"baseUnit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "38.9",
+			"price" : "39.9",
+			"minCountUnit" : "18",
+			"promotion" : "1",
+			"new-label" : "1",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/classo-konservi\\classo-pashtet-mjasnij-domashnij-325g.jpg",
+			"inStock" : "1",
+			},
+		"2-1890"  :  { 
+			"category" : "Консерви м'ясні",
+			"productCode" : "1890",
+			"productFullName" : "Паштет Classo М'ясо печінковий Ніжний 300 гр",
+			"productName" : "Паштет Classo М'ясо печінковий Ніжний 300 гр",
+			"unit" : "шт.",
+			"baseUnit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "38.9",
+			"price" : "39.9",
+			"minCountUnit" : "18",
+			"promotion" : "1",
+			"new-label" : "1",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/classo-konservi\\classo-pashtet-pechinkovij-325g.jpg",
+			"inStock" : "1",
+			},
+	},
 	"Olija" : {
 		"1" :  { 
 			"category" : "Олія",
