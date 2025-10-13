@@ -1,4 +1,4 @@
-import { products, productCategorys, anouns, arrayPlannedArrival} from "./productObject.js";
+import { products, productCategorys, anouns, arrayPlannedArrival } from "./productObject.js";
 import {
   rendSidebarContent,
   rendSidebarDropdownContent,
@@ -73,14 +73,13 @@ export function rendMainContent(prod) {
   //                                            <img class="img-action" src="https://olegeduc.github.io/food-trade/image/action/action-grechka-1kg-3.jpg">
   //                                       </div> `;
   // перебираем все ключи верхнего уровня вложенности products
+
   for (let i = 0; i < prodLevelOne.length; i++) {
     // категория товара
     category = Object.keys(prod)[i];
-    const cat = `
-            <div class="category-goods" id="${category}">        		
-				<h2>${category}</h2>
-			</div>`;
-
+    console.log(productCategorys[category])
+    const cat = `<div class="category-goods" id="${category}"> </div>`;
+{/* <h2>${category} </h2> */}
     place.insertAdjacentHTML("beforeEnd", cat);
 
     productsItems = new Object(prodLevelOne[i]);
@@ -89,7 +88,7 @@ export function rendMainContent(prod) {
     let arrival = ''
     const imgPlannedArrival = 'https://olegeduc.github.io/food-trade/labels/planned-arrival.png'   /* посилання на картинку ОЧІКУЄТЬСЯ НАДХОДЖЕННЯ */
     // const imgSoldOut = 'https://olegeduc.github.io/food-trade/labels/prodano-1.png'       /* посилання на картинку ПРОДАНО */
-const imgNew = 'https://olegeduc.github.io/food-trade/labels/new-label-01.png'  
+    const imgNew = 'https://olegeduc.github.io/food-trade/labels/new-label-01.png'
 
     for (item in productsItems) {
       // содержимое категории товара
@@ -113,7 +112,6 @@ const imgNew = 'https://olegeduc.github.io/food-trade/labels/new-label-01.png'
       if (inStock === '0') {
         inStockClass = 'monohrom'
         if (arrayPlannedArrival.includes(productCode)) {
-          console.log(productName)
           arrival = `<img class="grid-item-prodano" src="${imgPlannedArrival}">`
         } else {
           arrival = '';
@@ -158,9 +156,7 @@ const imgNew = 'https://olegeduc.github.io/food-trade/labels/new-label-01.png'
     // ищем все секции категорий и меняем в последней текст
     const catDiv = document.querySelectorAll(".category-goods");
     if (category != "focusProduct") {
-      catDiv[
-        catDiv.length - 1
-      ].innerHTML = `<h2>${productsItems[item]["category"]}</h2>`;
+      catDiv[ catDiv.length - 1].innerHTML = `<h2>${productsItems[item]["category"] }</h2>`;
     } else {
       catDiv[catDiv.length - 1].innerHTML = "";
     }
