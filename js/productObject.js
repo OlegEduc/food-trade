@@ -1,4 +1,4 @@
-// оновлено 15.10.25: 22:32:30.  Категория цены: Оптова //
+// оновлено 15.10.25: 22:39:14.  Категория цены: Оптова //
 export const products = {
 	"focusProduct" : {
 		"1-4333"  :  { 
@@ -12560,4 +12560,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-const arrayPlannedArrival = []
+export const arrayPlannedArrival = []
