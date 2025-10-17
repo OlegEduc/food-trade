@@ -12,7 +12,7 @@ function renderOfSearch() {
   const productNames = document.querySelectorAll(
     "div.category-goods, div.text-goods-name"
   );
-  console.dir(productNames);
+  // console.dir(productNames);
   let arrGoods = Array.from(productNames);
   let curentCategory;
   for (i = 0; i < arrGoods.length; i++) {
@@ -99,7 +99,8 @@ function returnObjectOfSearch() {
 
   place.innerHTML = ""; // очищаем содержимое контента
   if (Object.keys(resaultObj).length > 0) {
-    rendMainContent(resaultObj); // выводим результат поиска
+    rendMainContent(resaultObj); // выводим результат поиска  
+
   } else {
     // если ничего не нашли
     place.style.cssText = `font-size: 2.5rem; 
