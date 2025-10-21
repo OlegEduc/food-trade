@@ -9,7 +9,7 @@
 
 #slide-wrap {
     grid-column: 1 / -1;
-    display: flex;
+    /* display: flex; */
     width: 512px;
     min-height: 340px;
     height: auto;
