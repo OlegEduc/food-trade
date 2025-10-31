@@ -1,4 +1,4 @@
-// оновлено 31.10.25: 12:45:26.  Категория цены: Оптова //
+// оновлено 31.10.25: 12:49:24.  Категория цены: Оптова //
 export const products = {
 	"focusProduct" : {
 		"1-739"  :  { 
@@ -8699,7 +8699,7 @@ export const products = {
 			"price" : "16.7",
 			"minCountUnit" : "12",
 			"promotion" : "1",
-			"new-label" : "1",
+			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4355-voda-mineralna-tm-sairme-500ml.jpg",
 			"inStock" : "1",
 			},
@@ -8715,7 +8715,7 @@ export const products = {
 			"price" : "23.9",
 			"minCountUnit" : "12",
 			"promotion" : "1",
-			"new-label" : "1",
+			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4357-voda-mineralna-tm-sairme-negazovana-500ml.jpg",
 			"inStock" : "0",
 			},
@@ -8731,7 +8731,7 @@ export const products = {
 			"price" : "23.9",
 			"minCountUnit" : "6",
 			"promotion" : "1",
-			"new-label" : "1",
+			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4356-voda-mineralna-tm-sairme-1l.jpg",
 			"inStock" : "1",
 			},
