@@ -1,4 +1,4 @@
-// оновлено 03.11.25: 14:20:59.  Категория цены: Оптова //
+// оновлено 03.11.25: 14:41:25.  Категория цены: Оптова //
 export const products = {
 	"Olija" : {
 		"1" :  { 
@@ -5371,7 +5371,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/cukor-50kg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"336" :  { 
 			"category" : "Бакалія",
@@ -8345,7 +8345,7 @@ export const products = {
 			"price" : "16.7",
 			"minCountUnit" : "12",
 			"promotion" : "1",
-			"new-label" : "1",
+			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4355-voda-mineralna-tm-sairme-500ml.jpg",
 			"inStock" : "1",
 			},
@@ -8361,7 +8361,7 @@ export const products = {
 			"price" : "23.9",
 			"minCountUnit" : "12",
 			"promotion" : "1",
-			"new-label" : "1",
+			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4357-voda-mineralna-tm-sairme-negazovana-500ml.jpg",
 			"inStock" : "0",
 			},
@@ -8377,7 +8377,7 @@ export const products = {
 			"price" : "23.9",
 			"minCountUnit" : "6",
 			"promotion" : "1",
-			"new-label" : "1",
+			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4356-voda-mineralna-tm-sairme-1l.jpg",
 			"inStock" : "1",
 			},
@@ -8729,7 +8729,7 @@ export const products = {
 			"price" : "29.9",
 			"minCountUnit" : "20",
 			"promotion" : "1",
-			"new-label" : "1",
+			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4360-limonad-tm-vili-barbaris-500ml.jpg",
 			"inStock" : "1",
 			},
@@ -8745,7 +8745,7 @@ export const products = {
 			"price" : "29.9",
 			"minCountUnit" : "20",
 			"promotion" : "1",
-			"new-label" : "1",
+			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4358-limonad-tm-vili-djushes-500ml.jpg",
 			"inStock" : "1",
 			},
@@ -8761,7 +8761,7 @@ export const products = {
 			"price" : "29.9",
 			"minCountUnit" : "20",
 			"promotion" : "1",
-			"new-label" : "1",
+			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4359-limonad-tm-vili-tarhun-500ml.jpg",
 			"inStock" : "1",
 			},
