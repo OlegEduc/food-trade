@@ -1,4 +1,4 @@
-// оновлено 03.11.25: 09:28:46.  Категория цены: Оптова //
+// оновлено 03.11.25: 14:20:59.  Категория цены: Оптова //
 export const products = {
 	"Olija" : {
 		"1" :  { 
@@ -2515,7 +2515,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-saturn.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"158" :  { 
 			"category" : "Печиво, пряники",
@@ -2627,7 +2627,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4281-sushka-vanilna-chovnik-tm-rajgorodskij-0350-kg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"165" :  { 
 			"category" : "Печиво, пряники",
@@ -3301,7 +3301,7 @@ export const products = {
 			"promotion" : "2",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/jacobs\\1686-kava-jacobs-ep-120-g.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"207" :  { 
 			"category" : "Кава",
@@ -6529,7 +6529,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krupa-kukurudzjana-25-kg.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"408" :  { 
 			"category" : "Крупи",
@@ -6737,7 +6737,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"421" :  { 
 			"category" : "Крупи",
@@ -8185,7 +8185,7 @@ export const products = {
 			"promotion" : "2",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-ribnye\\salaka-darinka.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"511" :  { 
 			"category" : "Консерви рибні",
@@ -8443,7 +8443,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4294-voda-buvette-7-silnogazovana-15-l.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"527" :  { 
 			"category" : "Вода, соки, напої",
@@ -8694,7 +8694,7 @@ export const products = {
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
 			"previousPrice" : "25.9",
-			"price" : "25.9",
+			"price" : "26.9",
 			"minCountUnit" : "12",
 			"promotion" : "1",
 			"new-label" : "1",
@@ -9611,7 +9611,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/1549-sik-granatovij-avalanche-1l.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"600" :  { 
 			"category" : "Вода, соки, напої",
@@ -11024,7 +11024,7 @@ export const products = {
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
 			"previousPrice" : "119",
-			"price" : "119",
+			"price" : "141.9",
 			"minCountUnit" : "10",
 			"promotion" : "1",
 			"new-label" : "1",
@@ -11040,7 +11040,7 @@ export const products = {
 			"baseUnit" : "кг.",
 			"coefficient" : "1",
 			"previousPrice" : "143.9",
-			"price" : "139.9",
+			"price" : "136.9",
 			"minCountUnit" : "5",
 			"promotion" : "2",
 			"new-label" : "1",
@@ -11607,7 +11607,7 @@ export const products = {
 			"promotion" : "2",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/fol'ga-3-m.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 	},
 	"Tara-ta-upakovka" : {
@@ -12265,7 +12265,7 @@ export const products = {
 			"promotion" : "2",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/stakan-paperovij-kol'orovij-175-g.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"765" :  { 
 			"category" : "Тара та упаковка",
