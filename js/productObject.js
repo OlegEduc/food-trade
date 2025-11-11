@@ -1,4 +1,4 @@
-// оновлено 10.11.25: 19:57:30.  Категория цены: Оптова //
+// оновлено 11.11.25: 15:52:32.  Категория цены: Оптова //
 export const products = {
 	"Olija" : {
 		"1" :  { 
@@ -15,7 +15,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/1741-olija-bokarjev-nerafinovana-1l.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"2" :  { 
 			"category" : "Олія",
@@ -159,7 +159,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4335-olija-rafinovana-gospodinja-1l.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"11" :  { 
 			"category" : "Олія",
@@ -233,10 +233,10 @@ export const products = {
 			"unit" : "шт.",
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
-			"previousPrice" : "339.9",
+			"previousPrice" : "329.9",
 			"price" : "329.9",
 			"minCountUnit" : "3",
-			"promotion" : "2",
+			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4260-olija-rafinovana-tm-olivija-5-2l.jpg",
 			"inStock" : "1",
@@ -1021,7 +1021,7 @@ export const products = {
 			"coefficient" : "1",
 			"previousPrice" : "20.9",
 			"price" : "20.9",
-			"minCountUnit" : "20",
+			"minCountUnit" : "14",
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-zhadana-200-g.jpg",
@@ -2318,7 +2318,7 @@ export const products = {
 			"baseUnit" : "кг.",
 			"coefficient" : "1",
 			"previousPrice" : "67.9",
-			"price" : "67.9",
+			"price" : "72.9",
 			"minCountUnit" : "3.4",
 			"promotion" : "1",
 			"new-label" : "1",
@@ -2563,7 +2563,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4275-sushka-vanilna-ljubitelska-tm-rajgorodskij-0350-kg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"161" :  { 
 			"category" : "Печиво, пряники",
@@ -2595,7 +2595,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4279-sushka-vanilna-maljutka-tm-rajgorodskij-0350-kg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"163" :  { 
 			"category" : "Печиво, пряники",
@@ -2869,7 +2869,7 @@ export const products = {
 			"promotion" : "2",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/galka\\kava-galka-zhb-50-g.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"180" :  { 
 			"category" : "Кава",
@@ -6353,7 +6353,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/114-vivsjani-plastivci-tm-sto-pudiv-400g.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"397" :  { 
 			"category" : "Крупи",
@@ -8001,7 +8001,7 @@ export const products = {
 			"unit" : "шт.",
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
-			"previousPrice" : "0",
+			"previousPrice" : "58.9",
 			"price" : "58.9",
 			"minCountUnit" : "12",
 			"promotion" : "1",
@@ -8121,7 +8121,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-ribnye\\kil'ka-supoj-u-tom-sousi.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"507" :  { 
 			"category" : "Консерви рибні",
@@ -8827,7 +8827,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-coca-cola-05.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"551" :  { 
 			"category" : "Вода, соки, напої",
@@ -9563,7 +9563,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-shveps-mohito-075-l.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"597" :  { 
 			"category" : "Вода, соки, напої",
@@ -9579,7 +9579,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-shveps-tonik-075-l.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"598" :  { 
 			"category" : "Вода, соки, напої",
@@ -12382,4 +12382,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['3439', '3459', '3457', '3438', '3437', '3442', '3446', '3444', '3447', '3443', '3448', '596', ]
+export const arrayPlannedArrival = ['3439', '3459', '3457', '3438', '3437', '3442', '3446', '3444', '3447', '3443', '3448', '596', '4330', '4339', '4313', '4312', '4310', '4311', '4309', '4308', ]
