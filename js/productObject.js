@@ -1,4 +1,4 @@
-// оновлено 18.11.25: 11:11:26.  Категория цены: Оптова //
+// оновлено 18.11.25: 15:27:59.  Категория цены: Оптова //
 export const products = {
 	"focusProduct" : {
 		"1-4350"  :  { 
@@ -366,7 +366,7 @@ export const products = {
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
 			"previousPrice" : "19.4",
-			"price" : "18.4",
+			"price" : "17.9",
 			"minCountUnit" : "30",
 			"promotion" : "2",
 			"new-label" : "1",
@@ -382,7 +382,7 @@ export const products = {
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
 			"previousPrice" : "19.4",
-			"price" : "18.4",
+			"price" : "17.9",
 			"minCountUnit" : "30",
 			"promotion" : "2",
 			"new-label" : "1",
@@ -398,7 +398,7 @@ export const products = {
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
 			"previousPrice" : "19.4",
-			"price" : "18.4",
+			"price" : "17.9",
 			"minCountUnit" : "30",
 			"promotion" : "2",
 			"new-label" : "1",
@@ -6001,7 +6001,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\makuha-sonjashnikova-25-kg.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"374" :  { 
 			"category" : "Борошно, висівки",
@@ -6803,7 +6803,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pshono-fas-09-kg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"424" :  { 
 			"category" : "Крупи",
@@ -8331,7 +8331,7 @@ export const products = {
 			"promotion" : "2",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-ribnye\\918-sardini-tm-sojuz-morej-240g-z-dodavannjam-olii.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"519" :  { 
 			"category" : "Консерви рибні",
@@ -9085,7 +9085,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\napij-mirnens'ka-1-l-apel'sin.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"566" :  { 
 			"category" : "Вода, соки, напої",
@@ -10593,7 +10593,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\korm-dlja-kotiv-pan-kot-jalovichina-10-kg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"660" :  { 
 			"category" : "Корма для тварин",
@@ -11175,7 +11175,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2995-finik-temnij-5kg.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"696" :  { 
 			"category" : "Сухофрукти, горіхи",
@@ -11202,7 +11202,7 @@ export const products = {
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
 			"previousPrice" : "71.9",
-			"price" : "67.9",
+			"price" : "70.9",
 			"minCountUnit" : "12",
 			"promotion" : "2",
 			"new-label" : "1",
