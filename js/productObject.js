@@ -1,23 +1,7 @@
-// оновлено 19.11.25: 21:58:38.  Категория цены: Оптова //
+// оновлено 19.11.25: 22:24:23.  Категория цены: Оптова //
 export const products = {
 	"focusProduct" : {
-		"1-1020"  :  { 
-			"category" : "Кондитерські вироби",
-			"productCode" : "1020",
-			"productFullName" : "Халва ТМ\"Жадана\" 5кг.",
-			"productName" : "Халва Жадана 5кг.",
-			"unit" : "кг.",
-			"baseUnit" : "кг.",
-			"coefficient" : "1",
-			"previousPrice" : "101.9",
-			"price" : "101.9",
-			"minCountUnit" : "5",
-			"promotion" : "1",
-			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-zhadana-5.jpg",
-			"inStock" : "1",
-			},
-		"2-4350"  :  { 
+		"1-4350"  :  { 
 			"category" : "Крупи",
 			"productCode" : "4350",
 			"productFullName" : "Кутя \"Різдвяна\" ТМ\"Добробут\" родзинки, мак, горіх 380гр.",
@@ -31,6 +15,22 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4350-kutja-rizdvjana-tm-dobrobut-380gr.jpg",
+			"inStock" : "1",
+			},
+		"2-1020"  :  { 
+			"category" : "Кондитерські вироби",
+			"productCode" : "1020",
+			"productFullName" : "Халва ТМ\"Жадана\" 5кг.",
+			"productName" : "Халва Жадана 5кг.",
+			"unit" : "кг.",
+			"baseUnit" : "кг.",
+			"coefficient" : "1",
+			"previousPrice" : "101.9",
+			"price" : "101.9",
+			"minCountUnit" : "5",
+			"promotion" : "1",
+			"new-label" : "1",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-zhadana-5.jpg",
 			"inStock" : "1",
 			},
 	},
