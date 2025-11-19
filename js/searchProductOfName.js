@@ -1,5 +1,5 @@
 import { products } from "./productObject.js";
-import { rendMainContent } from "./rendMainContent.js";
+import { rendMainContent, getValuePrice } from "./rendMainContent.js";
 
 const searchInput = document.querySelector("#search-input");
 const search = document.querySelector(".search");
@@ -99,6 +99,7 @@ function returnObjectOfSearch() {
 
   place.innerHTML = ""; // очищаем содержимое контента
   if (Object.keys(resaultObj).length > 0) {
+    console.log(resaultObj)
     rendMainContent(resaultObj); // выводим результат поиска  
 
   } else {

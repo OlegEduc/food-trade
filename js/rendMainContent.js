@@ -78,8 +78,8 @@ export function rendMainContent(prod) {
     // категория товара
     category = Object.keys(prod)[i];
     console.log(productCategorys[category])
-    const cat = `<div class="category-goods" id="${category}"> </div>`;
-{/* <h2>${category} </h2> */}
+    const cat = `<article class="category-goods" id="${category}"> </article>`;
+    {/* <h2>${category} </h2> */ }
     place.insertAdjacentHTML("beforeEnd", cat);
 
     productsItems = new Object(prodLevelOne[i]);
@@ -125,7 +125,7 @@ export function rendMainContent(prod) {
       var DivProductCode = `<span class="productCode">код: ${productCode.padStart(5, '0')}</span>`
 
       sectionGood = `
-				<div class="grid-item" data-productCode = ${productCode}>
+				<article class="grid-item" data-productCode = ${productCode}>
         ${arrival}
         ${newLabelBlock}
        
@@ -150,7 +150,7 @@ export function rendMainContent(prod) {
           price,
           unit
         )} </div>                   
-        </div>`;
+        </article>`;
       }
 
       place.insertAdjacentHTML("beforeEnd", sectionGood);
@@ -159,7 +159,7 @@ export function rendMainContent(prod) {
     // ищем все секции категорий и меняем в последней текст
     const catDiv = document.querySelectorAll(".category-goods");
     if (category != "focusProduct") {
-      catDiv[ catDiv.length - 1].innerHTML = `<h2>${productsItems[item]["category"] }</h2>`;
+      catDiv[catDiv.length - 1].innerHTML = `<h2>${productsItems[item]["category"]}</h2>`;
     } else {
       catDiv[catDiv.length - 1].innerHTML = "";
     }
