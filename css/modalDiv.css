@@ -84,9 +84,10 @@
     height: 10%;
     width: 100%;
     font-size: 2rem;
-    align-items: end;
+    /* align-items: end; */
     justify-content: center;
 }
+
 
 
 @media screen and (max-width: 960px) {
