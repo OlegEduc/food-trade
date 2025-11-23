@@ -76,10 +76,13 @@ export function rendMainContent(prod) {
 
   for (let i = 0; i < prodLevelOne.length; i++) {
     // категория товара
-    category = Object.keys(prod)[i];    
-    const cat = `<article class="category-goods" id="${category}"> </article>`;
-    {/* <h2>${category} </h2> */ }
+    category = Object.keys(prod)[i];
+    const cat = `<article class="category-goods"> </article>
+              <div id="${category}" class="anchor"></div>
+                 `;
+
     place.insertAdjacentHTML("beforeEnd", cat);
+
 
     productsItems = new Object(prodLevelOne[i]);
 
