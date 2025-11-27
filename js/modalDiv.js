@@ -14,7 +14,9 @@ window.addEventListener("click", function (event) {
     const productName = getElement(curentEl.dataset.productcode, products)[
       "productFullName"
     ];
-
+    const inStock = getElement(curentEl.dataset.productcode, products)[
+      "inStock"
+    ];
 
     const minCountUnit = getElement(curentEl.dataset.productcode, products)[
       "minCountUnit"
@@ -32,7 +34,7 @@ window.addEventListener("click", function (event) {
          <div class="text-goods-name">${productName} <br>
          <span class="code-gods">код: ${productCode.padStart(5, '0')}<span><br>
          <span class="text-min-qty">*ціна діє при купівлі від ${minCountUnit} ${baseUnit} </span> </div> 
-         <div class="text-goods-price">${getValuePrice(price, baseUnit)} </div>	
+         <div class="text-goods-price">${textPrice(inStock, price, baseUnit)} </div>	
     </div>
   `;
   }
@@ -47,13 +49,21 @@ window.addEventListener("click", function (event) {
   }
 });
 
-// находит предка элемента с указанным классом
-function findAncestor(el, cls) {
+
+const textPrice = (inStock, price, baseUnit) => { // возвращает текст для секции цены 
+  if (inStock === '1') {
+    return getValuePrice(price, baseUnit)
+  } else {
+    return `Товар відсутній`
+  }
+}
+
+const findAncestor = (el, cls) => {  // находит предка элемента с указанным классом
   while ((el = el.parentElement) && !el.classList.contains(cls)) { }
   return el;
 }
 
-function getElement(elemId, whereAreWeLooking) {
+const getElement = (elemId, whereAreWeLooking) => {
   for (let key in whereAreWeLooking) {
     for (let el in whereAreWeLooking[key]) {
       if (elemId == whereAreWeLooking[key][el]["productCode"]) {
