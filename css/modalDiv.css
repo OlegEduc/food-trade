@@ -91,6 +91,11 @@
 
 
 @media screen and (max-width: 960px) {
+
+    .content::before {
+        background-size: 5%;
+    }
+
     .modal-wrapper.open .modal {
         height: 90%;
     }
@@ -106,6 +111,10 @@
 
 
 @media screen and (max-width: 600px) {
+.content::before {
+        background-size: 10%;
+    }
+
     .modal-wrapper {
         height: 100vh;
     }
