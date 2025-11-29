@@ -1,4 +1,4 @@
-// оновлено 28.11.25: 13:10:30.  Категория цены: Оптова //
+// оновлено 29.11.25: 13:48:35.  Категория цены: Оптова //
 export const products = {
 	"focusProduct" : {
 		"1-4326"  :  { 
@@ -3207,7 +3207,7 @@ export const products = {
 			"promotion" : "2",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nescafe\\kava-neskafe-klasik-e-p-120-gr.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"197" :  { 
 			"category" : "Кава",
