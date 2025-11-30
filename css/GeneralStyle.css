@@ -140,14 +140,12 @@ body {
   /* для отрисовки картинки background*/
   content: '';
   position: absolute;
-  /* top: -30%; */
   left: 0;
   min-width: 100%;
   min-height: 100%;
-  background-image: url("https://olegeduc.github.io/food-trade/image/logo-food-trade-for-background.png");
+  /* background-image: url("https://olegeduc.github.io/food-trade/image/logo-food-trade-for-background.png"); */
   background-size: 10%;
   z-index: -1;
-  /* rotate: -15deg; */
   opacity: 0.1;
   overflow: hidden;
 }

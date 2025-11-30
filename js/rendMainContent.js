@@ -9,8 +9,6 @@ import { addCounter, updateCounter, setSizeCounter } from "./CounterDown.js";
 import { draw } from "./InfinitySlider.js";
 
 
-
-
 setHeightUserWindow();
 //наполняем sidebar контентом (группами товара)
 const sidebar = document.querySelector(".sidebar");
@@ -83,7 +81,6 @@ export function rendMainContent(prod) {
 
     place.insertAdjacentHTML("beforeEnd", cat);
 
-
     productsItems = new Object(prodLevelOne[i]);
 
     let inStockClass = '';
@@ -153,12 +150,13 @@ export function rendMainContent(prod) {
             unit
           )} </div>                   
         </article>`;
-        }  }else {
-          sectionGood += `     
+        }
+      } else {
+        sectionGood += `     
 						<div class="text-goods-price" style="text-align:center; font-weight:500" >Товар відсутній</div>                   
         </article>`;
-        }
-     
+      }
+
 
       place.insertAdjacentHTML("beforeEnd", sectionGood);
     }
@@ -167,7 +165,8 @@ export function rendMainContent(prod) {
     const catDiv = document.querySelectorAll(".category-goods");
     if (category != "focusProduct") {
       catDiv[catDiv.length - 1].innerHTML = `<h2>${productsItems[item]["category"]}</h2>`;
-    } else {
+    }
+    else {
       catDiv[catDiv.length - 1].innerHTML = "";
     }
   }

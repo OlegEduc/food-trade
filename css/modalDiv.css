@@ -133,3 +133,12 @@
     }
 
 }
+
+
+/*
+# breakpoint viweport
+# 0 - 480 = Smaller smartfones
+# 481 - 768 = Tablets & larger smartgones
+# 769 - 1279 = Laptops, larged tablets, and smaal desctops
+# 1280+ = Larger desktops and monitors 
+*/
