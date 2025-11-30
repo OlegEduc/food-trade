@@ -111,9 +111,9 @@
 
 
 @media screen and (max-width: 600px) {
-.content::before {
+/* .content::before {
         background-size: 15%;
-    }
+    } */
 
     .modal-wrapper {
         height: 100vh;
