@@ -165,6 +165,7 @@ body {
   font-weight: 500;
   border: 1px solid #3d550c;
   overflow: auto;
+  z-index: 11;
 }
 
 .sidebar-item {
@@ -177,6 +178,7 @@ body {
   text-decoration: none;
   padding: 10px 0;
   border: 1px solid #74f596;
+   z-index: 11;
 }
 
 /* checkbox start*/
@@ -280,12 +282,11 @@ input[type="checkbox"]:checked+label::after {
   position: relative;
   grid-template-rows: 65% auto;
   background-color: white;
-  /* border-radius: 0.7rem; */
   box-shadow: 0px 0px white, 0px 0px 1px #b2b2b2;
   max-height: 35vh;
   max-width: auto;
   min-height: 300px;
-  /* overflow: hidden; */
+  z-index: 3;
 }
 
 .grid-item-prodano {
