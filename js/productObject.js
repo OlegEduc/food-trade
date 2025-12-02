@@ -1,39 +1,5 @@
-// оновлено 02.12.25: 11:04:18.  Категория цены: Оптова //
+// оновлено 02.12.25: 18:48:51.  Категория цены: Оптова //
 export const products = {
-	"focusProduct" : {
-		"1-1882"  :  { 
-			"category" : "Консерви м'ясні",
-			"productCode" : "1882",
-			"productFullName" : "Паштет Classo М'ясо м'ясний Домашній 300 гр",
-			"productName" : "Паштет Classo М'ясо м'ясний Домашній 300 гр",
-			"unit" : "шт.",
-			"baseUnit" : "шт.",
-			"coefficient" : "1",
-			"previousPrice" : "39.9",
-			"price" : "37.8",
-			"minCountUnit" : "18",
-			"promotion" : "2",
-			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/classo-konservi\\classo-pashtet-mjasnij-domashnij-325g.jpg",
-			"inStock" : "1",
-			},
-		"2-1890"  :  { 
-			"category" : "Консерви м'ясні",
-			"productCode" : "1890",
-			"productFullName" : "Паштет Classo М'ясо печінковий Ніжний 300 гр",
-			"productName" : "Паштет Classo М'ясо печінковий Ніжний 300 гр",
-			"unit" : "шт.",
-			"baseUnit" : "шт.",
-			"coefficient" : "1",
-			"previousPrice" : "39.9",
-			"price" : "35.8",
-			"minCountUnit" : "18",
-			"promotion" : "2",
-			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/classo-konservi\\classo-pashtet-pechinkovij-325g.jpg",
-			"inStock" : "1",
-			},
-	},
 	"Olija" : {
 		"1" :  { 
 			"category" : "Олія",
@@ -515,7 +481,7 @@ export const products = {
 			"promotion" : "2",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vafel'ni-korzhi-65g-velika.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"31" :  { 
 			"category" : "Кондитерські вироби",
@@ -3479,7 +3445,7 @@ export const products = {
 			"promotion" : "2",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/jacobs\\kava-jakobs-monarh-stik-2gr.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"216" :  { 
 			"category" : "Кава",
@@ -4891,7 +4857,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/suhari-panir-pervomajsk.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"304" :  { 
 			"category" : "Приправи та спеції",
@@ -5818,7 +5784,7 @@ export const products = {
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
 			"previousPrice" : "30.9",
-			"price" : "30.9",
+			"price" : "31.9",
 			"minCountUnit" : "10",
 			"promotion" : "1",
 			"new-label" : "1",
@@ -5930,9 +5896,9 @@ export const products = {
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
 			"previousPrice" : "19.5",
-			"price" : "19.5",
+			"price" : "19.3",
 			"minCountUnit" : "40",
-			"promotion" : "1",
+			"promotion" : "2",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kmf-jaroslav\\spagetti-jaroslav-450gr.jpg",
 			"inStock" : "1",
@@ -5946,7 +5912,7 @@ export const products = {
 			"baseUnit" : "кг.",
 			"coefficient" : "6",
 			"previousPrice" : "174.9",
-			"price" : "174.9",
+			"price" : "175.9",
 			"minCountUnit" : "12",
 			"promotion" : "1",
 			"new-label" : "1",
@@ -7479,7 +7445,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\goroshok-zel-tm-schedra-niva-zhb-420gr.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"465" :  { 
 			"category" : "Консервація плодо-овочева",
@@ -7687,7 +7653,7 @@ export const products = {
 			"promotion" : "2",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/olivki-santarrita-bez-kistochki-280g.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 	},
 	"Konservi-m'jasni" : {
@@ -8877,7 +8843,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-coca-cola-075.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"552" :  { 
 			"category" : "Вода, соки, напої",
@@ -10111,7 +10077,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/moloko-zguschene-karam-gavrjusha-530-g-sb.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"629" :  { 
 			"category" : "Молочна продукція, масло",
