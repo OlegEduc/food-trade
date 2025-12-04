@@ -103,9 +103,8 @@ function returnObjectOfSearch() {
     rendMainContent(resaultObj); // выводим результат поиска  
 
   } else {
-    // если ничего не нашли
-    place.style.cssText = `font-size: 2.5rem; 
-                          color: green;
+    // если ничего не нашли font-size: 2.5rem; 
+    place.style.cssText = `color: green;
                           text-aline: center; 
                           padding: auto; 
                           aline-items: center; 
