@@ -1,4 +1,4 @@
-// оновлено 19.12.25: 09:45:56.  Категория цены: Оптова //
+// оновлено 19.12.25: 11:04:19.  Категория цены: Оптова //
 export const products = {
 	"Konservi-m'jasni" : {
 		"1" :  { 
@@ -1662,7 +1662,7 @@ export const products = {
 			"baseUnit" : "кг.",
 			"coefficient" : "1",
 			"previousPrice" : "169.9",
-			"price" : "161.9",
+			"price" : "158.9",
 			"minCountUnit" : "1.7",
 			"promotion" : "2",
 			"new-label" : "1",
@@ -1678,7 +1678,7 @@ export const products = {
 			"baseUnit" : "кг.",
 			"coefficient" : "1",
 			"previousPrice" : "169.9",
-			"price" : "161.9",
+			"price" : "158.9",
 			"minCountUnit" : "1.7",
 			"promotion" : "2",
 			"new-label" : "1",
@@ -1694,7 +1694,7 @@ export const products = {
 			"baseUnit" : "кг.",
 			"coefficient" : "1",
 			"previousPrice" : "169.9",
-			"price" : "161.9",
+			"price" : "158.9",
 			"minCountUnit" : "1.7",
 			"promotion" : "2",
 			"new-label" : "1",
@@ -2965,7 +2965,7 @@ export const products = {
 			"promotion" : "2",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4274-suhari-kiivski-z-rodzinkami-tm-rajgorod-0250-kg.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"186" :  { 
 			"category" : "Печиво, пряники",
@@ -2981,7 +2981,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4275-sushka-vanilna-ljubitelska-tm-rajgorodskij-0350-kg.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"187" :  { 
 			"category" : "Печиво, пряники",
@@ -2997,7 +2997,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4277-sushka-ljubitelska-tm-rajgorodskij-2kg.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"188" :  { 
 			"category" : "Печиво, пряники",
@@ -3013,7 +3013,7 @@ export const products = {
 			"promotion" : "2",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4279-sushka-vanilna-maljutka-tm-rajgorodskij-0350-kg.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"189" :  { 
 			"category" : "Печиво, пряники",
@@ -3029,7 +3029,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4278-sushka-maljutka-tm-rajgorodskij-2kg.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"190" :  { 
 			"category" : "Печиво, пряники",
