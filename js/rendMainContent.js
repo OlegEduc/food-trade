@@ -24,6 +24,8 @@ const sectionCart = `<div class="items counter-wrapper">
                         <button data-cart class="add-to-cart" data-action="addToCart">додати в кошик</button>
                      </div>`;
 
+
+
 export function rendMainContent(prod) {
   //наполняем товарами из объекта products
 
@@ -188,6 +190,14 @@ export function getValuePrice(el, baseUnit, sect) {
 const chbShowAllGoods = document.querySelector('#inputShowAllGoods');
 
 chbShowAllGoods.addEventListener('click', () => {
+
+  if (localStorage.getItem('ShowAllGoods') === true) {
+    localStorage.setItem('ShowAllGoods', false);
+  } else {
+    localStorage.setItem('ShowAllGoods', true);
+  }
+
+
   const place = document.querySelector(".content");
   place.innerHTML = ''
 
