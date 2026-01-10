@@ -1,4 +1,4 @@
-// оновлено 09.01.26: 09:22:45.  Категория цены: Оптова //
+// оновлено 10.01.26: 17:33:37.  Категория цены: Оптова //
 export const products = {
 	"Konservi-m'jasni" : {
 		"1" :  { 
@@ -2400,9 +2400,9 @@ export const products = {
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
 			"previousPrice" : "37.9",
-			"price" : "35.9",
+			"price" : "37.9",
 			"minCountUnit" : "3",
-			"promotion" : "2",
+			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4271-pechivo-vivsjane-tm-rajgorodskij-korovaj-0420-kg.jpg",
 			"inStock" : "1",
@@ -2464,9 +2464,9 @@ export const products = {
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
 			"previousPrice" : "38.9",
-			"price" : "37.2",
+			"price" : "38.9",
 			"minCountUnit" : "3",
-			"promotion" : "2",
+			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4273-pechivo-zlakove-tm-rajgorodskij-korovaj-0420-kg.jpg",
 			"inStock" : "0",
@@ -2880,9 +2880,9 @@ export const products = {
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
 			"previousPrice" : "28.9",
-			"price" : "26.9",
+			"price" : "28.9",
 			"minCountUnit" : "5",
-			"promotion" : "2",
+			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4274-suhari-kiivski-z-rodzinkami-tm-rajgorod-0250-kg.jpg",
 			"inStock" : "1",
@@ -11088,7 +11088,7 @@ export const products = {
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
 			"previousPrice" : "32.9",
-			"price" : "30.4",
+			"price" : "29.9",
 			"minCountUnit" : "25",
 			"promotion" : "2",
 			"new-label" : "1",
