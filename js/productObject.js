@@ -1,6 +1,6 @@
-// оновлено 10.01.26: 17:38:39.  Категория цены: Оптова //
+// оновлено 11.01.26: 17:01:42.  Категория цены: Оптова //
 export const products = {
-	"Konservi-m'jasni" : {
+	"Konservi-mjasni" : {
         "1" :  { 
             "category" : "Консерви м'ясні",
             "productCode" : "1888",
@@ -644,7 +644,7 @@ export const products = {
             "inStock" : "1",
             },
 	},
-	"Konditers'ki-virobi" : {
+	"Konditerski-virobi" : {
         "41" :  { 
             "category" : "Кондитерські вироби",
             "productCode" : "4323",
@@ -12227,9 +12227,9 @@ export const products = {
 
 
 export const productCategorys = {
-	"Konservi-m'jasni" : "Консерви м'ясні",
+	"Konservi-mjasni" : "Консерви м'ясні",
 	"Olija" : "Олія",
-	"Konditers'ki-virobi" : "Кондитерські вироби",
+	"Konditerski-virobi" : "Кондитерські вироби",
 	"Pechivo-prjaniki" : "Печиво, пряники",
 	"Kava" : "Кава",
 	"CHai" : "Чаї",
