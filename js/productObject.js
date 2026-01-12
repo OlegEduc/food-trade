@@ -1,4 +1,4 @@
-// оновлено 11.01.26: 17:22:33.  Категория цены: Оптова //
+// оновлено 12.01.26: 10:11:49.  Категория цены: Оптова //
 export const products = {
 	"Konservi-mjasni" : {
         "1" :  { 
@@ -2088,7 +2088,7 @@ export const products = {
         "131" :  { 
             "category" : "Кондитерські вироби",
             "productCode" : "4125",
-            "productFullName" : "Цукерки вафельні \"Чарівна  історія\" фл\/пак, екран 1,5 кг",
+            "productFullName" : "Цукерки вафельні \"Fairy tale\" фл\/пак, екран 1,5 кг",
             "productName" : "Цук ваф Чарівна  Історія фл\/пак, экран 1,5 кг",
             "unit" : "кг.",
             "baseUnit" : "кг.",
@@ -2098,7 +2098,7 @@ export const products = {
             "minCountUnit" : "1.5",
             "promotion" : "2",
             "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\cuk-vaf-charivna-istorija-flpak-jekran-1-kg.jpg",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\4125-cukerki-vafelni-charivna-istorija-flpak-ekran-15-kg.jpg",
             "inStock" : "1",
             },
         "132" :  { 
@@ -4379,7 +4379,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pidprijemtvo-rada\\vanil'nij-cukor-iva-pak.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "274" :  { 
             "category" : "Приправи та спеції",
@@ -6957,7 +6957,7 @@ export const products = {
             "unit" : "кг.",
             "baseUnit" : "кг.",
             "coefficient" : "1",
-            "previousPrice" : "14.9",
+            "previousPrice" : "29.9",
             "price" : "29.9",
             "minCountUnit" : "25",
             "promotion" : "1",
@@ -10111,7 +10111,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/visivki-pshenichni-mishok.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "631" :  { 
             "category" : "Корма для тварин",
