@@ -1,4 +1,4 @@
-// оновлено 22.01.26: 13:27:35.  Категория цены: Оптова //
+// оновлено 23.01.26: 09:58:35.  Категория цены: Оптова //
 export const products = {
 	"Konservi-mjasni" : {
         "1" :  { 
@@ -6220,12 +6220,12 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "20",
             "previousPrice" : "320",
-            "price" : "320",
+            "price" : "340",
             "minCountUnit" : "20",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\makuha-sonjashnikova-25-kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "389" :  { 
             "category" : "Борошно, висівки",
@@ -6734,7 +6734,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "20.9",
-            "price" : "20.9",
+            "price" : "23.9",
             "minCountUnit" : "25",
             "promotion" : "1",
             "new-label" : "1",
@@ -6851,7 +6851,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krupa-pshenichna-fas-07-kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "428" :  { 
             "category" : "Крупи",
@@ -9960,12 +9960,12 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "33.9",
-            "price" : "33.9",
+            "price" : "35.9",
             "minCountUnit" : "1",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2661-moloko-tm-galichina-25-900g-ultrapas.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "622" :  { 
             "category" : "Молочна продукція, масло",
@@ -11175,7 +11175,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kohavinka-rul.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "697" :  { 
             "category" : "Госп.товари",
