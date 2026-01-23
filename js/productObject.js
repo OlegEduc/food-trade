@@ -1,4 +1,4 @@
-// оновлено 23.01.26: 10:25:22.  Категория цены: Оптова //
+// оновлено 23.01.26: 10:26:25.  Категория цены: Оптова //
 export const products = {
 	"Konservi-mjasni" : {
         "1" :  { 
@@ -739,7 +739,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\goll'ski-miio-prjazhenogo-moloka.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "47" :  { 
             "category" : "Кондитерські вироби",
@@ -755,7 +755,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\goll'ski-miio-prjazhenogo-moloka.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "48" :  { 
             "category" : "Кондитерські вироби",
