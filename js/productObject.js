@@ -1,4 +1,4 @@
-// оновлено 28.01.26: 12:06:15.  Категория цены: Оптова //
+// оновлено 28.01.26: 16:14:20.  Категория цены: Оптова //
 export const products = {
 	"Konservi-mjasni" : {
         "1" :  { 
@@ -739,7 +739,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\goll'ski-miio-prjazhenogo-moloka.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "47" :  { 
             "category" : "Кондитерські вироби",
@@ -755,7 +755,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\goll'ski-miio-prjazhenogo-moloka.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "48" :  { 
             "category" : "Кондитерські вироби",
@@ -2517,7 +2517,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4339-pechivo-cukrove-duo-de-luxe.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "158" :  { 
             "category" : "Печиво, пряники",
@@ -2629,7 +2629,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4313-pechivo-cukrove-krapka-kanapka-plomb.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "165" :  { 
             "category" : "Печиво, пряники",
@@ -2645,7 +2645,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4312-pechivo-cukrove-krapka-kanapka-shokolad.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "166" :  { 
             "category" : "Печиво, пряники",
@@ -2677,7 +2677,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4363-pech-podilske-12-h-pak-prjazh-mol-golski.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "168" :  { 
             "category" : "Печиво, пряники",
@@ -2853,7 +2853,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-saturn.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "179" :  { 
             "category" : "Печиво, пряники",
@@ -4427,7 +4427,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gvozdika-nektar.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "277" :  { 
             "category" : "Приправи та спеції",
@@ -5003,7 +5003,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4324-priprava-rmix-universalna-850-g-polscha.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "313" :  { 
             "category" : "Приправи та спеції",
@@ -5325,7 +5325,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mak-vagovij.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "333" :  { 
             "category" : "Бакалія",
@@ -11088,7 +11088,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "65.9",
-            "price" : "65.9",
+            "price" : "75.9",
             "minCountUnit" : "5",
             "promotion" : "1",
             "new-label" : "1",
@@ -11924,9 +11924,9 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "3.9",
-            "price" : "0",
+            "price" : "3.9",
             "minCountUnit" : "100",
-            "promotion" : "2",
+            "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mishok-polipropilenovij-30-h-45.jpg",
             "inStock" : "1",
@@ -12302,4 +12302,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['3500', '3615', '4339', '4313', '4312', '4366', '4363', '4308', '3845', '3520', '4294', ]
+export const arrayPlannedArrival = []
