@@ -1,4 +1,4 @@
-// оновлено 28.01.26: 16:14:20.  Категория цены: Оптова //
+// оновлено 28.01.26: 16:37:03.  Категория цены: Оптова //
 export const products = {
 	"Konservi-mjasni" : {
         "1" :  { 
@@ -787,7 +787,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vafel'ni-korzhi-65g-velika.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "50" :  { 
             "category" : "Кондитерські вироби",
@@ -803,7 +803,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vafel'ni-korzhi-veselka-lekorna-140g-velika.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "51" :  { 
             "category" : "Кондитерські вироби",
@@ -5898,7 +5898,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "39.9",
-            "price" : "39.9",
+            "price" : "43.9",
             "minCountUnit" : "10",
             "promotion" : "1",
             "new-label" : "1",
@@ -6492,12 +6492,12 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "22.9",
-            "price" : "22.9",
+            "price" : "25.5",
             "minCountUnit" : "10",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/muka-sto-pudov-1kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "406" :  { 
             "category" : "Борошно, висівки",
@@ -6508,7 +6508,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "45.9",
-            "price" : "45.9",
+            "price" : "48.9",
             "minCountUnit" : "6",
             "promotion" : "1",
             "new-label" : "1",
@@ -11785,7 +11785,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krishka-pet-bila.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "735" :  { 
             "category" : "Тара та упаковка",
