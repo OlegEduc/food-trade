@@ -1,4 +1,4 @@
-// оновлено 29.01.26: 09:48:29.  Категория цены: Оптова //
+// оновлено 29.01.26: 10:16:42.  Категория цены: Оптова //
 export const products = {
 	"Konservi-mjasni" : {
         "1" :  { 
@@ -4121,7 +4121,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tri-slona\\1114-chaj-tm-tri-sloni-cejlonskij-sunicja-20-13g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "258" :  { 
             "category" : "Чаї",
@@ -7139,7 +7139,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ris-kruglij-09-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "446" :  { 
             "category" : "Крупи",
@@ -8475,7 +8475,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/voda-mirnenska-15l-silno-gazovana-avalon.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "529" :  { 
             "category" : "Вода, соки, напої",
@@ -8971,7 +8971,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2051-napij-tm-maksi-frukt-sitro-3l.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "560" :  { 
             "category" : "Вода, соки, напої",
