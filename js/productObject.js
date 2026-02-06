@@ -1,4 +1,4 @@
-// оновлено 05.02.26: 09:40:29.  Категория цены: Оптова //
+// оновлено 06.02.26: 10:39:01.  Категория цены: Оптова //
 export const products = {
 	"Konservi-mjasni" : {
         "1" :  { 
@@ -3865,7 +3865,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/chaj\\chaj-batik-chornij-barhat.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "242" :  { 
             "category" : "Чаї",
@@ -4735,6 +4735,22 @@ export const products = {
             },
         "296" :  { 
             "category" : "Приправи та спеції",
+            "productCode" : "3422",
+            "productFullName" : "Приправа Prymat для корейської моркви 25г.",
+            "productName" : "Приправа Prymat для корейської моркви 25г.",
+            "unit" : "шт.",
+            "baseUnit" : "шт.",
+            "coefficient" : "1",
+            "previousPrice" : "0",
+            "price" : "0",
+            "minCountUnit" : "25",
+            "promotion" : "1",
+            "new-label" : "1",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/priprava-avokado-dlja-korejskoi-morkvi-25gr.jpg",
+            "inStock" : "0",
+            },
+        "297" :  { 
+            "category" : "Приправи та спеції",
             "productCode" : "3798",
             "productFullName" : "Приправа ТМ \"Prymat\" до курки 20г.",
             "productName" : "Приправа Prymat до курки 20г.Примат",
@@ -4749,7 +4765,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/prymat\\3798-priprava-tm-prymat-do-kurki-20g.jpg",
             "inStock" : "0",
             },
-        "297" :  { 
+        "298" :  { 
             "category" : "Приправи та спеції",
             "productCode" : "3512",
             "productFullName" : "Приправа ТМ \"Prymat\" до плову 25г.",
@@ -4765,7 +4781,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/prymat\\primat-do-plovu.jpg",
             "inStock" : "1",
             },
-        "298" :  { 
+        "299" :  { 
             "category" : "Приправи та спеції",
             "productCode" : "4066",
             "productFullName" : "Приправа ТМ \"Prymat\" до риби 20г.",
@@ -4781,7 +4797,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/prymat\\primat-do-ribi.jpg",
             "inStock" : "0",
             },
-        "299" :  { 
+        "300" :  { 
             "category" : "Приправи та спеції",
             "productCode" : "4067",
             "productFullName" : "Приправа ТМ \"Prymat\" до смаженого м'яса 20г.",
@@ -4797,7 +4813,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/prymat\\4067-priprava-tm-prymat-do-smazhenogo-mjasa-20g.jpg",
             "inStock" : "0",
             },
-        "300" :  { 
+        "301" :  { 
             "category" : "Приправи та спеції",
             "productCode" : "4068",
             "productFullName" : "Приправа ТМ \"Prymat\" до шашлику 25г.",
@@ -4813,7 +4829,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/prymat\\4068-priprava-tm-prymat-do-shashliku-25g.jpg",
             "inStock" : "1",
             },
-        "301" :  { 
+        "302" :  { 
             "category" : "Приправи та спеції",
             "productCode" : "4285",
             "productFullName" : "Приправа ТМ \"Prymat\" паприка солодка мелена 18 г.",
@@ -4829,7 +4845,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/prymat\\4285-priprava-tm-prymat-paprika-solodka-18-g.jpg",
             "inStock" : "0",
             },
-        "302" :  { 
+        "303" :  { 
             "category" : "Приправи та спеції",
             "productCode" : "3427",
             "productFullName" : "Приправа ТМ \"Prymat\" хмелі-сунелі 25г.",
@@ -4845,7 +4861,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/prymat\\3427-priprava-tm-prymat-hmeli-suneli-25g.jpg",
             "inStock" : "0",
             },
-        "303" :  { 
+        "304" :  { 
             "category" : "Приправи та спеції",
             "productCode" : "3429",
             "productFullName" : "Приправа ТМ \"Prymat\" часник сушений 15 г.",
@@ -4861,7 +4877,7 @@ export const products = {
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/prymat\\3429-priprava-tm-prymat-chasnik-sushenij-15-g.jpg",
             "inStock" : "0",
             },
-        "304" :  { 
+        "305" :  { 
             "category" : "Приправи та спеції",
             "productCode" : "4324",
             "productFullName" : "Приправа RMIX універсальна 850 г (Польща)",
@@ -4875,9 +4891,9 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4324-priprava-rmix-universalna-850-g-polscha.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
-        "305" :  { 
+        "306" :  { 
             "category" : "Приправи та спеції",
             "productCode" : "3419",
             "productFullName" : "Приправа ТМ \"Авокадо\" аджика 25г.",
@@ -4892,22 +4908,6 @@ export const products = {
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/priprava-avokado-adzhika-25gr.jpg",
             "inStock" : "1",
-            },
-        "306" :  { 
-            "category" : "Приправи та спеції",
-            "productCode" : "3422",
-            "productFullName" : "Приправа ТМ \"Авокадо\" для корейської моркви 25г.",
-            "productName" : "Приправа Авокадо для корейської моркви 25г.",
-            "unit" : "шт.",
-            "baseUnit" : "шт.",
-            "coefficient" : "1",
-            "previousPrice" : "0",
-            "price" : "0",
-            "minCountUnit" : "25",
-            "promotion" : "1",
-            "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/priprava-avokado-dlja-korejskoi-morkvi-25gr.jpg",
-            "inStock" : "0",
             },
         "307" :  { 
             "category" : "Приправи та спеції",
@@ -5661,7 +5661,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/cukor-fasovanij-1-kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
 	},
 	"Makaronni-virobi" : {
@@ -6515,7 +6515,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/grechana-krupa.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "407" :  { 
             "category" : "Крупи",
@@ -8507,7 +8507,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4262-voda-mineralna-shajanska-15l-prirodna.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "531" :  { 
             "category" : "Вода, соки, напої",
@@ -9451,7 +9451,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/1549-sik-granatovij-avalanche-1l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "590" :  { 
             "category" : "Вода, соки, напої",
@@ -11239,7 +11239,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/rukav-dlja-zapikannja-3-m.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "701" :  { 
             "category" : "Госп.товари",
@@ -12046,4 +12046,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['596', '953', ]
+export const arrayPlannedArrival = ['953', ]
