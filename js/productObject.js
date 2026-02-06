@@ -1,4 +1,4 @@
-// оновлено 06.02.26: 10:39:01.  Категория цены: Оптова //
+// оновлено 06.02.26: 22:33:27.  Категория цены: Оптова //
 export const products = {
 	"Konservi-mjasni" : {
         "1" :  { 
@@ -1267,7 +1267,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-zhadana-200-g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "80" :  { 
             "category" : "Кондитерські вироби",
@@ -1427,7 +1427,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-zhadana-330-g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "90" :  { 
             "category" : "Кондитерські вироби",
@@ -1459,7 +1459,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-zhadana-5.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "92" :  { 
             "category" : "Кондитерські вироби",
@@ -1475,7 +1475,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-zhadana-5-zebra.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "93" :  { 
             "category" : "Кондитерські вироби",
@@ -1491,7 +1491,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-zhadana-900g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "94" :  { 
             "category" : "Кондитерські вироби",
@@ -8315,7 +8315,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/voda-kujalnik-15lmin.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "519" :  { 
             "category" : "Вода, соки, напої",
@@ -12046,4 +12046,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['953', ]
+export const arrayPlannedArrival = ['953', '4254', '4113', '2798', '2879', '3614', '4330', '4331', '4363', '4308', '3520', ]
