@@ -19,12 +19,16 @@
 
   .topnav a,
   .topnav .menu-item {
-    font-size: 12px;
+    font-size: 13px;
   }
 
-    .min_sum__wrapper {
-      font-size: 1rem;
-    }
+  .min_sum__wrapper {
+    font-size: 1rem;
+  }
+
+  .header {
+    grid-template-columns: 60px auto 10%;
+  }
 
 
 }
