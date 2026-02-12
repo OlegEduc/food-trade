@@ -111,7 +111,7 @@
 
 
 @media screen and (max-width: 600px) {
-/* .content::before {
+    /* .content::before {
         background-size: 15%;
     } */
 
@@ -130,6 +130,16 @@
         height: auto;
         width: 80%;
         border-radius: 5%;
+    }
+
+    .min_sum__wrapper {
+        border-radius: 0;
+        padding: 5px 0 5px 0;
+        margin: 0;
+        border: 1px solid #4caf50;
+        color: #39853b;
+        font-weight: 600;
+        font-size: 1.2rem;
     }
 
 }
