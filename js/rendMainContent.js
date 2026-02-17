@@ -25,6 +25,9 @@ const sectionCart = `<div class="items counter-wrapper">
                      </div>`;
 
 
+const chbShowAllGoods = document.querySelector('#inputShowAllGoods');
+chbShowAllGoods.checked = JSON.parse(localStorage.getItem('ShowAllGoods'));//показывать все или только в наличии
+
 
 export function rendMainContent(prod) {
   //наполняем товарами из объекта products
@@ -190,22 +193,11 @@ export function getValuePrice(el, baseUnit, sect) {
 
 
 
-const chbShowAllGoods = document.querySelector('#inputShowAllGoods');
-
-chbShowAllGoods.addEventListener('click', () => {
-
-  if (localStorage.getItem('ShowAllGoods') === true) {
-    localStorage.setItem('ShowAllGoods', false);
-  } else {
-    localStorage.setItem('ShowAllGoods', true);
-  }
-
-
+chbShowAllGoods.addEventListener('click', (el) => {
+  localStorage.setItem('ShowAllGoods', JSON.stringify(el.target.checked));
   const place = document.querySelector(".content");
   place.innerHTML = ''
-
   rendMainContent(products);
-
 })
 
 rendMainContent(products);
