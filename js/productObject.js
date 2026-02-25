@@ -1,4 +1,4 @@
-// оновлено 25.02.26: 09:46:44.  Категория цены: Оптова //
+// оновлено 25.02.26: 11:34:16.  Категория цены: Оптова //
 export const products = {
 	"Konservi-mjasni" : {
         "1" :  { 
@@ -362,7 +362,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "62.9",
-            "price" : "61.4",
+            "price" : "57.4",
             "minCountUnit" : "12",
             "promotion" : "2",
             "new-label" : "1",
@@ -463,7 +463,7 @@ export const products = {
             "price" : "115.9",
             "minCountUnit" : "10",
             "promotion" : "1",
-            "new-label" : "1",
+            "new-label" : "2",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4379-olija-olivkova-tm-kalamata-zhb-1l.jpg",
             "inStock" : "1",
             },
@@ -479,7 +479,7 @@ export const products = {
             "price" : "461.9",
             "minCountUnit" : "4",
             "promotion" : "1",
-            "new-label" : "1",
+            "new-label" : "2",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4381-olija-olivkova-tm-kalamata-zhb-5l.jpg",
             "inStock" : "1",
             },
@@ -495,7 +495,7 @@ export const products = {
             "price" : "115.9",
             "minCountUnit" : "3",
             "promotion" : "1",
-            "new-label" : "1",
+            "new-label" : "2",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4378-olija-olivkova-tm-olio-zhb-1l.jpg",
             "inStock" : "1",
             },
@@ -511,7 +511,7 @@ export const products = {
             "price" : "461.9",
             "minCountUnit" : "4",
             "promotion" : "1",
-            "new-label" : "1",
+            "new-label" : "2",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4380-olija-olivkova-tm-olio-hb-5l.jpg",
             "inStock" : "1",
             },
@@ -6675,7 +6675,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/goroh-fas-09-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "417" :  { 
             "category" : "Крупи",
@@ -6739,7 +6739,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/167-grechana-krupa-fas-09kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "421" :  { 
             "category" : "Крупи",
@@ -8571,7 +8571,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/voda-mirgorods'ka-1-5l-mineral-sil'n-gaz.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "535" :  { 
             "category" : "Вода, соки, напої",
@@ -8923,7 +8923,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-coca-cola-125.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "557" :  { 
             "category" : "Вода, соки, напої",
@@ -10623,7 +10623,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/palochka-kormovaja.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "663" :  { 
             "category" : "Корма для тварин",
