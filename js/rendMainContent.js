@@ -184,8 +184,9 @@ export function getValuePrice(el, baseUnit, sect) {
   let elOfFloat = Number(el);
 
   if (elOfFloat) {
-    return `&#8372 ${parseFloat(el).toFixed(2)} <span> ${baseUnit ? baseUnit : ""
-      }</span>`;
+    return `&#8372 ${parseFloat(el).toFixed(2)} <span> 
+     ${baseUnit || "" }
+      </span>`;
   } else {
     return "<span style='width: 100%; text-align: center; font-size:small;' >Ціна за домовленістю</span>";
   }
