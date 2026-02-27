@@ -1,4 +1,4 @@
-// оновлено 26.02.26: 13:41:02.  Категория цены: Оптова //
+// оновлено 27.02.26: 09:10:06.  Категория цены: Оптова //
 export const products = {
 	"Konservi-mjasni" : {
         "1" :  { 
@@ -524,9 +524,9 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "56.9",
-            "price" : "56.9",
+            "price" : "54.9",
             "minCountUnit" : "9",
-            "promotion" : "1",
+            "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/olija-bokarev-raf-760-ml.jpg",
             "inStock" : "1",
@@ -572,9 +572,9 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "332.9",
-            "price" : "332.9",
+            "price" : "329.9",
             "minCountUnit" : "2",
-            "promotion" : "1",
+            "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/olyja-bokarev-raf-5l.jpg",
             "inStock" : "1",
@@ -2719,7 +2719,7 @@ export const products = {
             "unit" : "кг.",
             "baseUnit" : "кг.",
             "coefficient" : "1",
-            "previousPrice" : "69.9",
+            "previousPrice" : "70.9",
             "price" : "70.9",
             "minCountUnit" : "4.45",
             "promotion" : "1",
@@ -2735,7 +2735,7 @@ export const products = {
             "unit" : "кг.",
             "baseUnit" : "кг.",
             "coefficient" : "1",
-            "previousPrice" : "0",
+            "previousPrice" : "70.9",
             "price" : "70.9",
             "minCountUnit" : "4.6",
             "promotion" : "1",
@@ -7943,7 +7943,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\536-kukurudza-ekool-zhb-340-gkljuch.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "496" :  { 
             "category" : "Консервація плодо-овочева",
@@ -8907,7 +8907,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-coca-cola-075.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "556" :  { 
             "category" : "Вода, соки, напої",
@@ -10109,7 +10109,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/molochna-produkcija\\610-moloko-zguschene-karam-aliska-500g-sb.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "631" :  { 
             "category" : "Молочна продукція, масло",
