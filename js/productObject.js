@@ -1,4 +1,4 @@
-// оновлено 05.03.26: 20:25:25.  Категория цены: Оптова //
+// оновлено 05.03.26: 20:52:38.  Категория цены: Оптова //
 export const products = {
 	"Konservi-mjasni" : {
         "1" :  { 
@@ -3762,7 +3762,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "7",
-            "price" : "6.4",
+            "price" : "6.5",
             "minCountUnit" : "24",
             "promotion" : "2",
             "new-label" : "1",
@@ -4486,9 +4486,9 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "18.9",
-            "price" : "18.7",
+            "price" : "19.7",
             "minCountUnit" : "20",
-            "promotion" : "2",
+            "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/girchicja-vinnic'ka.jpg",
             "inStock" : "1",
@@ -6542,9 +6542,9 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "38",
-            "price" : "38",
+            "price" : "37.9",
             "minCountUnit" : "10",
-            "promotion" : "1",
+            "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3082-vivsjani-plastivci-tm-dobrodija-super-gerkules-1-700-g.jpg",
             "inStock" : "1",
@@ -7765,7 +7765,7 @@ export const products = {
             "price" : "64.9",
             "minCountUnit" : "10",
             "promotion" : "1",
-            "new-label" : "2",
+            "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\173-gribi-shampinoni-konservo-rio-280-g.jpg",
             "inStock" : "1",
             },
@@ -10088,7 +10088,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "54.5",
-            "price" : "54.5",
+            "price" : "54.9",
             "minCountUnit" : "5",
             "promotion" : "1",
             "new-label" : "1",
