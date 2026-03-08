@@ -1,4 +1,4 @@
-// оновлено 08.03.26: 20:19:53.  Категория цены: Оптова //
+// оновлено 08.03.26: 20:45:35.  Категория цены: Оптова //
 export const products = {
 	"Konservi-mjasni" : {
         "1" :  { 
@@ -5097,7 +5097,7 @@ export const products = {
             "price" : "28.6",
             "minCountUnit" : "20",
             "promotion" : "2",
-            "new-label" : "1",
+            "new-label" : "2",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/prymat\\2583-priprava-tm-kucharek-univ-ovoch-200.jpg",
             "inStock" : "1",
             },
@@ -6753,7 +6753,7 @@ export const products = {
             "price" : "21.9",
             "minCountUnit" : "9",
             "promotion" : "1",
-            "new-label" : "2",
+            "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/514-krupa-kukurudzjana-tm-aro-800g-kg.jpg",
             "inStock" : "1",
             },
@@ -7685,7 +7685,7 @@ export const products = {
             "price" : "29.9",
             "minCountUnit" : "12",
             "promotion" : "1",
-            "new-label" : "1",
+            "new-label" : "2",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\4387-goroshok-konservovanij-tm-pio-420g.jpg",
             "inStock" : "1",
             },
