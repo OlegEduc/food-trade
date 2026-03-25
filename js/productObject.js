@@ -1,4 +1,4 @@
-// оновлено 25.03.26: 20:31:40.  Категория цены: Оптова //
+// оновлено 25.03.26: 21:29:42.  Категория цены: Оптова //
 export const products = {
 	"Konservi-mjasni" : {
         "1" :  { 
@@ -5751,7 +5751,7 @@ export const products = {
             "unit" : "міш10",
             "baseUnit" : "кг.",
             "coefficient" : "10",
-            "previousPrice" : "145",
+            "previousPrice" : "149.9",
             "price" : "167.5",
             "minCountUnit" : "10",
             "promotion" : "1",
