@@ -1,4 +1,4 @@
-// оновлено 15.04.26: 09:37:13.  Категория цены: Оптова //
+// оновлено 15.04.26: 22:06:17.  Категория цены: Оптова //
 export const products = {
 	"Konservi-mjasni" : {
         "1" :  { 
@@ -1075,7 +1075,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nektar\\4054-vafli-limonni-70-g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "68" :  { 
             "category" : "Кондитерські вироби",
@@ -2115,7 +2115,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\cuk-vaf-kara-kum-hzpt.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "133" :  { 
             "category" : "Кондитерські вироби",
@@ -2131,7 +2131,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\cuk-vaf-chervonij-mak-hzpt.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "134" :  { 
             "category" : "Кондитерські вироби",
@@ -2333,8 +2333,8 @@ export const products = {
             "unit" : "кг.",
             "baseUnit" : "кг.",
             "coefficient" : "1",
-            "previousPrice" : "213.8",
-            "price" : "204",
+            "previousPrice" : "213.9",
+            "price" : "204.5",
             "minCountUnit" : "2.2",
             "promotion" : "2",
             "new-label" : "1",
@@ -2509,8 +2509,8 @@ export const products = {
             "unit" : "кг.",
             "baseUnit" : "кг.",
             "coefficient" : "1",
-            "previousPrice" : "213.8",
-            "price" : "204",
+            "previousPrice" : "213.9",
+            "price" : "204.5",
             "minCountUnit" : "2.2",
             "promotion" : "2",
             "new-label" : "1",
@@ -2933,7 +2933,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-saturn.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "184" :  { 
             "category" : "Печиво, пряники",
@@ -3463,7 +3463,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nescafe\\1664-kava-nescafe-classik-ep-100g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "217" :  { 
             "category" : "Кава",
@@ -5655,13 +5655,13 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "16.5",
-            "price" : "19.4",
+            "previousPrice" : "21.9",
+            "price" : "24.7",
             "minCountUnit" : "10",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4259-sil-baba-galja-1-kg-jodovana.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "354" :  { 
             "category" : "Бакалія",
@@ -5671,13 +5671,13 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "22.9",
-            "price" : "26.1",
+            "previousPrice" : "28.9",
+            "price" : "31.7",
             "minCountUnit" : "9",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sil'-fasovana-15-kg-baba-galja.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "355" :  { 
             "category" : "Бакалія",
@@ -5693,7 +5693,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sil-u-mishkah-10-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "356" :  { 
             "category" : "Бакалія",
@@ -5783,13 +5783,13 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "23.9",
-            "price" : "24.9",
+            "previousPrice" : "28.9",
+            "price" : "28",
             "minCountUnit" : "12",
-            "promotion" : "1",
+            "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/soda-baba-galja.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "362" :  { 
             "category" : "Бакалія",
@@ -5869,7 +5869,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/cukor-fasovanij-1-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
 	},
 	"Makaronni-virobi" : {
@@ -7039,7 +7039,7 @@ export const products = {
             "coefficient" : "1",
             "previousPrice" : "47.9",
             "price" : "49.5",
-            "minCountUnit" : "9",
+            "minCountUnit" : "10",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pshono-1kg.jpg",
@@ -7075,7 +7075,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ris-dovgozernij-vagovij.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "442" :  { 
             "category" : "Крупи",
@@ -7107,7 +7107,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ris-kruglij-vagovij.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "444" :  { 
             "category" : "Крупи",
@@ -8603,7 +8603,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/voda-kujalnik-15lmin.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "537" :  { 
             "category" : "Вода, соки, напої",
@@ -10135,8 +10135,8 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "35.9",
-            "price" : "35.4",
+            "previousPrice" : "45.5",
+            "price" : "42.1",
             "minCountUnit" : "5",
             "promotion" : "2",
             "new-label" : "1",
@@ -12270,4 +12270,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = []
+export const arrayPlannedArrival = ['4400', '4401', '4403', '4404', '4405', '4402', ]
