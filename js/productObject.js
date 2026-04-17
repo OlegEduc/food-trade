@@ -1,4 +1,4 @@
-// оновлено 17.04.26: 20:43:58.  Категория цены: Оптова //
+// оновлено 17.04.26: 21:26:03.  Категория цены: Оптова //
 export const products = {
 	"Konditerski-virobi" : {
         "1" :  { 
@@ -1661,7 +1661,7 @@ export const products = {
             "price" : "178.8",
             "minCountUnit" : "2.2",
             "promotion" : "2",
-            "new-label" : "1",
+            "new-label" : "2",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\353-cukerki-magija-shodu-22kg-tm-golski.jpg",
             "inStock" : "1",
             },
