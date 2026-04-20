@@ -1,4 +1,4 @@
-// оновлено 17.04.26: 21:26:03.  Категория цены: Оптова //
+// оновлено 20.04.26: 10:07:08.  Категория цены: Оптова //
 export const products = {
 	"Konditerski-virobi" : {
         "1" :  { 
@@ -1181,7 +1181,7 @@ export const products = {
             "price" : "150.3",
             "minCountUnit" : "2.3",
             "promotion" : "2",
-            "new-label" : "2",
+            "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4400-cukerki-vafelni-a-nana-sik-klasik.jpg",
             "inStock" : "1",
             },
@@ -1453,8 +1453,8 @@ export const products = {
             "price" : "149",
             "minCountUnit" : "2.3",
             "promotion" : "2",
-            "new-label" : "2",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4401-cukerki-vafelni-super-mix-ditjache-asorti.jpg",
+            "new-label" : "1",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4401-cukerki-vafelni-super-mix-ditjache-asorti-1.jpg",
             "inStock" : "1",
             },
         "92" :  { 
@@ -1581,7 +1581,7 @@ export const products = {
             "price" : "166.4",
             "minCountUnit" : "3",
             "promotion" : "2",
-            "new-label" : "2",
+            "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4402-cukerki-zhelejni-vinochok-lagidni-2j.jpg",
             "inStock" : "1",
             },
@@ -1597,7 +1597,7 @@ export const products = {
             "price" : "175.1",
             "minCountUnit" : "2.5",
             "promotion" : "2",
-            "new-label" : "2",
+            "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4403-cukerki-zhelejno-suflejni-limonchik.jpg",
             "inStock" : "1",
             },
@@ -1613,7 +1613,7 @@ export const products = {
             "price" : "175.1",
             "minCountUnit" : "2.5",
             "promotion" : "2",
-            "new-label" : "2",
+            "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4404-cukerki-zhelejno-suflejni-novinka-2.jpg",
             "inStock" : "1",
             },
@@ -1629,7 +1629,7 @@ export const products = {
             "price" : "175.1",
             "minCountUnit" : "2.5",
             "promotion" : "2",
-            "new-label" : "2",
+            "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4405-cukerki-zhelejno-suflejni-portofino-2.jpg",
             "inStock" : "1",
             },
@@ -1661,7 +1661,7 @@ export const products = {
             "price" : "178.8",
             "minCountUnit" : "2.2",
             "promotion" : "2",
-            "new-label" : "2",
+            "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\353-cukerki-magija-shodu-22kg-tm-golski.jpg",
             "inStock" : "1",
             },
@@ -3221,7 +3221,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/olija-rafinovana-ruta-5l.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "202" :  { 
             "category" : "Олія",
@@ -4023,7 +4023,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/341-kakao-poroshok-tm-nektar-80g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "252" :  { 
             "category" : "Кава",
@@ -4635,7 +4635,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2758-gvozdika-cila-tm-nektar-8-g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "290" :  { 
             "category" : "Приправи та спеції",
@@ -6995,7 +6995,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krupa-jachna-fas-07-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "437" :  { 
             "category" : "Крупи",
@@ -8891,7 +8891,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/poljana-kvasova.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "555" :  { 
             "category" : "Вода, соки, напої",
@@ -9531,7 +9531,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2236-napij-pepsi-cola-175-l.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "595" :  { 
             "category" : "Вода, соки, напої",
