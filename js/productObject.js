@@ -1,4 +1,4 @@
-// оновлено 22.04.26: 14:01:31.  Категория цены: Оптова //
+// оновлено 24.04.26: 11:20:15.  Категория цены: Оптова //
 export const products = {
 	"Konditerski-virobi" : {
         "1" :  { 
@@ -1679,7 +1679,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\3622-cukerki-milki-batton-ne-glazur.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "106" :  { 
             "category" : "Кондитерські вироби",
@@ -1857,7 +1857,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4272-pechivo-vivsjane-tm-rajgorodskij-korovaj-25kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "117" :  { 
             "category" : "Печиво, пряники",
@@ -2691,7 +2691,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-mjasnye\\4385-tushonka-domashnja-svinina-525-gr.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "169" :  { 
             "category" : "Консерви м'ясні",
@@ -2707,7 +2707,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-mjasnye\\4384-tushonka-turistichna-jalovichina--525-gr.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "170" :  { 
             "category" : "Консерви м'ясні",
@@ -3205,7 +3205,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/olija-ruta-rafinovana-1l.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "201" :  { 
             "category" : "Олія",
@@ -3810,7 +3810,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "59.9",
-            "price" : "57.3",
+            "price" : "55.2",
             "minCountUnit" : "5",
             "promotion" : "2",
             "new-label" : "1",
@@ -3825,8 +3825,8 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "137.3",
-            "price" : "110",
+            "previousPrice" : "129.9",
+            "price" : "123",
             "minCountUnit" : "5",
             "promotion" : "2",
             "new-label" : "1",
@@ -3841,10 +3841,10 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "162.9",
+            "previousPrice" : "175.9",
             "price" : "165.5",
             "minCountUnit" : "5",
-            "promotion" : "1",
+            "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/jacobs\\kava-jakobs-e-p-200-g.jpg",
             "inStock" : "1",
@@ -3857,7 +3857,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "279.9",
+            "previousPrice" : "269.9",
             "price" : "248.6",
             "minCountUnit" : "5",
             "promotion" : "2",
@@ -3873,8 +3873,8 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "359.9",
-            "price" : "351.6",
+            "previousPrice" : "329.9",
+            "price" : "316.6",
             "minCountUnit" : "5",
             "promotion" : "2",
             "new-label" : "1",
@@ -4393,7 +4393,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tri-slona\\3631-chaj-tm-tri-sloni-chornij-ekzotika-20-13g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "275" :  { 
             "category" : "Чаї",
@@ -4763,7 +4763,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pidprijemtvo-rada\\zhelatin-15g-iva-pak.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "298" :  { 
             "category" : "Приправи та спеції",
@@ -5296,15 +5296,15 @@ export const products = {
         "331" :  { 
             "category" : "Приправи та спеції",
             "productCode" : "4242",
-            "productFullName" : "Приправа ТМ \"Торчин\" 10 овочів 250 гр.",
+            "productFullName" : "Приправа універсальна ТМ \"Торчин\" 10 овочів 250 гр.",
             "productName" : "Приправа Торчин 10 овочів 250 гр.",
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "43.9",
-            "price" : "45.5",
+            "previousPrice" : "53.9",
+            "price" : "50.7",
             "minCountUnit" : "7",
-            "promotion" : "1",
+            "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4242-priprava-tm-torchin-10-ovochiv-250-gr.jpg",
             "inStock" : "1",
@@ -5527,8 +5527,8 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "46.3",
-            "price" : "45.1",
+            "previousPrice" : "48.9",
+            "price" : "47.7",
             "minCountUnit" : "20",
             "promotion" : "2",
             "new-label" : "1",
@@ -5736,7 +5736,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "13.5",
-            "price" : "14.8",
+            "price" : "15.9",
             "minCountUnit" : "25",
             "promotion" : "1",
             "new-label" : "1",
@@ -5805,7 +5805,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sil-u-mishkah-10-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "363" :  { 
             "category" : "Бакалія",
@@ -5917,7 +5917,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/cukor-50kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "370" :  { 
             "category" : "Бакалія",
@@ -10655,7 +10655,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "665" :  { 
             "category" : "Корма для тварин",
@@ -11359,13 +11359,13 @@ export const products = {
             "unit" : "кг.",
             "baseUnit" : "кг.",
             "coefficient" : "1",
-            "previousPrice" : "75.9",
-            "price" : "74.8",
+            "previousPrice" : "77.9",
+            "price" : "75.8",
             "minCountUnit" : "5",
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3405-suhofrukti-virukraina.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "709" :  { 
             "category" : "Сухофрукти, горіхи",
@@ -11474,7 +11474,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "14.95",
-            "price" : "13.3",
+            "price" : "13.4",
             "minCountUnit" : "24",
             "promotion" : "2",
             "new-label" : "1",
@@ -11522,7 +11522,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "7.5",
-            "price" : "7.6",
+            "price" : "7.7",
             "minCountUnit" : "48",
             "promotion" : "1",
             "new-label" : "1",
@@ -12217,7 +12217,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pljashka-pet-05l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "762" :  { 
             "category" : "Тара та упаковка",
@@ -12414,4 +12414,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['4385', '4384', ]
+export const arrayPlannedArrival = []
