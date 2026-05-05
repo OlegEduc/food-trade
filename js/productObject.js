@@ -1,4 +1,4 @@
-// оновлено 04.05.26: 14:39:25.  Категория цены: Оптова //
+// оновлено 05.05.26: 11:06:17.  Категория цены: Оптова //
 export const products = {
 	"Zakuski-do-piva" : {
         "1" :  { 
@@ -993,7 +993,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-zhadana-5.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "63" :  { 
             "category" : "Кондитерські вироби",
@@ -1723,8 +1723,8 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "38.9",
-            "price" : "37.8",
+            "previousPrice" : "40.9",
+            "price" : "38.9",
             "minCountUnit" : "5",
             "promotion" : "2",
             "new-label" : "1",
@@ -2221,10 +2221,10 @@ export const products = {
             "unit" : "кг.",
             "baseUnit" : "кг.",
             "coefficient" : "1",
-            "previousPrice" : "70.9",
-            "price" : "71.6",
+            "previousPrice" : "71.9",
+            "price" : "71.7",
             "minCountUnit" : "4.6",
-            "promotion" : "1",
+            "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4363-pech-podilske-12-h-pak-prjazh-mol-golski.jpg",
             "inStock" : "1",
@@ -2237,8 +2237,8 @@ export const products = {
             "unit" : "кг.",
             "baseUnit" : "кг.",
             "coefficient" : "1",
-            "previousPrice" : "78.9",
-            "price" : "77.9",
+            "previousPrice" : "80.61",
+            "price" : "79.6",
             "minCountUnit" : "4.6",
             "promotion" : "2",
             "new-label" : "1",
@@ -5533,7 +5533,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/hrin-vinnicja-200-gr-tvist-off.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
 	},
 	"Bakalija" : {
@@ -5599,7 +5599,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krohmal-kartopljanij-tm-nektar-250-gr.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "350" :  { 
             "category" : "Бакалія",
@@ -5695,7 +5695,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3030-ocet-9proc-tm-zlatko-1l.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "356" :  { 
             "category" : "Бакалія",
@@ -5759,7 +5759,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/povidlo-vishnja-6kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "360" :  { 
             "category" : "Бакалія",
@@ -7489,10 +7489,10 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "17.9",
+            "previousPrice" : "18.9",
             "price" : "18.1",
             "minCountUnit" : "10",
-            "promotion" : "1",
+            "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/556-majonez-provansal-ljuks-200g-tm-best-.jpg",
             "inStock" : "1",
@@ -7564,8 +7564,8 @@ export const products = {
         "472" :  { 
             "category" : "Соуси, майонези, кетчупи",
             "productCode" : "4406",
-            "productFullName" : "Паста том Гурман стік 70 гр.",
-            "productName" : "Паста том Гурман стік 70 гр.",
+            "productFullName" : "Паста томатна 25% ТМ\"Гурман\" 70г Tetra Pak",
+            "productName" : "Паста том Гурман стік 70 г",
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
@@ -7574,7 +7574,7 @@ export const products = {
             "minCountUnit" : "60",
             "promotion" : "2",
             "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4406-pasta-tomatna-25-tm-gurman-70g.jpg",
             "inStock" : "1",
             },
         "473" :  { 
@@ -8733,7 +8733,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\voda-avalon-mirnenska-2-l-pitna-silno-gaz.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "545" :  { 
             "category" : "Вода, соки, напої",
@@ -10141,7 +10141,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ranok-1l-vinograd-jabluchnij.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "633" :  { 
             "category" : "Вода, соки, напої",
@@ -11139,7 +11139,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/palichki-kukurudzjani-tm-sova-molochni-60g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "695" :  { 
             "category" : "Снеки",
@@ -11495,7 +11495,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4351-chornosliv-vjalenij-baxmal-forvard-5kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
 	},
 	"Gosptovari" : {
@@ -12417,4 +12417,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['4385', '3614', '4425', '4426', '4382', '4362', '4308', '3845', '4290', '3519', '3520', ]
+export const arrayPlannedArrival = ['4385', '3614', '4425', '4426', '4382', '4362', '4308', '3845', '4290', '3519', '3520', '2236', ]
