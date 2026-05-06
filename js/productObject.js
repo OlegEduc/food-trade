@@ -1,4 +1,4 @@
-// оновлено 06.05.26: 10:33:58.  Категория цены: Оптова //
+// оновлено 06.05.26: 10:42:53.  Категория цены: Оптова //
 export const products = {
 	"focusProduct" : {
         "1-4425"  :  { 
@@ -10,8 +10,8 @@ export const products = {
             "baseUnit" : "уп.",
             "coefficient" : "1",
             "previousPrice" : "66.9",
-            "price" : "61",
-            "minCountUnit" : "1",
+            "price" : "63.4",
+            "minCountUnit" : "5",
             "promotion" : "2",
             "new-label" : "2",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4425-vaf-trubochki-hrustik-smak-zguschen.jpg",
@@ -26,8 +26,8 @@ export const products = {
             "baseUnit" : "уп.",
             "coefficient" : "1",
             "previousPrice" : "66.9",
-            "price" : "61",
-            "minCountUnit" : "1",
+            "price" : "63.4",
+            "minCountUnit" : "5",
             "promotion" : "2",
             "new-label" : "2",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4426-vaf-trubochki-hrustik-smak-lisovogo-2.jpg",
@@ -302,8 +302,8 @@ export const products = {
             "baseUnit" : "уп.",
             "coefficient" : "1",
             "previousPrice" : "66.9",
-            "price" : "61",
-            "minCountUnit" : "1",
+            "price" : "63.4",
+            "minCountUnit" : "5",
             "promotion" : "2",
             "new-label" : "2",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4425-vaf-trubochki-hrustik-smak-zguschen.jpg",
@@ -318,8 +318,8 @@ export const products = {
             "baseUnit" : "уп.",
             "coefficient" : "1",
             "previousPrice" : "66.9",
-            "price" : "61",
-            "minCountUnit" : "1",
+            "price" : "63.4",
+            "minCountUnit" : "5",
             "promotion" : "2",
             "new-label" : "2",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4426-vaf-trubochki-hrustik-smak-lisovogo-2.jpg",
