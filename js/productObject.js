@@ -1,5 +1,39 @@
-// оновлено 05.05.26: 11:06:17.  Категория цены: Оптова //
+// оновлено 06.05.26: 10:33:58.  Категория цены: Оптова //
 export const products = {
+	"focusProduct" : {
+        "1-4425"  :  { 
+            "category" : "Кондитерські вироби",
+            "productCode" : "4425",
+            "productFullName" : "Ваф. трубочки глазур. \"ХруSтік\" з нач. зі смаком згущеного молока 0,3кг ТМ \"Golski\"",
+            "productName" : "Ваф трубочки Хрустік глазур. з нач.смак згущ.мол. 0,3кг ТМ GOLSKI,",
+            "unit" : "уп.",
+            "baseUnit" : "уп.",
+            "coefficient" : "1",
+            "previousPrice" : "66.9",
+            "price" : "61",
+            "minCountUnit" : "1",
+            "promotion" : "2",
+            "new-label" : "2",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4425-vaf-trubochki-hrustik-smak-zguschen.jpg",
+            "inStock" : "1",
+            },
+        "2-4426"  :  { 
+            "category" : "Кондитерські вироби",
+            "productCode" : "4426",
+            "productFullName" : "Ваф. трубочки глазур. \"ХруSтік\" з нач. зі смаком лісового горіху 0,3кг ТМ \"Golski\"",
+            "productName" : "Ваф трубочки Хрустік глазур.з нач.смак ліс.горіх 0,3кг ТМ GOLSKI,",
+            "unit" : "уп.",
+            "baseUnit" : "уп.",
+            "coefficient" : "1",
+            "previousPrice" : "66.9",
+            "price" : "61",
+            "minCountUnit" : "1",
+            "promotion" : "2",
+            "new-label" : "2",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4426-vaf-trubochki-hrustik-smak-lisovogo-2.jpg",
+            "inStock" : "1",
+            },
+	},
 	"Zakuski-do-piva" : {
         "1" :  { 
             "category" : "Закуски до пива",
@@ -177,7 +211,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2569-batonchik-tm-roshen-pomadno-shok-gchervonij.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "12" :  { 
             "category" : "Кондитерські вироби",
@@ -271,9 +305,9 @@ export const products = {
             "price" : "61",
             "minCountUnit" : "1",
             "promotion" : "2",
-            "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4425-vaf-trubochki-glazur-hrustik-z-nach-zi-smakom-zguschen.jpg",
-            "inStock" : "0",
+            "new-label" : "2",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4425-vaf-trubochki-hrustik-smak-zguschen.jpg",
+            "inStock" : "1",
             },
         "18" :  { 
             "category" : "Кондитерські вироби",
@@ -287,9 +321,9 @@ export const products = {
             "price" : "61",
             "minCountUnit" : "1",
             "promotion" : "2",
-            "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4426-vaf-trubochki-glazur-hrustik-z-nach-zi-smakom-lisovogo.jpg",
-            "inStock" : "0",
+            "new-label" : "2",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4426-vaf-trubochki-hrustik-smak-lisovogo-2.jpg",
+            "inStock" : "1",
             },
         "19" :  { 
             "category" : "Кондитерські вироби",
@@ -1729,7 +1763,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4290-cukerki-dolche-de-trjufel-glazur-120gtm-golski.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "109" :  { 
             "category" : "Кондитерські вироби",
@@ -2371,7 +2405,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-polunicja.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "149" :  { 
             "category" : "Печиво, пряники",
@@ -4073,7 +4107,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/jacobs\\kava-jakobs-oridzhinal-3v1-12gr.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "255" :  { 
             "category" : "Кава",
@@ -9064,9 +9098,9 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "24.9",
-            "price" : "24.2",
+            "price" : "24.9",
             "minCountUnit" : "12",
-            "promotion" : "2",
+            "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-coca-cola-033.jpg",
             "inStock" : "1",
@@ -9079,13 +9113,13 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "26.9",
-            "price" : "28",
+            "previousPrice" : "27.5",
+            "price" : "28.1",
             "minCountUnit" : "12",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-coca-cola-05.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "567" :  { 
             "category" : "Вода, соки, напої",
@@ -9325,7 +9359,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\napij-mirnens'ka-1-l-kola-1.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "582" :  { 
             "category" : "Вода, соки, напої",
@@ -9485,7 +9519,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-mirnens'ka-2-l-tarhun-1.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "592" :  { 
             "category" : "Вода, соки, напої",
@@ -9581,7 +9615,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2236-napij-pepsi-cola-175-l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "598" :  { 
             "category" : "Вода, соки, напої",
@@ -9767,13 +9801,13 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "39.9",
-            "price" : "41.1",
+            "previousPrice" : "42.9",
+            "price" : "43.2",
             "minCountUnit" : "12",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-shveps-limon-075l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "610" :  { 
             "category" : "Вода, соки, напої",
@@ -9799,13 +9833,13 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "37.9",
-            "price" : "40.1",
+            "previousPrice" : "42.9",
+            "price" : "43.2",
             "minCountUnit" : "12",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-shveps-tonik-075-l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "612" :  { 
             "category" : "Вода, соки, напої",
@@ -10401,7 +10435,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\2898-kalinka-rost-dlja-brojleriv-10-kg7026.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "649" :  { 
             "category" : "Корма для тварин",
@@ -12417,4 +12451,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['4385', '3614', '4425', '4426', '4382', '4362', '4308', '3845', '4290', '3519', '3520', '2236', ]
+export const arrayPlannedArrival = ['4385', '2236', '4384', ]
