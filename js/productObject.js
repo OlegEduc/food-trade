@@ -1,4 +1,4 @@
-// оновлено 15.05.26: 20:23:36.  Категория цены: Оптова //
+// оновлено 18.05.26: 10:56:08.  Категория цены: Оптова //
 export const products = {
 	"Zakuski-do-piva" : {
         "1" :  { 
@@ -15,7 +15,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4418-mjasni-smuzhki-parmezan-solono-susheni.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "2" :  { 
             "category" : "Закуски до пива",
@@ -111,7 +111,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4413-slajsi-zi-svinini-hamon-solono-susheni.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "8" :  { 
             "category" : "Закуски до пива",
@@ -337,7 +337,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vafel'ni-korzhi-veselka-lekorna-140g-velika.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "22" :  { 
             "category" : "Кондитерські вироби",
@@ -2387,7 +2387,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-vishnja.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "150" :  { 
             "category" : "Печиво, пряники",
@@ -2643,7 +2643,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nektar\\trubochki-kukurudzjani-boo-sticks-z-smakom-tiramisu-2-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
 	},
 	"Konservi-mjasni" : {
@@ -3785,7 +3785,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/petrovs'ka-sloboda\\kava-petrovs'ka-sloboda-3-v1-vishnja.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "237" :  { 
             "category" : "Кава",
@@ -5213,7 +5213,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3027-perec-chornij-melenij-tm-mrija-20g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "326" :  { 
             "category" : "Приправи та спеції",
@@ -8925,7 +8925,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/morshins'ka-slabo-gazovana-1-5l.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "557" :  { 
             "category" : "Вода, соки, напої",
@@ -9085,7 +9085,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4358-limonad-tm-vili-djushes-500ml.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "567" :  { 
             "category" : "Вода, соки, напої",
@@ -9101,7 +9101,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4359-limonad-tm-vili-tarhun-500ml.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "568" :  { 
             "category" : "Вода, соки, напої",
@@ -9159,8 +9159,8 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "46.9",
-            "price" : "47.3",
+            "previousPrice" : "49.9",
+            "price" : "50",
             "minCountUnit" : "6",
             "promotion" : "1",
             "new-label" : "1",
@@ -9175,8 +9175,8 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "59.9",
-            "price" : "62.8",
+            "previousPrice" : "63.5",
+            "price" : "65.5",
             "minCountUnit" : "6",
             "promotion" : "1",
             "new-label" : "1",
@@ -9703,8 +9703,8 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "55.9",
-            "price" : "59.5",
+            "previousPrice" : "59.9",
+            "price" : "62.2",
             "minCountUnit" : "6",
             "promotion" : "1",
             "new-label" : "1",
@@ -9751,8 +9751,8 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "55.9",
-            "price" : "59.5",
+            "previousPrice" : "59.9",
+            "price" : "62.2",
             "minCountUnit" : "6",
             "promotion" : "1",
             "new-label" : "1",
@@ -9799,8 +9799,8 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "37.9",
-            "price" : "40.1",
+            "previousPrice" : "42.9",
+            "price" : "43.8",
             "minCountUnit" : "12",
             "promotion" : "1",
             "new-label" : "1",
@@ -9816,7 +9816,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "42.9",
-            "price" : "43.2",
+            "price" : "43.8",
             "minCountUnit" : "12",
             "promotion" : "1",
             "new-label" : "1",
@@ -9831,8 +9831,8 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "37.9",
-            "price" : "40.1",
+            "previousPrice" : "42.9",
+            "price" : "43.8",
             "minCountUnit" : "12",
             "promotion" : "1",
             "new-label" : "1",
@@ -9848,7 +9848,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "42.9",
-            "price" : "43.2",
+            "price" : "43.8",
             "minCountUnit" : "12",
             "promotion" : "1",
             "new-label" : "1",
@@ -10385,7 +10385,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/visivki-jachni-mishok.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "648" :  { 
             "category" : "Корма для тварин",
@@ -12187,7 +12187,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/paket-majka-24h42-100-sht.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "760" :  { 
             "category" : "Тара та упаковка",
@@ -12465,4 +12465,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['3500', '4425', '4426', '4339', '3845', '3519', '353', '3616', '4047', '3520', '3623', '4418', '4416', '4411', '4413', '4412', ]
+export const arrayPlannedArrival = ['3500', '4425', '4426', '4339', '3845', '3519', '353', '3616', '4047', '3520', '3623', ]
