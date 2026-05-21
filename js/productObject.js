@@ -1,4 +1,4 @@
-// оновлено 21.05.26: 09:59:40.  Категория цены: Оптова //
+// оновлено 21.05.26: 13:50:59.  Категория цены: Оптова //
 export const products = {
 	"Zakuski-do-piva" : {
         "1" :  { 
@@ -2853,7 +2853,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-mjasnye\\4384-tushonka-turistichna-jalovichina--525-gr.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "179" :  { 
             "category" : "Консерви м'ясні",
@@ -10433,7 +10433,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\2910-kombikorm-v-granulah-sumish-kormova.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "651" :  { 
             "category" : "Корма для тварин",
@@ -10571,13 +10571,13 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "275.9",
-            "price" : "287.4",
+            "previousPrice" : "364.9",
+            "price" : "362.4",
             "minCountUnit" : "1",
-            "promotion" : "1",
+            "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\kombikorm-kalinka-start-dlja-indikiv-10-kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "660" :  { 
             "category" : "Корма для тварин",
@@ -10625,7 +10625,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\kombikorm-rost-brojler-vid-15-do-40-dniv-10-kg-sinij.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "663" :  { 
             "category" : "Корма для тварин",
