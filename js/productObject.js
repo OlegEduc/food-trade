@@ -1,4 +1,4 @@
-// оновлено 11.06.26: 12:44:27.  Категория цены: Оптова //
+// оновлено 11.06.26: 22:44:15.  Категория цены: Оптова //
 export const products = {
 	"Zakuski-do-piva" : {
         "1" :  { 
@@ -12575,4 +12575,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = []
+export const arrayPlannedArrival = ['4430', '4431', '4382', '3521', '3533', '3532', '3845', '4290', '3519', ]
