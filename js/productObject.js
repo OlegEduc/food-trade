@@ -1,4 +1,4 @@
-// оновлено 09.07.26: 21:51:09.  Категория цены: Оптова //
+// оновлено 10.07.26: 14:04:44.  Категория цены: Оптова //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -739,7 +739,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-rollo-prjazh-mol.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "47" :  { 
             "category" : "Кондитерські вироби",
@@ -755,7 +755,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-rollo-prjazh-mol.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "48" :  { 
             "category" : "Кондитерські вироби",
@@ -771,7 +771,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4430-vafelni-trub-miio-zgusch-mol-045.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "49" :  { 
             "category" : "Кондитерські вироби",
@@ -803,7 +803,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\goll'ski-miio-prjazhenogo-moloka.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "51" :  { 
             "category" : "Кондитерські вироби",
@@ -2387,7 +2387,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\3616-cukerki-nutsi-batton.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "150" :  { 
             "category" : "Кондитерські вироби",
@@ -2467,7 +2467,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\3623-cukerki-choki-batton.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "155" :  { 
             "category" : "Кондитерські вироби",
@@ -2483,7 +2483,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\3069-cukerki-sherwood-golski.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "156" :  { 
             "category" : "Кондитерські вироби",
@@ -2645,7 +2645,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4331-pechivo-cukrove-duo-de-luxe-golski.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "166" :  { 
             "category" : "Печиво, пряники",
@@ -4984,7 +4984,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "5.9",
-            "price" : "4.9",
+            "price" : "5.4",
             "minCountUnit" : "400",
             "promotion" : "2",
             "new-label" : "1",
@@ -5613,7 +5613,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4242-priprava-tm-torchin-10-ovochiv-250-gr.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "351" :  { 
             "category" : "Приправи та спеції",
@@ -12623,4 +12623,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['3614', '3080', '4430', '3615', '4425', '4331', '4382', '3532', '3519', '3616', '3520', '3623', '3069', ]
+export const arrayPlannedArrival = []
