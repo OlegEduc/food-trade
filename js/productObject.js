@@ -1,4 +1,4 @@
-// оновлено 10.07.26: 15:26:06.  Категория цены: Оптова //
+// оновлено 13.07.26: 08:18:06.  Категория цены: Оптова //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -513,7 +513,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4418-mjasni-smuzhki-parmezan-solono-susheni.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "33" :  { 
             "category" : "Закуски до пива",
@@ -625,7 +625,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4413-slajsi-zi-svinini-hamon-solono-susheni.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "40" :  { 
             "category" : "Закуски до пива",
@@ -1763,7 +1763,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\cuk-truffel-milk-2-kggolski.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "111" :  { 
             "category" : "Кондитерські вироби",
@@ -5517,7 +5517,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4324-priprava-rmix-universalna-850-g-polscha.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "345" :  { 
             "category" : "Приправи та спеції",
@@ -5967,7 +5967,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/povidlo-abrikos-6kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "373" :  { 
             "category" : "Бакалія",
@@ -5983,7 +5983,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/povidlo-vishnja-6kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "374" :  { 
             "category" : "Бакалія",
@@ -6015,7 +6015,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/povidlo-persik-6kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "376" :  { 
             "category" : "Бакалія",
@@ -9149,7 +9149,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/voda-poljana-kvasova--8-15l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "571" :  { 
             "category" : "Вода, соки, напої",
@@ -9981,7 +9981,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sirop-poljana-miks-1l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "623" :  { 
             "category" : "Вода, соки, напої",
@@ -11833,7 +11833,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gel-dlja-posudu-fairy-1l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "738" :  { 
             "category" : "Госп.товари",
@@ -12075,7 +12075,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/banka-1-5l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "753" :  { 
             "category" : "Тара та упаковка",
@@ -12091,7 +12091,7 @@ export const products = {
             "promotion" : "2",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/banka-3l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "754" :  { 
             "category" : "Тара та упаковка",
