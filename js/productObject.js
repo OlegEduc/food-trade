@@ -1,4 +1,4 @@
-// оновлено 23.07.26: 09:55:25.  Категория цены: Оптова //
+// оновлено 23.07.26: 20:47:32.  Категория цены: Оптова //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -513,7 +513,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4418-mjasni-smuzhki-parmezan-solono-susheni.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "33" :  { 
             "category" : "Закуски до пива",
@@ -2773,7 +2773,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4366-pech-merezhivo-golski-ekran.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "174" :  { 
             "category" : "Печиво, пряники",
@@ -6015,7 +6015,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/povidlo-vishnja-6kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "376" :  { 
             "category" : "Бакалія",
@@ -7296,7 +7296,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "21.9",
-            "price" : "21.9",
+            "price" : "16.9",
             "minCountUnit" : "25",
             "promotion" : "1",
             "new-label" : "1",
@@ -7328,7 +7328,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "14.9",
-            "price" : "14.9",
+            "price" : "14.5",
             "minCountUnit" : "25",
             "promotion" : "1",
             "new-label" : "1",
@@ -7703,7 +7703,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ketchup-torchin-chili.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "481" :  { 
             "category" : "Соуси, майонези, кетчупи",
@@ -8007,7 +8007,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/runa-chili-tomatnij.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "500" :  { 
             "category" : "Соуси, майонези, кетчупи",
@@ -10481,7 +10481,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/visivki-pshenichni-mishok.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "654" :  { 
             "category" : "Корма для тварин",
@@ -10497,7 +10497,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/visivki-jachni-mishok.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "655" :  { 
             "category" : "Корма для тварин",
@@ -11687,7 +11687,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3405-suhofrukti-virukraina.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "729" :  { 
             "category" : "Сухофрукти, горіхи",
