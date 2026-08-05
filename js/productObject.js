@@ -1,4 +1,4 @@
-// оновлено 04.08.26: 10:59:15.  Категория цены: Оптова //
+// оновлено 05.08.26: 10:03:33.  Категория цены: Оптова //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -2639,7 +2639,7 @@ export const products = {
             "unit" : "кг.",
             "baseUnit" : "кг.",
             "coefficient" : "1",
-            "previousPrice" : "153.9",
+            "previousPrice" : "159.9",
             "price" : "159.9",
             "minCountUnit" : "2.4",
             "promotion" : "1",
@@ -2735,13 +2735,13 @@ export const products = {
             "unit" : "кг.",
             "baseUnit" : "кг.",
             "coefficient" : "1",
-            "previousPrice" : "110.9",
+            "previousPrice" : "118.9",
             "price" : "118.9",
             "minCountUnit" : "1.7",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4313-pechivo-cukrove-krapka-kanapka-plomb.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "172" :  { 
             "category" : "Печиво, пряники",
@@ -2751,13 +2751,13 @@ export const products = {
             "unit" : "кг.",
             "baseUnit" : "кг.",
             "coefficient" : "1",
-            "previousPrice" : "103.9",
+            "previousPrice" : "110.9",
             "price" : "110.9",
             "minCountUnit" : "1.7",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4312-pechivo-cukrove-krapka-kanapka-shokolad.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "173" :  { 
             "category" : "Печиво, пряники",
@@ -2847,7 +2847,7 @@ export const products = {
             "unit" : "кг.",
             "baseUnit" : "кг.",
             "coefficient" : "1",
-            "previousPrice" : "69.9",
+            "previousPrice" : "73.9",
             "price" : "73.9",
             "minCountUnit" : "4.5",
             "promotion" : "1",
@@ -4539,7 +4539,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/chaj\\chaj-princessa-nuri-25-2.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "284" :  { 
             "category" : "Чаї",
@@ -6755,7 +6755,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vinnic'kij-mlinar-2kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "422" :  { 
             "category" : "Борошно, висівки",
@@ -7055,7 +7055,7 @@ export const products = {
             "unit" : "кг.",
             "baseUnit" : "кг.",
             "coefficient" : "1",
-            "previousPrice" : "22.9",
+            "previousPrice" : "18.9",
             "price" : "18.9",
             "minCountUnit" : "25",
             "promotion" : "1",
@@ -7311,7 +7311,7 @@ export const products = {
             "unit" : "кг.",
             "baseUnit" : "кг.",
             "coefficient" : "1",
-            "previousPrice" : "18.9",
+            "previousPrice" : "17.5",
             "price" : "17.5",
             "minCountUnit" : "25",
             "promotion" : "1",
@@ -7687,7 +7687,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/556-majonez-provansal-ljuks-200g-tm-best-.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "480" :  { 
             "category" : "Соуси, майонези, кетчупи",
@@ -7927,7 +7927,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/runa-sacebeli.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "495" :  { 
             "category" : "Соуси, майонези, кетчупи",
@@ -8683,7 +8683,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-ribnye\\912-sardina-ventspils-v-olii-240g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "542" :  { 
             "category" : "Консерви рибні",
@@ -9127,7 +9127,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "53.2",
+            "previousPrice" : "54.5",
             "price" : "54.5",
             "minCountUnit" : "6",
             "promotion" : "1",
@@ -9949,7 +9949,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/1549-sik-granatovij-avalanche-1l.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "621" :  { 
             "category" : "Вода, соки, напої",
@@ -10497,7 +10497,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\2897-kalinka-start-dlja-brojleriv-10-kg7025.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "655" :  { 
             "category" : "Корма для тварин",
@@ -11299,7 +11299,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4442-pop-korn-tm-sova-solonij-90g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "705" :  { 
             "category" : "Снеки",
@@ -12589,6 +12589,9 @@ export const productCategorys = {
 	"Rizne" : "Різне",
  }
 
-export const anouns = []
+export const anouns =
+[
+'<b style="color: red">УВАГА!</b><br>Просимо Вас робити замовлення з урахуванням того, що у період<br><b>з 21.08.2026 до 30.08.2026 прийом замовлень та відвантаження товару <br>здійснюватись не буде. </b><br>Дякуємо за розуміння та співпрацю.',
+]
 
 export const arrayPlannedArrival = []
