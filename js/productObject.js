@@ -1,4 +1,4 @@
-// оновлено 07.08.26: 10:31:19.  Категория цены: Оптова //
+// оновлено 10.08.26: 11:08:24.  Категория цены: Оптова //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -641,7 +641,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4414-slajsi-zi-svinini-po-kozackii.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "41" :  { 
             "category" : "Закуски до пива",
@@ -2885,7 +2885,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4308-pechivo-cukrove-podilske-moloka.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "181" :  { 
             "category" : "Печиво, пряники",
@@ -2964,8 +2964,8 @@ export const products = {
             "minCountUnit" : "3",
             "promotion" : "1",
             "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
-            "inStock" : "1",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\4453-prjanik-zel-jabl-tm-oksamit.jpg",
+            "inStock" : "0",
             },
         "186" :  { 
             "category" : "Печиво, пряники",
@@ -3141,7 +3141,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4280-sushka-chovnik-tm-rajgorodskij-2kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "197" :  { 
             "category" : "Печиво, пряники",
@@ -3913,7 +3913,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nescafe\\1664-kava-nescafe-classik-ep-100g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "245" :  { 
             "category" : "Кава",
@@ -5533,7 +5533,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/prymat\\4285-priprava-tm-prymat-paprika-solodka-18-g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "346" :  { 
             "category" : "Приправи та спеції",
@@ -5839,7 +5839,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krohmal-vimal-nov.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "365" :  { 
             "category" : "Бакалія",
@@ -5903,7 +5903,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/makova-nachinka-zolotaja-milja-05-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "369" :  { 
             "category" : "Бакалія",
@@ -7269,7 +7269,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krupa-kukurudzjana-25-kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "454" :  { 
             "category" : "Крупи",
@@ -7719,7 +7719,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ketchup-torchin-do-shashliku.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "482" :  { 
             "category" : "Соуси, майонези, кетчупи",
@@ -8715,7 +8715,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-ribnye\\4447-sardina-bocman-naturz-olii-230-g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "544" :  { 
             "category" : "Консерви рибні",
@@ -9069,7 +9069,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\3361-voda-mirnenska-6.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "566" :  { 
             "category" : "Вода, соки, напої",
@@ -9469,7 +9469,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\napij-mirnens'ka-05-l-mohito.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "591" :  { 
             "category" : "Вода, соки, напої",
@@ -9917,7 +9917,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-shveps-limon-075l.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "619" :  { 
             "category" : "Вода, соки, напої",
@@ -12455,7 +12455,7 @@ export const products = {
             "coefficient" : "1",
             "previousPrice" : "0",
             "price" : "5.9",
-            "minCountUnit" : "200",
+            "minCountUnit" : "100",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pljashka-pet-05l.jpg",
@@ -12642,4 +12642,4 @@ export const anouns =
 '<b style="color: red">УВАГА!</b><br>Просимо Вас робити замовлення з урахуванням того, що у період<br><b>з 21.08.2026 до 30.08.2026 прийом та відвантаження товару <br>здійснюватись не буде. </b><br>Дякуємо за розуміння та співпрацю.',
 ]
 
-export const arrayPlannedArrival = []
+export const arrayPlannedArrival = ['4313', '4312', '4382', '4362', '4308', '3521', '4047', '3520', '3069', ]
