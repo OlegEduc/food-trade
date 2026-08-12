@@ -1,4 +1,4 @@
-// оновлено 12.08.26: 19:39:41.  Категория цены: Оптова //
+// оновлено 12.08.26: 19:41:43.  Категория цены: Оптова //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -10,7 +10,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "0",
-            "price" : "75",
+            "price" : "77.9",
             "minCountUnit" : "9",
             "promotion" : "1",
             "new-label" : "1",
@@ -42,7 +42,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "0",
-            "price" : "354.9",
+            "price" : "369.9",
             "minCountUnit" : "2",
             "promotion" : "1",
             "new-label" : "1",
@@ -186,7 +186,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "0",
-            "price" : "79.9",
+            "price" : "80.9",
             "minCountUnit" : "9",
             "promotion" : "1",
             "new-label" : "1",
@@ -202,7 +202,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "0",
-            "price" : "229.9",
+            "price" : "234.9",
             "minCountUnit" : "4",
             "promotion" : "1",
             "new-label" : "1",
@@ -250,7 +250,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "0",
-            "price" : "135.9",
+            "price" : "139.9",
             "minCountUnit" : "6",
             "promotion" : "1",
             "new-label" : "1",
