@@ -1,4 +1,4 @@
-// оновлено 11.08.26: 14:44:15.  Категория цены: Оптова //
+// оновлено 12.08.26: 09:51:22.  Категория цены: Оптова //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -154,12 +154,12 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "0",
-            "price" : "495",
+            "price" : "589.9",
             "minCountUnit" : "4",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4380-olija-olivkova-tm-olio-hb-5l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "11" :  { 
             "category" : "Олія",
@@ -4329,7 +4329,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kakao-kao-kao.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "271" :  { 
             "category" : "Кава",
@@ -5898,12 +5898,12 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "0",
-            "price" : "48.9",
+            "price" : "49.9",
             "minCountUnit" : "20",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/makova-nachinka-zolotaja-milja-05-kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "369" :  { 
             "category" : "Бакалія",
@@ -6883,7 +6883,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/boroshno-tm-dobrobut-2-kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "430" :  { 
             "category" : "Борошно, висівки",
@@ -6899,7 +6899,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/boroshno-tm-dobrobut-5-kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "431" :  { 
             "category" : "Борошно, висівки",
@@ -10993,7 +10993,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\pan-kot-miks-10kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "686" :  { 
             "category" : "Корма для тварин",
@@ -11634,7 +11634,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "0",
-            "price" : "77.9",
+            "price" : "81.9",
             "minCountUnit" : "5",
             "promotion" : "1",
             "new-label" : "1",
@@ -11817,7 +11817,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/36-vugillja-derevne-green-family-25kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "737" :  { 
             "category" : "Госп.товари",
@@ -11961,7 +11961,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/servetki-bili-lilija-30-listov.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "746" :  { 
             "category" : "Госп.товари",
@@ -12459,7 +12459,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pljashka-pet-05l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "777" :  { 
             "category" : "Тара та упаковка",
@@ -12486,7 +12486,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "0",
-            "price" : "8.5",
+            "price" : "8.8",
             "minCountUnit" : "110",
             "promotion" : "1",
             "new-label" : "1",
