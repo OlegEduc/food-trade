@@ -1,4 +1,4 @@
-// оновлено 17.08.26: 15:13:44.  Категория цены: Оптова //
+// оновлено 18.08.26: 08:55:08.  Категория цены: Оптова //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -4779,7 +4779,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tri-slona\\tri-slona-chornij-bergamot.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "299" :  { 
             "category" : "Чаї",
@@ -8534,12 +8534,12 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "0",
-            "price" : "29.9",
+            "price" : "32.9",
             "minCountUnit" : "5",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-ribnye\\437-kilka-u-tomsousi-tm-darinka-240g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "533" :  { 
             "category" : "Консерви рибні",
@@ -8646,12 +8646,12 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "0",
-            "price" : "39.9",
+            "price" : "53.9",
             "minCountUnit" : "24",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-ribnye\\4349-oseledec-u-tomsousi-tm-darinka-240g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "540" :  { 
             "category" : "Консерви рибні",
@@ -8678,12 +8678,12 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "0",
-            "price" : "25.9",
+            "price" : "30.9",
             "minCountUnit" : "36",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-ribnye\\pashtet-shprotnij-darinka-160g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "542" :  { 
             "category" : "Консерви рибні",
@@ -8870,12 +8870,12 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "0",
-            "price" : "49.9",
+            "price" : "53.9",
             "minCountUnit" : "5",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-ribnye\\4443-hek-obsm-tomat-sousi-darinka-240g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "554" :  { 
             "category" : "Консерви рибні",
@@ -8902,7 +8902,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "0",
-            "price" : "49.9",
+            "price" : "54.9",
             "minCountUnit" : "12",
             "promotion" : "1",
             "new-label" : "1",
