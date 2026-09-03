@@ -1,4 +1,4 @@
-// оновлено 03.09.26: 14:20:14.  Категория цены: Оптова //
+// оновлено 03.09.26: 21:09:59.  Категория цены: Оптова //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -11908,12 +11908,12 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "5.9",
-            "price" : "5.9",
+            "price" : "4.5",
             "minCountUnit" : "20",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/servetki-vologi-15-sht.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "743" :  { 
             "category" : "Госп.товари",
@@ -12299,7 +12299,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4302-paket-fasuvalnij-green-line-18x35.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "767" :  { 
             "category" : "Тара та упаковка",
@@ -12507,7 +12507,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/stakan-pet-180g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "780" :  { 
             "category" : "Тара та упаковка",
@@ -12607,4 +12607,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['596', ]
+export const arrayPlannedArrival = ['596', '3026', '1142', '4268', '4269', '3027', '844', '1686', '4070', ]
