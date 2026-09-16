@@ -1,4 +1,4 @@
-// оновлено 16.09.26: 13:18:19.  Категория цены: Оптова //
+// оновлено 16.09.26: 17:48:18.  Категория цены: Оптова //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -47,7 +47,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/olija-bokarev-neraf-5-l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "4" :  { 
             "category" : "Олія",
@@ -207,7 +207,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/729-olija-tm-bokarjev-3l-rafinovana.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "14" :  { 
             "category" : "Олія",
@@ -223,7 +223,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/olyja-bokarev-raf-5l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "15" :  { 
             "category" : "Олія",
@@ -5855,7 +5855,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3229-mak-nachin-slastena-500.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "366" :  { 
             "category" : "Бакалія",
@@ -6159,7 +6159,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sil-u-mishkah-10-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "385" :  { 
             "category" : "Бакалія",
@@ -11684,7 +11684,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "10.5",
-            "price" : "11.9",
+            "price" : "12.2",
             "minCountUnit" : "48",
             "promotion" : "1",
             "new-label" : "1",
@@ -11956,7 +11956,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "7.5",
-            "price" : "7.5",
+            "price" : "8.5",
             "minCountUnit" : "100",
             "promotion" : "1",
             "new-label" : "1",
