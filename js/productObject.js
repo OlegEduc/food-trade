@@ -1,4 +1,4 @@
-// оновлено 15.09.26: 17:09:08.  Категория цены: Оптова //
+// оновлено 16.09.26: 13:18:19.  Категория цены: Оптова //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -47,7 +47,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/olija-bokarev-neraf-5-l.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "4" :  { 
             "category" : "Олія",
@@ -539,7 +539,7 @@ export const products = {
             "unit" : "пак.",
             "baseUnit" : "кг.",
             "coefficient" : "1",
-            "previousPrice" : "749.9",
+            "previousPrice" : "719.9",
             "price" : "719.9",
             "minCountUnit" : "1",
             "promotion" : "1",
@@ -3399,7 +3399,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-mjasnye\\4384-tushonka-turistichna-jalovichina--525-gr.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "213" :  { 
             "category" : "Консерви м'ясні",
@@ -3897,7 +3897,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nescafe\\kava-neskafe-klasik-stik-2gr.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "244" :  { 
             "category" : "Кава",
@@ -5687,7 +5687,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "13.95",
+            "previousPrice" : "14.5",
             "price" : "14.5",
             "minCountUnit" : "10",
             "promotion" : "1",
@@ -5871,7 +5871,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3959-octova-kislota-tm-baba-galja-9-pet-1l.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "367" :  { 
             "category" : "Бакалія",
@@ -6819,7 +6819,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/muka-vizhvostov-25kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "426" :  { 
             "category" : "Борошно, висівки",
@@ -7077,7 +7077,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/goroh-kolotij.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "442" :  { 
             "category" : "Крупи",
@@ -7103,7 +7103,7 @@ export const products = {
             "unit" : "кг.",
             "baseUnit" : "кг.",
             "coefficient" : "1",
-            "previousPrice" : "59.9",
+            "previousPrice" : "62.9",
             "price" : "68.9",
             "minCountUnit" : "100",
             "promotion" : "1",
@@ -7151,7 +7151,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "59.5",
+            "previousPrice" : "62.9",
             "price" : "62.9",
             "minCountUnit" : "10",
             "promotion" : "1",
@@ -7173,7 +7173,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/grechana-krupa-fas1-kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "448" :  { 
             "category" : "Крупи",
@@ -7221,7 +7221,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krupa-kukurudzjana-20kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "451" :  { 
             "category" : "Крупи",
@@ -7461,7 +7461,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ris-dovgozernij-1-kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "466" :  { 
             "category" : "Крупи",
@@ -7541,7 +7541,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ris-kruglij-1-kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "471" :  { 
             "category" : "Крупи",
@@ -7557,7 +7557,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "472" :  { 
             "category" : "Крупи",
@@ -8409,7 +8409,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/olivki-santarrita-bez-kistochki-280g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
 	},
 	"Konservi-ribni" : {
@@ -9005,7 +9005,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/voda-mirnenska-15l-silno-gazovana-avalon.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "562" :  { 
             "category" : "Вода, соки, напої",
@@ -9405,7 +9405,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\napij-mirnens'ka-05-l-kola-1.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "587" :  { 
             "category" : "Вода, соки, напої",
@@ -9421,7 +9421,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\napij-mirnens'ka-05-l-limonad-1.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "588" :  { 
             "category" : "Вода, соки, напої",
@@ -9789,7 +9789,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-sprajt-175-l.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "611" :  { 
             "category" : "Вода, соки, напої",
@@ -11315,7 +11315,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/solomka-vlvdka.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "706" :  { 
             "category" : "Снеки",
@@ -12133,7 +12133,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "3.3",
+            "previousPrice" : "4.3",
             "price" : "4.3",
             "minCountUnit" : "500",
             "promotion" : "1",
@@ -12251,13 +12251,13 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/1436-krishka-zakatochna-hutorjanka.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "764" :  { 
             "category" : "Тара та упаковка",
             "productCode" : "3566",
             "productFullName" : "Мішок п\/п 10 кг",
-            "productName" : "Мішок п\/п 10 кг",
+            "productName" : "Мішок п\/п 10 кг 55 х 40",
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
@@ -12293,7 +12293,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "3.9",
+            "previousPrice" : "4.9",
             "price" : "4.9",
             "minCountUnit" : "100",
             "promotion" : "1",
