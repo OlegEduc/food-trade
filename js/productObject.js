@@ -1,4 +1,4 @@
-// оновлено 01.10.26: 18:07:32.  Категория цены: Оптова //
+// оновлено 02.10.26: 18:27:06.  Категория цены: Оптова //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -105,7 +105,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "159.9",
+            "previousPrice" : "165.9",
             "price" : "165.9",
             "minCountUnit" : "10",
             "promotion" : "1",
@@ -137,7 +137,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "154.9",
+            "previousPrice" : "165.9",
             "price" : "165.9",
             "minCountUnit" : "3",
             "promotion" : "1",
@@ -787,7 +787,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-rollo-prjazh-mol.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "50" :  { 
             "category" : "Кондитерські вироби",
@@ -3367,7 +3367,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-mjasnye\\4455-tushkovana-svinina-tm-nektar-sb-460g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "211" :  { 
             "category" : "Консерви м'ясні",
@@ -6304,7 +6304,7 @@ export const products = {
             "minCountUnit" : "36",
             "promotion" : "1",
             "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kmf-jaroslav\\makvir-tm-jaroslav-kmf-vermishel-dovga-tverdi-sorti-05-kg.jpg",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kmf-jaroslav\\4186-makvir-jaroslav-vermishel-dovga-tverdii-05kg.jpg",
             "inStock" : "0",
             },
         "394" :  { 
@@ -9304,12 +9304,12 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "28.5",
-            "price" : "28.5",
+            "price" : "31.9",
             "minCountUnit" : "24",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-pepsi-kola-033-l-zhb.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "581" :  { 
             "category" : "Вода, соки, напої",
@@ -9320,12 +9320,12 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "31.9",
-            "price" : "31.9",
+            "price" : "36.9",
             "minCountUnit" : "12",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-pepsi-kola-05-l.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "582" :  { 
             "category" : "Вода, соки, напої",
@@ -9897,7 +9897,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "37.9",
+            "previousPrice" : "39.5",
             "price" : "39.5",
             "minCountUnit" : "1",
             "promotion" : "1",
@@ -11122,7 +11122,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "215.8",
-            "price" : "215.8",
+            "price" : "189.9",
             "minCountUnit" : "5",
             "promotion" : "1",
             "new-label" : "1",
