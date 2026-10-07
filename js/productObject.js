@@ -1,4 +1,4 @@
-// оновлено 06.10.26: 16:15:32.  Категория цены: Оптова //
+// оновлено 07.10.26: 15:38:12.  Категория цены: Оптова //
 export const products = {
 	"Olija" : {
         "1" :  { 
@@ -1358,7 +1358,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "15.5",
-            "price" : "15.5",
+            "price" : "16.9",
             "minCountUnit" : "5",
             "promotion" : "1",
             "new-label" : "1",
@@ -1395,7 +1395,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-zhadana-200-g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "88" :  { 
             "category" : "Кондитерські вироби",
@@ -3833,7 +3833,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nescafe\\kava-neskafe-klasik-stik-2gr.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "240" :  { 
             "category" : "Кава",
@@ -4201,7 +4201,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kakao-kao-kao.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "263" :  { 
             "category" : "Кава",
@@ -5117,7 +5117,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/list-lavrovij-50g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "320" :  { 
             "category" : "Приправи та спеції",
@@ -5213,7 +5213,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4269-perec-chornij-goroshkom-tm-mrija-20g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "326" :  { 
             "category" : "Приправи та спеції",
@@ -5501,7 +5501,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4242-priprava-tm-torchin-10-ovochiv-250-gr.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "344" :  { 
             "category" : "Приправи та спеції",
@@ -6257,7 +6257,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kmf-jaroslav\\4263-makaronni-virobi-tm-jaroslav-10-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "391" :  { 
             "category" : "Макаронні вироби",
@@ -7029,7 +7029,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krupa-kukurudzjana-25-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "439" :  { 
             "category" : "Крупи",
@@ -7216,7 +7216,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "59.9",
-            "price" : "59.9",
+            "price" : "35.9",
             "minCountUnit" : "10",
             "promotion" : "1",
             "new-label" : "1",
@@ -8989,7 +8989,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-coca-cola-175-l.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "561" :  { 
             "category" : "Вода, соки, напої",
@@ -10749,13 +10749,13 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "15.9",
+            "previousPrice" : "20.9",
             "price" : "20.9",
             "minCountUnit" : "20",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2042-nasinnja-tm-sonjah-100g..jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "671" :  { 
             "category" : "Снеки",
@@ -10963,7 +10963,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/1933-chipsi-zolotisti-miks-75-g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "684" :  { 
             "category" : "Снеки",
@@ -11013,7 +11013,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vermishel'-golden-dragon-miks.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "687" :  { 
             "category" : "Швидкого приготування",
@@ -11250,7 +11250,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "83.9",
-            "price" : "83.9",
+            "price" : "84.9",
             "minCountUnit" : "5",
             "promotion" : "1",
             "new-label" : "1",
@@ -11755,7 +11755,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krishka-polietilenova-kolorova.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "733" :  { 
             "category" : "Тара та упаковка",
@@ -11835,7 +11835,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krishka-tvist-blok-20-sht-velika.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "738" :  { 
             "category" : "Тара та упаковка",
@@ -11963,7 +11963,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4302-paket-fasuvalnij-green-line-18x35.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "746" :  { 
             "category" : "Тара та упаковка",
