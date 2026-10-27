@@ -1,4 +1,4 @@
-// оновлено 26.10.26: 16:29:00.  Категория цены: Оптова //
+// оновлено 27.10.26: 11:26:35.  Категория цены: Оптова //
 export const products = {
 	"focusProduct" : {
         "1-173"  :  { 
@@ -1391,7 +1391,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "11.9",
+            "previousPrice" : "12.4",
             "price" : "12.4",
             "minCountUnit" : "5",
             "promotion" : "1",
@@ -1423,7 +1423,7 @@ export const products = {
             "unit" : "шт.",
             "baseUnit" : "шт.",
             "coefficient" : "1",
-            "previousPrice" : "13.5",
+            "previousPrice" : "13.4",
             "price" : "13.4",
             "minCountUnit" : "5",
             "promotion" : "1",
@@ -5295,7 +5295,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/list-lavrovij-50g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "330" :  { 
             "category" : "Приправи та спеції",
@@ -5727,7 +5727,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pidprijemtvo-rada\\rozpushuvach-20g-iva-pak.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "357" :  { 
             "category" : "Приправи та спеції",
@@ -5873,7 +5873,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/makova-nachinka-zolotaja-milja-05-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "366" :  { 
             "category" : "Бакалія",
@@ -11411,7 +11411,7 @@ export const products = {
             "unit" : "кг.",
             "baseUnit" : "кг.",
             "coefficient" : "1",
-            "previousPrice" : "189.9",
+            "previousPrice" : "179.9",
             "price" : "179.9",
             "minCountUnit" : "5",
             "promotion" : "1",
@@ -11606,7 +11606,7 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "14.9",
-            "price" : "14.9",
+            "price" : "16.9",
             "minCountUnit" : "24",
             "promotion" : "1",
             "new-label" : "1",
@@ -12545,4 +12545,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['1005', '1011', '1012', '1312', '1453', '1813', '3758', '3759', '4113', '4254', ]
+export const arrayPlannedArrival = ['1005', '1011', '1012', '1312', '1453', '1813', '3758', '3759', '4113', '4254', '4294', ]
