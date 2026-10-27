@@ -339,7 +339,7 @@ input[type="checkbox"]:checked+label::after {
   max-height: 100%;
   max-width: 100%;
   justify-content: center;
-  text-align: center;  
+  text-align: center;
 }
 
 .item-img-wrapper img {
@@ -378,7 +378,7 @@ input[type="checkbox"]:checked+label::after {
   color: rgb(57, 57, 57);
   overflow-y: auto;
   line-height: 1;
-
+  width: 100%;
 }
 
 .code-gods {
@@ -456,7 +456,7 @@ input[type="checkbox"]:checked+label::after {
 .min_sum__wrapper {
   border-radius: 0;
   padding: 5px 0 5px 0;
-  margin:0;
+  margin: 0;
   border: 1px solid #4caf50;
   color: #39853b;
   font-weight: 600;
