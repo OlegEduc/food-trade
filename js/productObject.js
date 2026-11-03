@@ -1,4 +1,4 @@
-// оновлено 03.11.26: 13:15:40.  Категория цены: Оптова //
+// оновлено 03.11.26: 14:57:33.  Категория цены: Оптова //
 export const products = {
 	"focusProduct" : {
         "1-173"  :  { 
@@ -1440,12 +1440,12 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "27.9",
-            "price" : "27.9",
+            "price" : "24.9",
             "minCountUnit" : "14",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-zhadana-200-g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "89" :  { 
             "category" : "Кондитерські вироби",
@@ -1568,7 +1568,7 @@ export const products = {
             "baseUnit" : "кг.",
             "coefficient" : "1",
             "previousPrice" : "120",
-            "price" : "120",
+            "price" : "119.9",
             "minCountUnit" : "5",
             "promotion" : "1",
             "new-label" : "1",
@@ -1600,12 +1600,12 @@ export const products = {
             "baseUnit" : "шт.",
             "coefficient" : "1",
             "previousPrice" : "112.5",
-            "price" : "112.5",
+            "price" : "111.9",
             "minCountUnit" : "5",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-zhadana-900g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "99" :  { 
             "category" : "Кондитерські вироби",
@@ -4365,7 +4365,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tri-slona\\chaj-tri-slona-karkade-70-g-mu.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "271" :  { 
             "category" : "Чаї",
@@ -4397,7 +4397,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tri-slona\\3815-chaj-tm-tri-sloni-zelenij-polunicja-kivi-20-13g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "273" :  { 
             "category" : "Чаї",
@@ -12193,4 +12193,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['1005', '1011', '1012', '1312', '1453', '1813', '2798', '2799', '2879', '3758', '3759', '4113', '4254', ]
+export const arrayPlannedArrival = ['1005', '1011', '1012', '1312', '1453', '1813', '2798', '2799', '2879', '3069', '3339', '3499', '3519', '3520', '3521', '353', '3532', '3533', '3758', '3759', '3845', '4047', '4113', '4254', '4308', '4312', '4331', '4362', '4382', '4464', '4465', '4466', ]
